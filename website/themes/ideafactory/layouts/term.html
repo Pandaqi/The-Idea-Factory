@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<div>
+{{ .Content }}
+</div>
+    
+<main>
+    {{ $key := .Data.Plural }}
+    {{ $value := .Title }}
+    <p>You searched for all products with property <strong>&ldquo;{{ $key }}&rdquo;</strong> set to <strong>&ldquo;{{ $value }}&rdquo;</strong>.</p>
+</main>
+
+{{ partial "views/page-list" (dict "context" . "pages" .RegularPages)}}
+{{ end }}

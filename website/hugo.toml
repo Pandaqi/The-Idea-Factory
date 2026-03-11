@@ -1,0 +1,14 @@
+baseURL = "https://factoryofideas.com/"
+languageCode = "en-us"
+title = "Factory of Ideas"
+
+theme = "ideafactory"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  categories = "categories"
+  tags = "tags"
+  language = "language"
+  progress = "progress"

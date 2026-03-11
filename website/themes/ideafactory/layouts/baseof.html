@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head" . }}
+<body>
+    {{ partialCached "navigation/header" . }}
+    <main class="page margin-m">
+        {{ block "main" . }} {{ end }}
+    </main>
+    {{ partialCached "navigation/footer" . }}
+    {{ partialCached "foot" . }}
+</body>
+</html>

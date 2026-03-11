@@ -1,0 +1,23 @@
+# hugo stuff
+_gen/
+public/
+
+
+# the usual folders I use for temp stuff
+inspiration/
+ai/
+
+# big file types we don't need to back up
+*.zip
+*.7z
+*.pdf
+*.mp3
+*.m4a
+*.clip
+*.ttf
+*.otf
+*.kra
+
+# temp files for open files
+*.afdesign~lock~
+*.af~lock~

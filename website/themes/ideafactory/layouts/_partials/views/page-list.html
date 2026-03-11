@@ -1,0 +1,7 @@
+{{ $pages := .pages }}
+
+<ul>
+{{ range $pages }}
+    <li>{{ .Title }}</li>
+{{ end }}
+</ul>
