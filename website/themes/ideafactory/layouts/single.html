@@ -1,13 +1,13 @@
 {{ define "main" }}
 
 <div class="thought-bubble-green" style="margin-top: 0; margin-bottom: 0;">
-    <h1 class="text-center heading-large text-color-white">{{ .Title }}</h1>
+    <h1 class="text-center heading-large text-color-white" data-pagefind-meta="title">{{ .Title }}</h1>
     {{ partial "views/metadata-list" . }}
 </div>
 <div class="double-view">
     <div class="thought-bubble maximize-width">
         <div class="limit-width center-block">
-            <article>
+            <article data-pagefind-body>
                 {{ .Content }}
             </article>
         </div>

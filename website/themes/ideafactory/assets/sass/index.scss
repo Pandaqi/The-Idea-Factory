@@ -99,6 +99,14 @@ $color-green-dark: #929C7B;
         margin-top: 0.5em;
     }
 
+    img
+    {
+        max-width: 100%;
+        width: 100%;
+        height: auto;
+        max-height: 100%;
+    }
+
     .margin-none
     {
         margin: 0;
@@ -108,6 +116,11 @@ $color-green-dark: #929C7B;
     {
         font-size: 3.2em;
         margin: 0;
+
+        @media all and (max-width: 500px)
+        {
+            font-size: 2em;
+        }
     }
 
     .heading-medium
@@ -398,7 +411,7 @@ $color-green-dark: #929C7B;
         }
     }
 
-    .underline_hover:hover
+    .hover_underline:hover
     {
         text-decoration: underline;
         text-decoration-thickness: 2px;

@@ -6,6 +6,7 @@
     <p>You searched for all ideas grouped by property <strong>&ldquo;{{ $key }}&rdquo;</strong>.</p>
     <p>Displaying latest 10 results per value. Click the heading for the full list of products for that specific value.</p>
 </main>
+
 {{ range $k, $v := .Data.Terms }}
     <h2><a class="underline" href="/{{ $key }}/{{ $k }}">{{ $k }}</a></h2>
     {{ partial "views/page-list" (dict "context" $context "pages" ($v | first 10)) }}

@@ -11,7 +11,12 @@
                 {{ $value := . }}
                 {{ $url := printf "/%s/%s/" $key (string $value) }}
                 {{ if eq $key "progress" }}{{ $value = index $progress_names $value }}{{ end }}
-                <li><a href="{{ $url }}" class="remove-link-styles font-accent text-color-mid underline_hover">{{ $key }}: {{ $value }}</a></li>
+                <li>
+                        <a href="{{ $url }}" class="remove-link-styles font-accent text-color-mid hover_underline">
+                        {{ $key }}: 
+                        <span data-pagefind-filter="{{ $key }}" data-pagefind-meta="{{ $key }}">{{ $value }}</span>
+                    </a>
+                </li>
             {{ end }}
         {{ end }}
     </ul>

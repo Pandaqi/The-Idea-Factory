@@ -89,3 +89,15 @@ if(cacheNode)
     }
 }
 
+// SEARCHING
+const searchInputs = Array.from(document.getElementsByClassName("search-input")) as HTMLInputElement[];
+for(const inp of searchInputs)
+{
+    inp.addEventListener("keyup", ({key}) => 
+    {
+        if(key !== "Enter") { return; }
+        const value = inp.value ?? "";
+        if(!value) { return; }
+        location.href = `/search/?query=${ value }`
+    })
+}

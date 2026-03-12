@@ -1,0 +1,30 @@
+{{ $paginator := .paginator }}
+{{ $has_prev := $paginator.HasPrev }}
+{{ $has_next := $paginator.HasNext }}
+{{ $something_to_show := or $has_prev $has_next }}
+{{ if $something_to_show }}
+<nav class="pagination text-color-gray">
+	<h2 class="text-center text-color-black">Navigation</h2>
+	<ul class="flex-center remove-list-styles font-heading font-size-small">
+		{{ if $has_prev }}
+			<li><a class="pagination-item-first remove-link-styles hover_underline" href="{{ $paginator.First.URL }}"><span>&lt;&lt; First Page</span></a></li>
+			<li><a class="pagination-item-prev remove-link-styles hover_underline" href="{{ $paginator.Prev.URL }}"><span>&lt; Previous Page</span></a></li>
+		{{ else }}
+			<li><span>No previous page :(</span></li>
+		{{ end }}
+
+		<li>
+			<span>{{ $paginator.PageNumber }}</span>
+			<span> of </span>
+			<span>{{ $paginator.TotalPages }}</span>
+		</li>
+		
+		{{ if $has_next }}
+			<li><a class="pagination-item-next remove-link-styles hover_underline" href="{{ $paginator.Next.URL }}"><span>Next Page &gt;</span></a></li>
+			<li><a class="pagination-item-last remove-link-styles hover_underline" href="{{ $paginator.Last.URL }}"><span>Last Page &gt;&gt;</span></a></li>
+		{{ else }}
+			<li><span>No next page :(</span></li>
+		{{ end }}
+	</ul>
+</nav>
+{{ end }}

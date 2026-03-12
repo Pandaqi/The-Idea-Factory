@@ -2,8 +2,7 @@
 
 ## Website Design
 
-* Make summary lists PAGED? => Move `.Paginate` out of page-list and into calling partial, so we can add same pages to pagination?
-* Add Pagefind functionality + search page
+* Add Pagefind search page
   * Search bar on homepage just redirects there, reading arguments, like with Saga of Life
 * HOME PAGE
   * Add easy way to visit all "progress" levels
@@ -11,6 +10,7 @@
 
 
 LATER:
+* Clean up CSS a bit
 * A favicon
 * A header image/design niceties
   * Add a little organic logo at the top to round out header/make nicer page start
@@ -23,7 +23,8 @@ LATER:
 * Add all the other board games
 * Add all video games (including the separate mobile games list and such)
 * Think about what to do with music + musicals
-* Think about what to do with the other categories
+* Think about what to do with the other categories 
+  * For example, I also have a massive list of (logic) puzzle ideas. What to do with _that_?
 
 ## Content Fix
 

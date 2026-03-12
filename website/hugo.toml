@@ -4,6 +4,7 @@ title = "Factory of Ideas"
 
 summaryLength = 10
 theme = "ideafactory"
+ignoreFiles = [ "\\.zip$", "\\.afdesign$", "\\.af$", "\\.pdf$" ]
 
 [markup.goldmark.renderer]
   unsafe = true

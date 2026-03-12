@@ -6,9 +6,9 @@ title: "Home Hub"
 
 Looking for inspiration? Something to unblock your creative juices? You've come to the right place! 
 
-Search our massive database of ideas using keywords.
+Search the massive database of ideas using keywords.
 
-<input type="text" placeholder="... search ..." style="font-size: 1.5em;">
+<input type="text" placeholder="... search ..." style="font-size: 1.5em;" class="search-input">
 
 Or click on one of the main categories.
 

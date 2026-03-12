@@ -11,7 +11,7 @@
                 {{ $value := . }}
                 {{ $url := printf "/%s/%s/" $key (string $value) }}
                 {{ if eq $key "progress" }}{{ $value = index $progress_names $value }}{{ end }}
-                <li><a href="{{ $url }}" class="remove-link-styles underline_hover">{{ $value }}</a></li>
+                <li><a href="{{ $url }}" class="remove-link-styles hover_underline">{{ $value }}</a></li>
             {{ end }}
         {{ end }}
     </ul>

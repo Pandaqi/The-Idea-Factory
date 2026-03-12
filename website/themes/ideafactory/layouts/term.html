@@ -10,5 +10,10 @@
     <p>You searched for all products with property <strong>&ldquo;{{ $key }}&rdquo;</strong> set to <strong>&ldquo;{{ $value }}&rdquo;</strong>.</p>
 </main>
 
-{{ partial "views/page-list" (dict "context" . "pages" .RegularPages)}}
+{{ $max_results := 20 }}
+{{ $paginator := (.Paginate .RegularPages $max_results) }}
+{{ $pages := $paginator.Pages }}
+
+{{ partial "views/page-list" (dict "context" . "pages" $pages) }}
+{{ partial "navigation/pagination" (dict "paginator" $paginator) }}
 {{ end }}
