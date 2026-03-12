@@ -1,8 +1,15 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
-<div>
-    {{ .Content }}
+<div class="thought-bubble">
+    <h1 class="text-center heading-large">{{ .Title }}</h1>
+    {{ partial "views/metadata-list" . }}
+</div>
+<div class="thought-bubble">
+    <div class="limit-width center-block">
+        <div>
+            {{ .Content }}
+        </div>
+    </div>
 </div>
 
 {{ end }}

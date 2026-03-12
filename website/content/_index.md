@@ -1,8 +1,8 @@
 ---
-title: "Factory of Ideas"
+title: "Home Hub"
 ---
 
-## Looking For Ideas?
+{{% blocks/thought-bubble heading="Looking For Ideas?" %}}
 
 Looking for inspiration? Something to unblock your creative juices? You've come to the right place! 
 
@@ -13,8 +13,8 @@ Search our massive database of ideas using keywords.
 Or click on one of the main categories.
 
 * [Stories & Writing](/categories/books/)
-* [Board Games](/tags/board-games/)
-* [Video Games](/tags/video-games/)
+* [Board Games](/categories/board-games/)
+* [Video Games](/categories/video-games/)
 * [Music & Songwriting](/categories/music/)
 * [Plays & Musicals](/categories/theatre/)
 * [Tools & Software](/categories/services/)
@@ -24,27 +24,31 @@ Or look at the randomly selected ideas below.
 
 @TODO: My usual trick with HTML caching and then randomly loading from that
 
+{{% /blocks/thought-bubble %}}
 
-
-## The Factory of Ideas
+{{% blocks/thought-bubble heading="Factory of Ideas" %}}
 
 This website contains **ideas**! Some small, some big. Some just a single sentence, some many pages of detailed notes.
 
-All ideas come from a **human**. There is no AI here, no automated process, no random generation. All ideas are concepts that a human wishes would exist, but they aren't able to execute on it themselves. That's why they share it with the world, for free, hoping it gets made.
+All ideas come from a **human**. There is no AI here, no automated process, no random generation. All ideas are concepts that a human wishes would exist, but don't execute themselves for whatever reason. That's why they share it with the world, for free, hoping it gets made.
 
 You're free to **browse and use these ideas** however you like, for both personal and commercial projects. You **don't** need to ask permission or pay royalties, although credits or donations are always nice.
 
-## The Idea Master
+{{% /blocks/thought-bubble %}}
+
+{{% blocks/thought-bubble heading="The Idea Master" %}}
 
 This website was created by me, **Tiamo Pastoor**. My brain is awesome at coming up with ideas. I have hundreds of them a day, spread across many creative fields, and I long ago forged the habit to take each one seriously and write them down neatly.
 
 Unfortunately, I only have limited energy and time. As the years passed, I realized I simply _wanted these things to exist_ ... but I would never be able to make all of them myself (for various reasons besides time). I looked at my hard drive and saw thousands of very promising ideas. Let me be clear on that: I'm not giving away my "worst ideas", I'm sharing basically _all_ my ideas because I can only execute a handful of them myself.
 
-At the same time, nearly every day, I'd discover others _struggling_ to get ideas. I'd hear someone say they "want to write a book but can't find any (good) ideas". Or I'd stumble upon an online post saying "I want to get into game development, but all my ideas are too big, does anyone have a tiny idea for me?"
+At the same time, nearly every day, I discover others _struggling_ to get ideas. I hear someone say they "want to write a book but can't find any (good) ideas". Or I stumble upon an online post asking "I want to get into game development, but all my ideas are too big, does anyone have a tiny idea for me?"
 
 Hopefully, the _Factory of Ideas_ can bridge that gap. I share what I do best---come up with and specify ideas---and others can take them and execute.
 
-## Frequently Asked Questions
+{{% /blocks/thought-bubble %}}
+
+{{% blocks/thought-bubble heading="Frequently Asked Questions" %}}
 
 **Can I get in trouble with copyright / plagiarism?** Nope. _Ideas_ can't be copyrighted, only _execution_ can. Don't let anyone, person or company, try to tell you otherwise. I've made sure to clearly state that I claim no ownership whatsoever on what you decide to make using one of these ideas.
 
@@ -62,7 +66,7 @@ In any case, the ideas are just **text**. You can also download the raw Markdown
 
 **Pff! Real artists get their own ideas! This site is an abomination!** That's not a question. But yes, this is a common sentiment, mostly from young people who have barely any experience creating or finishing creative projects. _Actual_ real artists know that art is 99% getting inspired by other art. As they say: great artists steal.
 
-Every single project you make is just a mixture of ideas and concepts you've stolen from previous experiences. It is not "wrong" to buy an asset pack and use it for your game, it is absolutely the right decision if you don't have the skill/budget to do all that art yourself. It is not "wrong" to tell yourself you're going to write a book like Harry Potter, just with some tweaks to make it better in your eyes. In fact, Harry Potter itself is basically a tweaked version of fantasy novels a decade earlier.
+Every single project you make is just a mixture of ideas and concepts you've stolen from previous experiences. It is not "wrong" to buy an asset pack and use it for your game, it is absolutely the right decision if you don't have the skill/budget to do all that art yourself. It is not "wrong" to tell yourself you're going to write a book like Harry Potter, just with some tweaks that you like more. In fact, Harry Potter itself is basically a tweaked version of fantasy novels released a decade earlier.
 
 I propose we all simply do what we're good at. I am good at coming up with ideas. Others are good at taking ideas and executing them well. I am good at collaborating, building, inventing, experimenting, and sharing. Others are good at marketing and actually turning an idea into a commercially profitable product.
 
@@ -76,4 +80,8 @@ Also, I fully agree that many ideas on here are kind of garbage. That's the whol
 
 **Where do YOU get your ideas then?** I've found this to be a mixture of two things. One is that my brain is just naturally in creative-idea-generation-mode all the time, which is mostly genetics. The other is that I've always consciously surrounded myself with a large variety of possible sources, inputs, voices, art forms, etcetera. (Example: I am not subscribed to any specific channel or website and I don't have a favorite anything. I simply look up different sources myself. I never get stuck in a highly specific algorithm.)
 
-You can only connect concepts in your mind into a new idea _if_ you regularly discover new concepts and perspectives. If your daily environment does not disregard most things at a glance, and you play around with whatever comes your way. It's a habit, mind-set, and environment you can foster.
+You can only connect concepts in your mind into a new idea _if_ you regularly discover new concepts and perspectives. If your daily environment does not disregard most things at a glance, and you play around with whatever comes your way. It's a habit, mind-set, and environment you can foster!
+
+I also made this website (just a little bit) to show all neurotypical people just how busy the mind of a hyperactive person can be. The content of this website is only a fraction of a fraction of the ideas racing through my brain every day. Yet when I showed it to neurotypical people, they were immediately overwhelmed by the sheer number of entries. They could not understand how or why you'd get so many ideas, but it seemed like they finally understood a little better how it feels.
+
+{{% /blocks/thought-bubble %}}

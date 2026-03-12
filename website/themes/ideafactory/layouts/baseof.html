@@ -3,7 +3,7 @@
 {{ partial "head" . }}
 <body>
     {{ partialCached "navigation/header" . }}
-    <main class="page margin-m">
+    <main>
         {{ block "main" . }} {{ end }}
     </main>
     {{ partialCached "navigation/footer" . }}

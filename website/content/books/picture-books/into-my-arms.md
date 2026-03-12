@@ -1,5 +1,5 @@
 ---
-title: "Into My Arms"
+title: "Val in mijn armen"
 categories: ["books"]
 tags: ["picture-books"]
 language: "nl"
@@ -16,7 +16,7 @@ De oplossing? Een **interactief** **prentenboek** met ongeveer hetzelfde verhaal
 
 Over afmetingen: [www.aliceink.com/childrens-book-illustration-size/](http://www.aliceink.com/childrens-book-illustration-size/)
 
-**Wat is het idee?**
+## Wat is het idee?
 
 Aan het begin van het boek vraag ik de lezer om een vel papier te pakken en twee "geliefden" te tekenen. Natuurlijk staan er al plaatjes van mijn cubitos, maar in principe mag je doen wat je wilt.
 
@@ -24,7 +24,7 @@ Vervolgens zeg ik **dit boek is niet alleen een verhaal ... je moet zelf ook mee
 
 Dan begint het boek echt. Het vertelt het verhaal (van de heks, en de geliefden, en de vloek), terwijl je ondertussen puzzels moet oplossen die steeds uitdagender worden.
 
-**Het verhaal**
+## Het verhaal
 
 Verhaal begint met (heel kort) de hoofdpersonen die super lief zijn voor elkaar, overduidelijk elkaar leuk vinden, maar uiteindelijk ... weer alleen naar huis gaan.
 
@@ -40,7 +40,7 @@ En de enige manier om dat te doen? Juist ja: door in elkaars armen te vallen.
 
 (Ik heb het gevoel dat die heks ook iets van een grappige persoonlijkheid/backstory moet hebben. En dat het nummer *Into My Arms* nog meer van pas gaat komen ...)
 
-**Hoe werken puzzels?**
+## Hoe werken puzzels?
 
 Een puzzel is niets meer dan een bepaalde kaart/tekening. Meestal zullen deze op groot formaat zijn: twee bladzijdes naast elkaar, helemaal ingenomen.
 
@@ -48,7 +48,9 @@ Je bekijkt kaarten altijd vanaf de **zijkant**. (De puzzels zijn dus 2D, niet 3D
 
 Je plaatst simpelweg je twee **geliefden** (zelf gemaakt en uitgeknipt) op de juiste posities en het oplossen begint!
 
-**Hoe win je?** Eén van de geliefden moet van bovenaf in de armen van de ander vallen.
+## Hoe win je? 
+
+Eén van de geliefden moet van bovenaf in de armen van de ander vallen.
 
 > Ja, dit is een versimpelde versie van het spel.
 >
@@ -56,7 +58,9 @@ Je plaatst simpelweg je twee **geliefden** (zelf gemaakt en uitgeknipt) op de ju
 >
 > Je moet wel nog steeds een afstand van minstens één blokje hebben voordat je valt. (Want het kunnen schuiven/sleuren met het andere poppetje blijft een leuk mechanisme.)
 
-**Wat krijg je als je wint?** Dan mag je verder lezen :p
+## Wat krijg je als je wint?
+
+Dan mag je verder lezen :p
 
 > Misschien is het leuker als je écht een beloning krijgt. Dat de juiste oplossing een *letter* of *getal* oplevert.
 >
@@ -64,7 +68,7 @@ Je plaatst simpelweg je twee **geliefden** (zelf gemaakt en uitgeknipt) op de ju
 >
 > Deze hint is een link. Ga naar de link om meer puzzels te krijgen? Om een extra appendix/bonusdeel te downloaden voor het boek?
 
-**Wat zijn de regels?**
+## Wat zijn de regels?
 
 **Absolute basisregel**: poppetjes mogen vooruit en achteruit verplaatsen, maar ze mogen elkaar nooit zien! (Uitgelegd via de vloek.)
 
@@ -84,7 +88,7 @@ Je plaatst simpelweg je twee **geliefden** (zelf gemaakt en uitgeknipt) op de ju
 >
 > Maar het moet er niet té dik bovenop liggen.
 
-**Script (Val in mijn Armen)**
+## Script (Val in mijn Armen)
 
 **Een interactief prentenboek!**
 
@@ -98,7 +102,7 @@ Als extra beloning voor het oplossen van elke puzzel, krijg je een letter of sym
 
 De regels worden ter plekke uitgelegd wanneer ze van belang zijn. Veel lees- en puzzelplezier!
 
-**Hoofdstuk 1**
+### Hoofdstuk 1
 
 **Pagina 1**
 
@@ -206,7 +210,7 @@ Tetiri Letradoet,
 
 Deze cubitos zijn VERVLOEKT!"
 
-**Hoofdstuk 2**
+### Hoofdstuk 2
 
 **Pagina 1**
 

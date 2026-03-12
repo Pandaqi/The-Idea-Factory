@@ -2,6 +2,7 @@ baseURL = "https://factoryofideas.com/"
 languageCode = "en-us"
 title = "Factory of Ideas"
 
+summaryLength = 10
 theme = "ideafactory"
 
 [markup.goldmark.renderer]

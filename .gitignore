@@ -17,6 +17,7 @@ ai/
 *.ttf
 *.otf
 *.kra
+*.indd
 
 # temp files for open files
 *.afdesign~lock~

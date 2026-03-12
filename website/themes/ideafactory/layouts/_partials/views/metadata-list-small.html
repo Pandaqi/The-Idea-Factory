@@ -1,0 +1,16 @@
+{{ $metadata := slice "categories" "tags" "language" }}
+{{ $context := . }}
+<nav>
+    <ul class="remove-list-styles flex-center font-size-small">
+        {{ range $metadata }}
+            {{ $key := . }}
+            {{ $values := index $context.Params $key }}
+            {{ if not (reflect.IsSlice $values) }}{{ $values = slice $values }}{{ end }}
+            {{ range $values }}
+                {{ $value := . }}
+                {{ $url := printf "/%s/%s/" $key (string $value) }}
+                <span class="remove-link-styles font-accent text-color-mid">{{ $value }}</span>
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

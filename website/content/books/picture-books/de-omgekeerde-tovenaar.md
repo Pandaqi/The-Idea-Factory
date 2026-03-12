@@ -82,8 +82,8 @@ Dus toen hij met zijn hoofd naar beneden sprong, sprong hij eigenlijk gewoon met
 
 ## Links
 
-[[https://www.marcwoods.nl/top-10-beste-goocheltrucs/]{.underline}](https://www.marcwoods.nl/top-10-beste-goocheltrucs/)
+<https://www.marcwoods.nl/top-10-beste-goocheltrucs/>
 
-[[https://www.alletop10lijstjes.nl/top-10-beroemde-goochelaars-en-illusionisten/]{.underline}](https://www.alletop10lijstjes.nl/top-10-beroemde-goochelaars-en-illusionisten/)
+<https://www.alletop10lijstjes.nl/top-10-beroemde-goochelaars-en-illusionisten/>
 
-[[https://historiek.net/harry-houdini-1874-1926/9989/]{.underline}](https://historiek.net/harry-houdini-1874-1926/9989/)
+<https://historiek.net/harry-houdini-1874-1926/9989/>

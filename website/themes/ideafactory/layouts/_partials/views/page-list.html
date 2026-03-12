@@ -1,7 +1,13 @@
 {{ $pages := .pages }}
 
-<ul>
+<ul class="remove-list-styles flex-center flex-equal-size">
 {{ range $pages }}
-    <li>{{ .Title }}</li>
+    <li class="thought-bubble limit-width-small">
+        <a href="{{ .RelPermalink }}" class="remove-link-styles padding-small">
+            <h2 class="margin-none text-center">{{ .Title }}</h2>
+            {{ partial "views/metadata-list-small" . }}
+            <p>{{ .Summary }}</p>
+        </a>
+    </li>
 {{ end }}
 </ul>
