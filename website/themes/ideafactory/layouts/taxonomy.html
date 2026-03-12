@@ -8,6 +8,6 @@
 </main>
 {{ range $k, $v := .Data.Terms }}
     <h2><a class="underline" href="/{{ $key }}/{{ $k }}">{{ $k }}</a></h2>
-    {{ partial "views/page-list" (dict "context" . "pages" ($v | first 10)) }}
+    {{ partial "views/page-list" (dict "context" $context "pages" ($v | first 10)) }}
 {{ end }}
 {{ end }}

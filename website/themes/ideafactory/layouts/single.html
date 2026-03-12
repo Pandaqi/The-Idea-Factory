@@ -1,15 +1,43 @@
 {{ define "main" }}
 
-<div class="thought-bubble">
-    <h1 class="text-center heading-large">{{ .Title }}</h1>
+<div class="thought-bubble-green" style="margin-top: 0; margin-bottom: 0;">
+    <h1 class="text-center heading-large text-color-white">{{ .Title }}</h1>
     {{ partial "views/metadata-list" . }}
 </div>
-<div class="thought-bubble">
-    <div class="limit-width center-block">
-        <div>
-            {{ .Content }}
+<div class="double-view">
+    <div class="thought-bubble maximize-width">
+        <div class="limit-width center-block">
+            <article>
+                {{ .Content }}
+            </article>
         </div>
     </div>
+    <aside id="sidebar" class="thought-bubble-gray require-width-small hide-width-small text-color-gray">
+        <h3 class="text-center heading-medium">Sidebar</h3>
+        {{ $has_toc := .Page.Fragments.Headings }}
+        {{ if $has_toc }}
+            <section>
+                <h4>Table of Contents</h4>
+                {{ .TableOfContents }}
+            </section>
+        {{ end }}
+        <section>
+            <h4>Use This Idea</h4>
+            <button id="button-download-file">Download As File</button>
+        </section>
+        <section>
+            <h4>Other Ideas</h4>
+            <div class="random-pages-lister"></div>
+        </section>
+        <section>
+            <h4>Metadata</h4>
+            {{ partial "views/metadata-list-sidebar" . }}
+        </section>
+    </aside>
+</div>
+
+<div id="file-contents" data-file-name="{{ .Title }} < Factory of Ideas.md" style="display:none;">
+{{ .RawContent }}
 </div>
 
 {{ end }}

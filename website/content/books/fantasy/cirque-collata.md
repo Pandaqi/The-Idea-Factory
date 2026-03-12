@@ -6,9 +6,7 @@ language: "en"
 progress: 0
 ---
 
-Name can certainly change.
-
-**Takes place in a (traveling?) circus, mostly around a (large) circus family.**
+A story that takes place in a **(traveling?) circus, tightly focused on a (large) circus family.**
 
 We follow several characters trying to find their purpose or overcome obstacles.
 
@@ -26,3 +24,5 @@ Other questions:
 IDEA: "Cirque Collata" => that old idea of mine can be extended into much more of a family feud drama thing, with kids getting injured, one kid _not_ wanting to extend the family line, someone subtly _sabotaging_ an act (which causes that other kid to be injured?)
 
 The **Circusia** font would be _amazing_ for the cover/art/headings of this book. But it's personal use free only, would need to buy a license.
+
+Name can certainly change.

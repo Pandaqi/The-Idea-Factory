@@ -2,9 +2,68 @@
 title: "He Sunk The Ship (To Kill The Captain)"
 categories: ["board-games"]
 tags: []
-language: "nl"
+language: "en"
 progress: 1
 ---
+
+In this game all players board the "twilight voyage". This voyage lasts several days, and is known for the ship being shrouded in twilight for the entire trip. That concealing mist makes it possible to do sneaky things ...
+
+Each player plays a secret agent with a mission. One must ensure that a certain character survives the voyage, while someone else must eliminate that character. One wants to steal valuable items, while someone else must protect the items.
+
+At the beginning of the game the boat is in the harbor. All players board and choose their starting location.
+
+Then the boat starts sailing. Each round (when everyone has taken their turn) the boat supposedly moves forward a bit again. The game ends when someone has completed their mission or when the boat has arrived at the final harbor.
+
+**IDEA:** The game has a day/night cycle. During the day the boat is full, things happen, doors are open. At night people sleep in their quarters, it is quieter, doors may be locked or not guarded, etc.
+
+* Each tile has two sides: the *day side* and the *night side*.
+* Each phase has slightly different rules and possibilities. This way you must think ahead and prepare for the coming phase.
+
+**IDEA:** The boat consists of a collection of loose tiles. (You can build a boat yourself, or follow a scenario.) This means the boat is "destructable"
+
+* If a bomb goes off in the cabin, parts of the ship may suddenly no longer be connected to each other. The loose parts then drift away.
+* If someone still has something to do there, they must find a lifeboat and sail back and forth in time.
+* In the same way some rooms can become impassable, people disappear, etc.
+
+**IDEA:** The title was the very first idea for this game. In other words: someone has the mission to murder the captain ... and the only remaining way is to sink the entire ship.
+
+* IN OTHER WORDS: there must be many ways to win, even very strange/special ways.
+* For example: there is an "engine room", and if you break something there, the whole ship sinks? (Or if you destroy X number of tiles from the lower deck?)
+
+**IDEA:** The game proceeds according to a fixed time clock. (At the end of each round the time moves forward one "tick" and the top X cards of the time stack are turned over.)
+
+Players can therefore---secretly---plan things. For example one can secretly place a time bomb and put the corresponding card in the time stack. A few rounds later their bomb then explodes automatically.
+
+* Is that automatically linked together? (people know which card belongs to whom?)
+* Or is it shuffled/randomized to create extra uncertainty? (Seems more fun to me.)
+
+**RELATED IDEA:** Each room in the boat has its own "token" or "card" or something. One can swap these with other tokens/cards. In that way one can place a time bomb, steal items, turn an alarm on/off, etc.
+
+* *Important:* but you do not have to do it! If you take such an action, you can also secretly put back the *same* token that was already there. Maybe it is good to *force* everyone to do X of those actions, to create extra uncertainty.
+
+The specific *missions* that one can do will determine a lot about how the game is played ... (which tiles you have, which tokens/cards, etc.)
+
+So I must also have some kind of fixed pattern for guests on the ship. Possibly there are cards with which you can for example call the captain to you, or send him another direction.
+
+**IDEA:** Is it possible to make all actions in the night "invisible"? (Possibly unless someone is in "line of sight"?)
+
+**IDEA:** The ship can change course? Shake back and forth in heavy waves/storm? And that has influence on how people walk or where items are?
+
+* Maybe certain items can slide between locations.
+* Or an electrical storm can turn systems on/off.
+* Or moving pawns are suddenly pushed in another direction.
+
+**IDEA:** Missions have "blanks" that are filled in by extra cards? So everyone gets one "mission card" and two "bonus cards" that give extra interpretation to the mission. => For example: "eliminate X and Y", and then both bonus cards show who/what you must eliminate.
+
+**IDEA:** The "time tracks" idea. Maybe some actions fast-forward time or make it go slower.
+
+* Maybe this is player-bound. A certain action causes you to be stuck at a location for X turns.
+* But maybe that is stupid, because then people have to wait and they feel restricted??
+
+Alternative titles: Titanic, The Twilight Voyage, The Voyage to Amsterdam
+
+<!---
+## Old Dutch Version
 
 In dit spel stappen alle spelers aan boord bij de "schemertocht". Deze tocht duurt enkele dagen, en staat erom bekend dat het schip de hele tocht lang in schemer gehuld is. Die verhullende mist maakt het mogelijk om stiekeme dingen te doen ...
 
@@ -61,3 +120,4 @@ Ook moet ik dus een soort vast patroon hebben voor gasten op het schip. Eventuee
 * Maar misschien is dat stom, want dan moeten mensen wachten en voelen ze zich restricted??
 
 Alternatieve titels: Titanic, De Schemertocht, De Tocht naar Amsterdam
+--->

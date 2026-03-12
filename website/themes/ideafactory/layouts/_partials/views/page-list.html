@@ -1,12 +1,14 @@
-{{ $pages := .pages }}
+{{ $max_results := or .num 20 }}
+{{ $pages := (.context.Paginate .pages $max_results).Pages }}
 
 <ul class="remove-list-styles flex-center flex-equal-size">
 {{ range $pages }}
-    <li class="thought-bubble limit-width-small">
+    <li class="thought-bubble limit-width-small maximize-width-small-screen hover_popup">
         <a href="{{ .RelPermalink }}" class="remove-link-styles padding-small">
             <h2 class="margin-none text-center">{{ .Title }}</h2>
             {{ partial "views/metadata-list-small" . }}
-            <p>{{ .Summary }}</p>
+            {{ $summary := .Content | plainify | truncate 150 }}
+            <p>{{ $summary }}</p>
         </a>
     </li>
 {{ end }}

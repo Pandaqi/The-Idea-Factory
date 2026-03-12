@@ -1,16 +1,14 @@
 {{ $metadata := slice "categories" "tags" "language" }}
 {{ $context := . }}
-<nav>
-    <ul class="remove-list-styles flex-center font-size-small">
-        {{ range $metadata }}
-            {{ $key := . }}
-            {{ $values := index $context.Params $key }}
-            {{ if not (reflect.IsSlice $values) }}{{ $values = slice $values }}{{ end }}
-            {{ range $values }}
-                {{ $value := . }}
-                {{ $url := printf "/%s/%s/" $key (string $value) }}
-                <span class="remove-link-styles font-accent text-color-mid">{{ $value }}</span>
-            {{ end }}
+<ul class="remove-list-styles flex-center flex-no-gap font-size-small">
+    {{ range $metadata }}
+        {{ $key := . }}
+        {{ $values := index $context.Params $key }}
+        {{ if not (reflect.IsSlice $values) }}{{ $values = slice $values }}{{ end }}
+        {{ range $values }}
+            {{ $value := . }}
+            {{ $url := printf "/%s/%s/" $key (string $value) }}
+            <li><span class="font-accent text-color-gray padding-small">{{ $value }}</span></li>
         {{ end }}
-    </ul>
-</nav>
+    {{ end }}
+</ul>

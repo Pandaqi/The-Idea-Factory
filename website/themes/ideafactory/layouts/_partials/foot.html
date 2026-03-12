@@ -1,0 +1,16 @@
+{{ with resources.Get "js/index.ts" }}
+    {{ $opts := dict "minify" true }}
+    {{ $res := . | js.Build $opts }}
+    <script async defer src="{{ $res.RelPermalink }}"></script>
+{{ end }}
+
+{{ $pages := .Site.RegularPages | shuffle | first 50 }}
+{{ $page_urls := slice }}
+{{ $page_names := slice }}
+{{ range $pages }}
+    {{ $page_urls = $page_urls | append .RelPermalink }}
+    {{ $page_names = $page_names | append .Title }}
+{{ end }}
+{{ $pages_string := delimit $page_urls "," }}
+{{ $titles_string := delimit $page_names "," }}
+<div style="display:none;" id="hugo-article-caching" data-pages="{{ $pages_string }}" data-titles="{{ $titles_string }}"></div>

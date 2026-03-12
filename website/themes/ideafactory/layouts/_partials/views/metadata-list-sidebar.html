@@ -1,0 +1,18 @@
+{{ $metadata := slice "categories" "tags" "language" "progress" }}
+{{ $progress_names := slice "barebones idea" "first sketch" "shows promise" "draft" "mostly specified" "almost finished" "finished" }}
+{{ $context := . }}
+<nav>
+    <ul class="remove-list-styles">
+        {{ range $metadata }}
+            {{ $key := . }}
+            {{ $values := index $context.Params $key }}
+            {{ if not (reflect.IsSlice $values) }}{{ $values = slice $values }}{{ end }}
+            {{ range $values }}
+                {{ $value := . }}
+                {{ $url := printf "/%s/%s/" $key (string $value) }}
+                {{ if eq $key "progress" }}{{ $value = index $progress_names $value }}{{ end }}
+                <li><a href="{{ $url }}" class="remove-link-styles underline_hover">{{ $value }}</a></li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

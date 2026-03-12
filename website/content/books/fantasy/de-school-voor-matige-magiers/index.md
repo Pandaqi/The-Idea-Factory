@@ -6,11 +6,9 @@ language: "nl"
 progress: 2
 ---
 
-(Geen geweldige titel, moet ik nog over nadenken. Engelse versie zou zijn: _The School for Stumbling Sorcerers_.)
+Je volgt hoofdpersonen die naar een school gaan waar ze magie en toveren leren. Maar er zijn een paar bijzondere regels op deze school en qua hoe de magie werkt.
 
-In ieder geval een soort Harry Potter idee. Sterker nog: vul het in als "mijn Harry Potter", probeer dus expres sommige dingen te stelen en andere dingen omgekeerd te doen, schrijf een NDHU-artikel over hoe *elke* schrijver "diens HP" moet schrijven.
-
-Je volgt hoofdpersonen die naar een school gaan waar ze magie en toveren leren.
+Dit is een soort Harry Potter idee waarbij ik expres een paar dingen aanpas om hetzelfde algemene idee te krijgen, maar een compleet andere invulling.
 
 **Kan dit interactief worden?** Je moet zelf spreuken ontdekken of samenstellen? Jij bent net zo goed een leerling die dingen leert en uitvogelt? (Als goed toegepast, is dit geweldig. Maar ik denk dat het veel lezers, vooral van oudere leeftijd, juist weg zou sturen van het boek.)
 
@@ -76,3 +74,5 @@ Deze zijn niet gebaseerd op persoonlijkheid of afkomst of wat dan ook. Ze zijn g
 * Bijvoorbeeld, de school verzint een hele unieke wereld met nieuwe alchemistische regels en natuurwetten, en dan moet jij als groep daarin een probleem oplossen/de wetten achterhalen. 
 * OF de school verzint een magiesysteem, en jij moet de ene spreuk vinden die alle anderen verslaat volgens dat ene systeem, door te experimenteren/boeken te lezen/etcetera.
 * En dat er dan stiekeme samenwerking is, verbonden waarbij iemand diens waarde bewijst, of juist inbraken/afluisteren om info te stelen, etcetera. En het mag in principe allemaal, want ze willen ook dat je leert om daar juist tegen te beschermen/waken
+
+(Overigens, geen geweldige titel, moet ik nog over nadenken. Engelse versie zou zijn: _The School for Stumbling Sorcerers_.)

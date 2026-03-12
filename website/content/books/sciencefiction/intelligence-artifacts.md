@@ -2,10 +2,12 @@
 title: "Intelligence Artifacts"
 categories: ["books"]
 tags: ["science-fiction"]
-language: "nl"
+language: "en"
 progress: 0
 ---
 
-Een verhaal geplot door AI, over de gevaren van AI => kan misschien toegevoegd aan "De Laatste Creatif"
+A story about the danger of AI, which is secretly plotted by that very AI. Sounds a bit silly now that I write it down, which is why I wanted to combine it with the next idea.
 
-Had ook zo'n idee van **"wat als buitenaardse wezens, net als wij, verhalen en films maakten met waarschuwingen voor henzelf?"** Zoals over het klimaat, over kernoorlog, of over corruptie, etcetera. En dat wij dan die films vinden en in eerste instantie denken: *wow dit waren vreselijke wezens en ze vonden het leuk om alles te vernielen*, totdat we realiseren dat het precies hetzelfde is zoals *wij* verhalen maken.
+**What if alien creatures, just like us, made stories and movies warning ourselves about (societal) dangers?** Like the many films we've made about climate catastrophes, about nuclear war, about corruption, etcetera. And then we discover those alien films (on first contact with them or whatever) and think: "_Wow, these must be horrible creatures if they liked destroying everything and setting everything on fire!_"
+
+Until we (humanity) realize it's simply their "art", exactly the same way _we_ create stories.

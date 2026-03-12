@@ -1,11 +1,49 @@
 ---
-title: "Beste Aardlingen"
+title: "Dear Earthlings"
 categories: ["books"]
 tags: ["science-fiction"]
-language: "nl"
+language: "en"
 progress: 1
 ---
 
+An intergalactic space story. But more lighthearted, a fairy tale for children, something fantastic.
+
+The general idea is that you have a bunch of different planets, including Earth.
+
+**At some point we receive messages from others that we do not understand. We start sending messages back.**
+
+(Based on that idea of: how scary would it be if the first message from aliens that we receive says "Please shut up. Do not answer." Or something like "Sorry, we could not stop them". In any case something unexpected that at the same time clearly suggests something serious.)
+
+Next we must solve a problem together, but we are super far apart, cannot see each other, do not know exactly what happens on the other side. So lots of miscommunication, while everyone races to accomplish something on their own planet.
+
+But especially that the other planets constantly influence things on Earth ... through their clumsiness. They are a bunch of idiots who constantly send dangerous things into space, transmit the wrong signals/messages, become arrogant, etcetera.
+
+(Actually this whole idea is based on that image of a bunch of aliens who accidentally send a lot of deadly viruses on a rock/spaceship toward Earth. They really mean well, are peaceful, but simply dumb and inaccurate. Then the whole Earth is in turmoil and sees them as arch enemies, while they actually want to help.)
+
+**VERY GOOD IDEA:** One of the characters stores "memories" or "images" all the time. Never explains why. Only says "it is remembered" ("It is saved.").
+
+They are always beautiful, kind, emotional moments from our lives.
+
+Eventually the evil aliens arrive who want nothing more than to wipe out humanity very quickly because we only get in the way (or they want our planet, or something).
+
+And then this "library of reasons to let humanity live" is the only thing that saves us.
+
+**VERY GOOD IDEA:** The Earth is completely full. So we want to expand to surrounding planets. But then we find out ... that beings already live there.
+
+And the longer we look, the more we discover that in many ways they are just like us. So then the dilemma: we really need more space ... but can we afford to throw those others off their planet?
+
+(Eventually we do it anyway? By accident or not? And when eventually another people comes along and does the same to us, it is of course difficult to justify why they should spare us.)
+
+**VERY GOOD IDEA:** We develop algorithms to recognize patterns and work with them, just as we already do now. With that we become a "space civilization".
+
+But ... the newest algorithms of that ... keep showing the same *object* or *person* in the images they create. A thing/person that *does not exist in reality*. What is that?!
+
+(Eventually this turns out to be an invisible element that we cannot see with our own senses, that secretly holds everything together. A kind of *dark matter.*)
+
+> Possibly this becomes clear *slowly*. So that you only get this when someone first thinks "and what if you input an *empty* situation?" or "what if you reverse everything / take the inverse?"
+
+
+<!--- BESTE AARDLINGEN
 Een intergalactisch ruimteverhaal. Maar meer luchtig, een sprookje voor kinderen, iets fantastisch.
 
 Het algemene idee is dat je een hoop verschillende planeten hebt, waaronder de aarde.
@@ -41,3 +79,4 @@ Maar ... de nieuwste algoritmes daarvan ... laten steeds hetzelfde *voorwerp* of
 (Uiteindelijk blijkt dit dus een onzichtbaar element dat wij niet met onze eigen zintuigen kunnen zien, dat stiekem alles bij elkaar houdt. Een soort *dark matter.*)
 
 > Eventueel wordt dit *vertraagd* duidelijk. Dus dat je dit alleen krijgt als iemand voor het eerst denkt "en wat als je een *lege* situatie invoert?" of "wat als je alles omkeert / de inverse neemt?"
+--->

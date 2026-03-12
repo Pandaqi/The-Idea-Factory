@@ -1,10 +1,11 @@
 @use "sass:math";
+@layer base, bundles, modules;
 
 $base-fonts: "fonts/";
 
-$font-heading: "Super Organic"; // Wizzta; // @TODO: still need to load via font-face
+$font-heading: "Super Organic"; // Wizzta;
 $font-body: "Andada";
-$font-accent: "Kabayan"; //  "Uncials"; // @TODO: still need to load via font-face
+$font-accent: "Kabayan"; //  "Uncials";
 
 @font-face {
     font-family: $font-body;
@@ -38,18 +39,9 @@ $font-accent: "Kabayan"; //  "Uncials"; // @TODO: still need to load via font-fa
     font-display: swap;
 }
 
-/*
 @font-face {
     font-family: $font-heading;
-    src: url($base-fonts + 'Halant-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: $font-heading;
-    src: url($base-fonts + 'Halant-Regular.woff2') format('woff2');
+    src: url($base-fonts + 'SuperOrganic.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -57,196 +49,382 @@ $font-accent: "Kabayan"; //  "Uncials"; // @TODO: still need to load via font-fa
 
 @font-face {
     font-family: $font-accent;
-    src: url($base-fonts + 'JollyLodger.woff2') format('woff2');
-    font-weight: medium;
+    src: url($base-fonts + 'Kabayan.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
     font-display: swap;
 }
-*/
 
 
+$bg-color: #DEDEDE;  // #E7D7C6;
+$text-color: #212121;
+$color-green-light: #D6E1C9;
+$color-green-dark: #929C7B;
 
 
-
-* 
+@layer base
 {
-    box-sizing: border-box;
-}
+    * 
+    {
+        box-sizing: border-box;
+    }
 
-body,html 
-{
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-
-    font-family: Lora;
-    font-size: calc(12px + 0.390625vw);
-    line-height: 1.35em;
-
-    background-color: beige;
-    color: #212121;
-    font-family: $font-body;
-}
-
-h1,h2,h3,h4,h5,h6
-{
-    font-family: $font-heading;
-    margin-top: 3em;
-    margin-bottom: 0em;
-    line-height: 1.3em;
-    font-weight: normal;
-}
-
-.margin-none
-{
-    margin: 0;
-}
-
-.heading-large
-{
-    font-size: 3.2em;
-    margin: 0;
-}
-
-.limit-width
-{
-    max-width: 640px;
-}
-
-.limit-width-small
-{
-    max-width: 320px;
-}
-
-.maximize-width
-{
-    width: 100%;
-}
-
-.float-right
-{
-    float: right;
-}
-
-.center-block
-{
-    margin: auto;
-}
-
-.text-center
-{
-    text-align: center;
-}
-
-.thought-bubble, .thought-bubble-small
-{
-    border-image-slice: 27 30 33 27 fill;
-    border-image-width: 20px 20px 20px 20px;
-    border-image-outset: 0px 0px 0px 0px;
-    border-image-repeat: repeat repeat;
-    border-image-source: url(border-image-bubble.png);
-    border-style: solid;
-}
-
-.thought-bubble
-{
-    padding: 2em;
-    margin: 1em;
-}
-
-.thought-bubble-small
-{
-    border-image-slice: 14 14 14 14 fill;
-    border-image-source: url(border-image-bubble-small.png);
-}
-
-.remove-list-styles
-{
-    margin: 0;
-    padding: 0;
- 
-    li {
+    body,html 
+    {
+        width: 100%;
+        height: 100%;
         margin: 0;
-        list-style: none;
+        padding: 0;
+
+        font-family: Lora;
+        font-size: calc(12px + 0.390625vw);
+        line-height: 1.35em;
+
+        background-color: $bg-color;
+        color: $text-color;
+        font-family: $font-body;
+    }
+
+    h1,h2,h3,h4,h5,h6
+    {
+        font-family: $font-heading;
+        margin-top: 3em;
+        margin-bottom: 0em;
+        line-height: 1.3em;
+        font-weight: normal;
+    }
+
+    h1 + h2, h2 + h3, h3 + h4, h4 + h5
+    {
+        margin-top: 0.5em;
+    }
+
+    .margin-none
+    {
+        margin: 0;
+    }
+
+    .heading-large
+    {
+        font-size: 3.2em;
+        margin: 0;
+    }
+
+    .heading-medium
+    {
+        font-size: 2em;
+        margin: 0;
+    }
+
+    .limit-width
+    {
+        max-width: 640px;
+    }
+
+    .limit-width-small
+    {
+        max-width: 320px;
+    }
+
+    .require-width-small
+    {
+        min-width: 240px;
+    }
+
+    .hide-width-small
+    {
+        display: block;
+
+        @media all and (max-width: 750px)
+        {
+            display: none;
+        }
+    }
+
+    .limit-width-small-screen
+    {
+        @media all and (max-width: 750px)
+        {
+            max-width: 320px;
+            padding: 1em;
+        }
+    }
+
+    .maximize-width-small-screen
+    {
+        @media all and (max-width: 750px)
+        {
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+
+    .maximize-width
+    {
+        width: 100%;
+    }
+
+    .float-right
+    {
+        float: right;
+    }
+
+    .center-block
+    {
+        margin: auto;
+    }
+
+    .text-center
+    {
+        text-align: center;
+    }
+
+    .remove-list-styles, #TableOfContents ul
+    {
+        margin: 0;
+        padding: 0;
+    
+        li {
+            margin: 0;
+            list-style: none;
+        }
+    }
+
+    .remove-link-styles, #TableOfContents a
+    {
+        text-decoration: none;
+
+        &:visited, &:active, &:link, &:hover
+        {
+            color: inherit;
+        }
+    }
+
+    #sidebar a:hover
+    {
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+        color: black;
+    }
+
+    button, input
+    {
+        width: 100%;
+        border: none;
+        font-family: $font-accent;
+        padding: 1em;
+        border-radius: 0.5em;
+    }
+
+    button
+    {
+        cursor: pointer;
+        background-color: gray;
+        color: $bg-color;
+
+        &:hover
+        {
+            background-color: $text-color;
+            color: $bg-color;
+        }
     }
 }
 
-.remove-link-styles
+@layer bundles
 {
-    text-decoration: none;
+    .thought-bubble, .thought-bubble-purple, .thought-bubble-green, .thought-bubble-gray,
+    .thought-bubble-small
+    {
+        border-image-slice: 27 30 33 27 fill;
+        border-image-width: 20px 20px 20px 20px;
+        border-image-outset: 0px 0px 0px 0px;
+        border-image-repeat: repeat repeat;
+        border-image-source: url(border-image-bubble-white.png);
+        border-style: solid;
+
+        padding: 2em;
+        margin: 1em;
+    }
+
+    .thought-bubble-purple
+    {
+        border-image-source: url(border-image-bubble-purple.png);
+    }
+
+    .thought-bubble-gray
+    {
+        border-image-source: url(border-image-bubble-gray.png);
+    }
+
+    .thought-bubble-green
+    {
+        border-image-source: url(border-image-bubble-green.png);
+    }
+
+    .thought-bubble-small
+    {
+        padding: 1em;
+        margin: 0;
+
+        border-image-slice: 14 14 14 14 fill;
+        border-image-source: url(border-image-bubble-small.png);
+    }
 }
 
-.font-size-small
+@layer modules
 {
-    font-size: 0.65em;
-}
 
-.padding-small
-{
-    padding: 0.5em;
-}
+    .text-color-white
+    {
+        color: white;
+    }
 
-.padding-sides-small
-{
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-}
+    .text-color-black
+    {
+        color: black;
+    }
 
-.flex-center
-{
-    display: flex;
+    .font-size-small
+    {
+        font-size: 0.75em;
+    }
 
-    align-content: center;
-    align-items: center;
-    justify-content: center;
-    gap: 1em;
+    .padding-small
+    {
+        padding: 0.5em;
+    }
 
-    flex-wrap: wrap;
-}
+    .padding-sides-small
+    {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
 
-.flex-equal-size
-{
-    align-items: stretch;
-}
+    .flex-center
+    {
+        display: flex;
 
-.text-color-green
-{
-    color: #21550b;
-}
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        gap: 1em;
 
-.text-color-mid
-{
-    color: #70955c;
-}
+        flex-wrap: wrap;
+    }
+    
+    .flex-no-gap
+    {
+        gap: 0;
+    }
 
-.text-case-upper
-{
-    text-transform: uppercase;
-}
+    .flex-equal-size
+    {
+        align-items: stretch;
+    }
 
-.text-bold
-{
-    font-weight: bold;
-}
+    .text-color-mid
+    {
+        color: $color-green-light;
+    }
 
-blockquote
-{
-    border-left: 0.2em solid #83cf63;
-    padding-left: 0.5em;
-}
+    .text-color-green
+    {
+        color: $color-green-dark;
+    }
 
-.font-accent
-{
-    font-family: $font-accent;
-}
+    .text-color-gray
+    {
+        color: #666;
+    }
 
-.font-heading
-{
-    font-family: $font-heading;
-}
+    .text-case-upper
+    {
+        text-transform: uppercase;
+    }
 
-.underline_hover:hover
-{
-    text-decoration: underline;
-    text-decoration-thickness: 2px;
+    .text-bold
+    {
+        font-weight: bold;
+    }
+
+    blockquote
+    {
+        border-left: 0.2em solid #83cf63;
+        padding-left: 0.5em;
+    }
+
+    .font-accent
+    {
+        font-family: $font-accent;
+    }
+
+    .font-body
+    {
+        font-family: $font-body;
+    }
+
+    .font-heading
+    {
+        font-family: $font-heading;
+    }
+
+    .hover_invert
+    {
+        transition: filter 0.2s;
+
+        &:hover
+        {
+            filter: #{"invert()"};
+        }
+    }
+
+    .hover_lighten
+    {
+        transition: filter 0.2s;
+
+        &:hover
+        {
+            filter: #{"brightness(130%)"};
+        }
+    }
+
+    .hover_popup
+    {
+        transition: transform 0.2s;
+
+        &:hover
+        {
+            transform: scale(1.05);
+        }
+    }
+
+    .underline_hover:hover
+    {
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+
+    .cursor-clickable
+    {
+        cursor: pointer;
+    }
+
+    .double-view
+    {
+        display: flex;
+        width: 100%;
+        align-content: center;
+        align-items: stretch;
+        justify-content: space-between;
+    }
+
+    .thought-bubble-footer
+    {
+        height: max(15vw, 100px);
+        background-image: url(thought-bubble-footer.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position-x: right;
+        background-position-y: top;
+    }
 }

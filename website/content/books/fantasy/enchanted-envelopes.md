@@ -2,16 +2,14 @@
 title: "Enchanted Envelopes"
 categories: ["books"]
 tags: ["fantasy"]
-language: "nl"
+language: "en"
 progress: 0
 ---
 
-Mensen ontvangen al jarenlang, los van elkaar, mysterieuze fragmenten/enveloppen. 
+For years, people have been receiving mysterious fragments or envelopes. These people are strangers, nothing connecting them, they don't know about each other.
 
-Niemand weet precies wat ze ermee moeten, of wie ze stuurt, of wat de inhoud betekent. Maar langzaam wordt dit patroon duidelijk, beginnen de ontvangers elkaar op te zoeken, wordt een clubje begonnen dat de enveloppen onderzoekt, doet één van de enveloppen iets magisch of geks dat suggereert dat ze er met al die enveloppen iets aan de hand is. 
+Nobody knows where the envelopes/letters come from, who is sending them, or what the contents mean. Slowly but surely, a pattern appears. The recipients start to find each other, they start a little community of "victims" of the envelopes, and then one of the letters does something magical or strange. Something that suggests _all_ envelopes are actually magical and there's a deeper (terrifying?) purpose behind them.
 
-Het blijken een soort puzzels waarmee ze locaties of voorwerpen moeten vinden. En die kunnen worden gecombineerd tot iets groters. 
+As the story unfolds, you follow the recipients as the envelopes take over their lives, as they discover the puzzles inside and try to solve them, as they barrel towards something bigger. (Maybe it's a _test_ trying to see who can figure it out/will persevere?)
 
-(Is het een *test* zodat alleen de slimste mensen op een bepaalde missie afkomen?)
-
-Kan dit **Romantasy** zijn?
+_Could this be Romantasy?_

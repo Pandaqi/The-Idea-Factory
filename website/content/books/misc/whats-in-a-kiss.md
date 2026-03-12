@@ -2,13 +2,15 @@
 title: "What's In A Kiss"
 categories: ["books"]
 tags: ["romance"]
-language: "nl"
+language: "en"
 progress: 0
 ---
 
-Een symbolisch/metaforisch/artistiek verhaal waarbij **elke keer een belangrijke beslissing wordt gemaakt door een zoen**.
+A metaphorical and somewhat romantical story in which **every important decision/event is made with a kiss**.
 
-* Twee mensen worden verliefd door een gepassioneerde zoen, 
-* Of die twee gaan juist tien jaar later uit elkaar door iemand die vreemdgaat na een zoen met iemand anders.
-* Misschien zelfs twee jonge kinderen die samen op straat spelen en dan een keertje een kusje geven, wat ze op een manier met elkaar verbindt.
-* Al helemaal tof als er meerdere keuzes zijn, of een deel van het verhaal slechts een fantasie is in iemands hoofd---en dat diegene het daarna daadwerkelijk uitvoert omdat hij ziet waar het uitkomt.
+* Two people fall in love with a kiss.
+* Or they break up ten years later precisely because one of them cheated and kissed someone else.
+* Maybe two young kids discover love for the first time when they're just roleplaying and one happens to kiss the other.
+* Etcetera
+
+Would be nice if it's a choice story (so you decide how the paths branch out). Or part of the story is only inside someone's head---and on the final page, that person now knows what might come from a kiss and decides to actually act on it?
