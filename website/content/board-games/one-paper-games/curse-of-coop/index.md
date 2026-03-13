@@ -40,13 +40,13 @@ To place an item, draw the correct symbol at the desired location on your map. I
 
 ## How do you win?
 
-**[Researchers]{.underline}**
+### Researchers
 
 The *archeologists* win if they find all non-curse treasures and items. (This team is cooperative: all archeologists win together.)
 
 A *treasure hunter* wins if he takes (at least) one treasure *and* exits the temple. However, if there are multiple treasure hunters, only the one who stole the *most* treasures wins!
 
-**[Temple gods]{.underline}**
+### Temple gods
 
 A *good temple god* wins if the archeologists win.
 

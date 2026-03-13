@@ -8,10 +8,10 @@ inspiration/
 ai/
 
 # big file types we don't need to back up
+# NOTE: We do want .mp4 and .mp3 files, as those are parts of ideas just like images
 *.zip
 *.7z
 *.pdf
-*.mp3
 *.m4a
 *.clip
 *.ttf

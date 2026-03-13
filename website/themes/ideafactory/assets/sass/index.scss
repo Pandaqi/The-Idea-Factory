@@ -107,6 +107,12 @@ $color-green-dark: #929C7B;
         max-height: 100%;
     }
 
+    video, audio
+    {
+        max-width: 100%;
+        width: 100%;
+    }
+
     .margin-none
     {
         margin: 0;
