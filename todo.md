@@ -2,14 +2,13 @@
 
 ## Website Design
 
-* Add Pagefind search page
-  * Search bar on homepage just redirects there, reading arguments, like with Saga of Life
 * HOME PAGE
-  * Add easy way to visit all "progress" levels
   * Make faction/random idea links look better
 
 
 LATER:
+* Add Pagefind to build command
+* Show a counter for "number of ideas" on the website?
 * Clean up CSS a bit
 * A favicon
 * A header image/design niceties
@@ -20,13 +19,17 @@ LATER:
 
 ## Content Add
 
-* Add all the other board games
 * Add all video games (including the separate mobile games list and such)
+* Think about which "Level 3" board games to give away.
+* Think about which "Level 3" stories to give away.
 * Think about what to do with music + musicals
+  * Probably want to give away the music for Jongerenmusicals, but nothing else.
 * Think about what to do with the other categories 
   * For example, I also have a massive list of (logic) puzzle ideas. What to do with _that_?
 
+
 ## Content Fix
 
+* Translate more NL board games/video games to EN.
 * Move the _actual idea_ to the top, not something about the name or some long lead-up by me.
 * Open `.af` file when present, take screenshots and insert those images into the idea for clarity.

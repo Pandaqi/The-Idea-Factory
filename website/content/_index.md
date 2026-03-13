@@ -20,6 +20,16 @@ Or click on one of the main categories.
 * [Tools & Software](/categories/services/)
 * [Miscellaneous](/categories/misc/)
 
+Or visit one of the progress levels ( = how promising, specific, and well-documented the idea is).
+
+* [Barebones Idea](/progress/0/)
+* [First Sketch](/progress/1/)
+* [Shows Promise](/progress/2/)
+* [Draft](/progress/3/)
+* [Mostly Specified](/progress/4/)
+* [Almost Finished](/progress/5/)
+* [Finished](/progress/6/)
+
 Or look at the randomly selected ideas below.
 
 <div class="random-pages-lister"></div>

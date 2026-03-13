@@ -95,3 +95,5 @@ When you accept a challenge/quest, another timer starts. You will get the reward
 IDEA: Players can enter certain information (codes). These are remembered by the system, then spit back out *scrambled* in some way or another.
 
 IDEA: At random moments, events happen. A bleep sound, then the event pops up on the screen.
+
+_This idea was called Bread & Plunder at one time, and I still think it might be the better name._
