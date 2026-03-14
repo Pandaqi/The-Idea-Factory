@@ -9,9 +9,6 @@
 LATER:
 * Add Pagefind to build command
 * Clean up CSS a bit
-* A favicon
-* A header image/design niceties
-  * Add a little organic logo at the top to round out header/make nicer page start
 * Javascript Functionality (dark mode)
   * Add view counters/"claimed this idea"? => https://haseebmajid.dev/posts/2022-11-25-how-to-add-page-views-to-your-hugo-blog-posts-using-goatcounter/
     * https://umami.is/pricing
@@ -19,18 +16,18 @@ LATER:
 
 ## Content Add
 
-* One Button Games
-  * `ideas-non-educational`
-  * `ideas-educational` (though many of these will go to webshop probably)
+* Video Games: `ideas-for-online-multiplayer-games.md`
 * Other
-  * Logic Puzzle Ideas => Move all `ideas-opgs` to one paper games, Move the worst `ideas-puzzle` to a new `logic-puzzle` category??
+  * Logic Puzzle Ideas => Move the worst `ideas-puzzle` to a new `logic-puzzle` category??
+  * **I probably need to sketch all these puzzle ideas and add screenshots to actually explain them.** The same kind of cleanup is necessary in a lot of other places.
 
 * Think about which "Level 3" board games to give away.
 * Think about which "Level 3" stories to give away.
+* Think about which Webshop ideas are just not good enough (or have better idea replacing them).
 * Think about what to do with music + musicals
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
-* Think about what to do with the other categories 
+
 
 ## Content Fix
 

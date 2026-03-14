@@ -446,4 +446,24 @@ $color-green-dark: #929C7B;
         background-position-x: right;
         background-position-y: top;
     }
+
+    .bg-header-full
+    {
+        background: linear-gradient(to bottom, transparent, $bg-color), url(hero-banner.webp);
+        height: 40vw;
+        background-size: contain;
+        background-position-y: top;
+        background-repeat: no-repeat;
+        background-position-x: center;
+    }
+
+    .bg-header-small
+    {
+        background: linear-gradient(to bottom, transparent, $bg-color), url(small-header.webp);
+        height: 3vw;
+        background-size: contain;
+        background-position-y: top;
+        background-repeat: repeat-x;
+        background-position-x: center;
+    }
 }

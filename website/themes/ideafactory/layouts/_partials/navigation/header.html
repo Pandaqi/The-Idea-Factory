@@ -1,4 +1,7 @@
-<header class="font-accent padding-small text-color-green" style="margin-top: 2em;">
+{{ $bg_header_class := "bg-header-small" }}
+{{ if .IsHome }}{{ $bg_header_class = "bg-header-full" }}{{ end }}
+<div class="{{ $bg_header_class }}"></div>
+<header class="font-accent padding-small text-color-green" style="padding-top: 1em;">
     <nav>
         <ul class="remove-list-styles flex-center">
             <li><a href="/" class="remove-link-styles hover_underline">Home</a></li>
