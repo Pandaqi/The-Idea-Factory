@@ -20,8 +20,6 @@ LATER:
 ## Content Add
 
 * Video Games
-  * Add **mobile** (from file at root of `Games`)
-  * Add **puzzles** (from Book of Puzzlepages folders + Hypercasuals > Ideas)
   * Add **one button games** (all the ones I will NOT use for the webshop, for sure---otherwise move to webshop with clear indication of educational value)
 
 * Think about which "Level 3" board games to give away.
@@ -30,7 +28,7 @@ LATER:
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
 * Think about what to do with the other categories 
-  * For example, I also have a massive list of (logic) puzzle ideas (for pen-and-paper). What to do with _that_?
+  * For example, I also have a massive list of (logic) puzzle ideas (for pen-and-paper) => The worst of those ideas should just be thrown onto here too.
 
 
 ## Content Fix

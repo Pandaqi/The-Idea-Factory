@@ -45,8 +45,8 @@ if(cacheNode)
 {
     // LISTERS populate automatically on load
     const listers = Array.from(document.getElementsByClassName("random-pages-lister")) as HTMLDivElement[];
-    const pageURLs = (cacheNode.dataset.pages ?? "").split(",");
-    const pageNames = (cacheNode.dataset.titles ?? "").split(",");
+    const pageURLs = (cacheNode.dataset.pages ?? "").split("$#$");
+    const pageNames = (cacheNode.dataset.titles ?? "").split("$#$");
 
     const nameToURL = {};
     for(let i = 0; i < pageURLs.length; i++)
@@ -55,6 +55,8 @@ if(cacheNode)
     }
 
     shuffleArray(pageNames);
+
+    console.log(nameToURL);
 
     for(const lister of listers)
     {

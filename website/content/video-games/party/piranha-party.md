@@ -1,5 +1,5 @@
 ---
-title: "Piranhy Party"
+title: "Piranha Party"
 categories: ["video-games"]
 tags: ["party", "one-button-games"]
 language: "en"
