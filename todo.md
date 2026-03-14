@@ -19,8 +19,11 @@ LATER:
 
 ## Content Add
 
-* Video Games
-  * Add **one button games** (all the ones I will NOT use for the webshop, for sure---otherwise move to webshop with clear indication of educational value)
+* One Button Games
+  * `ideas-non-educational`
+  * `ideas-educational` (though many of these will go to webshop probably)
+* Other
+  * Logic Puzzle Ideas => Move all `ideas-opgs` to one paper games, Move the worst `ideas-puzzle` to a new `logic-puzzle` category??
 
 * Think about which "Level 3" board games to give away.
 * Think about which "Level 3" stories to give away.
@@ -28,8 +31,6 @@ LATER:
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
 * Think about what to do with the other categories 
-  * For example, I also have a massive list of (logic) puzzle ideas (for pen-and-paper) => The worst of those ideas should just be thrown onto here too.
-
 
 ## Content Fix
 

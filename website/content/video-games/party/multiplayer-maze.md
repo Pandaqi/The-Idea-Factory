@@ -53,25 +53,25 @@ How do you move?
 
 ### What are the characters?
 
-1.  Character 1: break stuff (that is breakable)
-    a.  Combine this with the jumper? You break something by jumping on it at full speed?
-2.  Character 2: open doors/locks/special passages
+1.  **Character 1**: break stuff (that is breakable)
+    * Combine this with the jumper? You break something by jumping on it at full speed?
+2.  **Character 2**: open doors/locks/special passages
 3.  **Exploder**: can explode itself or from a distance, taking other players or objects with it. NOTE: All explodable objects use collision layer 2!
-    a.  **"E":** explode
-    b.  **"W":** ?? second button ??
+    * **"E":** explode
+    * **"W":** ?? second button ??
 4.  **Jumper**: jump/teleport/go through walls
-    a.  **"Up":** jump upwards
-    b.  **"Down":** slam downwards
+    * **"Up":** jump upwards
+    * **"Down":** slam downwards
 5.  **MazeRotater**: rotate the full maze
-    a.  **"R"**: to rotate clockwise
-    b.  "T": to rotate counterclockwise
+    * **"R"**: to rotate clockwise
+    * **"T"**: to rotate counterclockwise
 6.  **Supporter**: drag/push/lift other players
-    a.  **"S":** hold it to support players around you
-    b.  **"?**": what's the second button?
-7.  Character 6: collect stuff; each maze has a different recipe/secret key, by collecting the right stuff, you can unlock doors/get a bonus/extend timer
-8.  Character 8: shoot themselves or other players over a distance.
-9.  Character 9: ??
-10. Character 10: ??
+    * **"S":** hold it to support players around you
+    * **"?**": what's the second button?
+7.  **Character 6**: collect stuff; each maze has a different recipe/secret key, by collecting the right stuff, you can unlock doors/get a bonus/extend timer
+8.  **Character 8**: shoot themselves or other players over a distance.
+9.  **Character 9**: ??
+10. **Character 10**: ??
 
 ## How to generate the maze?
 
