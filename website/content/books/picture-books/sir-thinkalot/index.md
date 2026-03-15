@@ -8,7 +8,6 @@ progress: 2
 
 **Sir Thinkalot en de ridders zonder tafel**.
 
-
 **Blurb:** Een beest teistert het land van Sir Thinkalot! Volg hem terwijl hij door het land reist op zoek naar het beest. En op zoek naar vrienden om te helpen, zoals Sir Runalot---die hard kan rennen---en Lady Strongalot---die heel sterk is. Een grappig verhaal over rare ridders, mysterieuze missies, en puike plannen, dat kinderen stiekem Engels leert.
 
 **Ridders zonder tafel!** Een beest/gevaar teistert het land. De hoofdpersoon wil nadenken over een oplossing ... maar hij heeft een tafel nodig om na te denken en met anderen een missie te plannen!
@@ -43,7 +42,7 @@ De hoofdpersonen (**Sir Thinkalot**) verzamelt mensen om samen een missie uit te
 
 Er is iets dat in **zwart-wit** moet. Dit kunnen de *gedachten* zijn (van Sir Thinkalot), een soort *flashbacks*, of een soort *krantenkoppen* (over dat "beest" dat mensen teistert enzo) => en dan in de gedachten van Sir Thinkalot is dat beest *gigantisch* en onoverwinnelijk, maar hij wordt steeds kleiner, tot hij bij het einde erachter komt dat het maar een egeltje is.
 
-(NIET VERGETEN: Check dat plaatje dat ik erbij had getekend voor een coole art style voor ridders enzo.)
+![](sir-thinkalot-sketch.png)
 
 ## Interactie?
 
