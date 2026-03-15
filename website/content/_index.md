@@ -16,9 +16,7 @@ Or click on one of the main categories.
 * [Board Games](/categories/board-games/)
 * [Video Games](/categories/video-games/)
 * [Music & Songwriting](/categories/music/)
-* [Plays & Musicals](/categories/theatre/)
-* [Tools & Software](/categories/services/)
-* [Miscellaneous](/categories/misc/)
+* [Other (Tools, Business, Etc)](/categories/misc/)
 
 Or visit one of the progress levels ( = how promising, specific, and well-documented the idea is).
 

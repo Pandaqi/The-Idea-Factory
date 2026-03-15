@@ -1,7 +1,7 @@
 ---
 title: "De laatste trein"
-categories: ["theatre"]
-tags: ["young-adult", "comedy"]
+categories: ["books"]
+tags: ["young-adult", "comedy", "theatre"]
 language: "nl"
 progress: 3
 ---

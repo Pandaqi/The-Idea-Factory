@@ -1,6 +1,6 @@
 ---
 title: "Ik ben nog niet af"
-categories: ["books", "theatre"]
+categories: ["books", "music"]
 tags: ["young-adult", "musical"]
 language: "nl"
 progress: 0

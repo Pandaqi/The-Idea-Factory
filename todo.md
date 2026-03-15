@@ -5,7 +5,6 @@
 * HOME PAGE
   * Make faction/random idea links look better
 
-
 LATER:
 * Add Pagefind to build command
 * Clean up CSS a bit
@@ -16,17 +15,15 @@ LATER:
 
 ## Content Add
 
-* Video Games: `ideas-for-online-multiplayer-games.md`
-* Other
-  * Logic Puzzle Ideas => Move the worst `ideas-puzzle` to a new `logic-puzzle` category??
-  * **I probably need to sketch all these puzzle ideas and add screenshots to actually explain them.** The same kind of cleanup is necessary in a lot of other places.
-
 * Think about which "Level 3" board games to give away.
-* Think about which "Level 3" stories to give away.
+  * Pretty much everything that does NOT have its own folder yet
+  * And then a few more from the folder ones (just copy fonts with it?)
 * Think about which Webshop ideas are just not good enough (or have better idea replacing them).
+  * All those tiny stories/explorers ideas can be given away, no?
 * Think about what to do with music + musicals
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
+  * YES THIS IS TOO BAD, I'D NEED TO RE-RECORD AND STRUCTURE.
 
 
 ## Content Fix
