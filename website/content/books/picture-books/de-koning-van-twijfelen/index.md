@@ -6,7 +6,6 @@ language: "nl"
 progress: 4
 ---
 
-
 ## Algemeen
 
 Gaat over een fictief "magisch" land genaamd **Twijfelen**.
@@ -54,6 +53,16 @@ Alles (of zoveel mogelijk) gaat in de vorm van een mozaïek? Niet dat het storen
 De kaart en de optiepagina's hebben hun eigen stijl? (Ik leun naar een handgetekende, cartoony stijl, met dikke lijnen en felle kleuren. Maar dat past waarschijnlijk weer niet bij de mozaïekstijl?)
 
 Als ik echt gek wil worden, dan kan ik elk hoofdstuk in een *andere* stijl doen. Want ja, "twijfelen".
+
+Hieronder staan 4 schetsen van hoe de puzzels in het algemeen zouden kunnen werken. Dit is een hele ruwe schets en absoluut niet de "tekenstijl" waar we voor gaan natuurlijk.
+
+![](koning-van-twijfelen-v1.png)
+
+![](koning-van-twijfelen-v2.png)
+
+![](koning-van-twijfelen-v3.png)
+
+![](koning-van-twijfelen-v4.png)
 
 ## Het spel: scenario's
 

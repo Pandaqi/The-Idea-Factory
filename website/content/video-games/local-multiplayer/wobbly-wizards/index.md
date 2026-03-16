@@ -2,10 +2,162 @@
 title: "Wizard Warehouse"
 categories: ["video-games"]
 tags: ["local-multiplayer"]
-language: "nl"
+language: "en"
 progress: 4
 ---
 
+Overcooked, but with wizards/spells/Harry Potter style. Also called: _Wobbly Wizards_.
+
+## What is the goal?
+
+Everyone plays a wizard with a money problem. Since money is one of the few things you cannot conjure, they therefore have to earn that money "in the normal way".
+
+To do that they go breaking in, stealing, completing jobs, delivering things, etc.
+
+## Why do the wizards have a money problem?
+
+They are students with student debt, duh.
+
+## How does one complete a level?
+
+By earning enough money within the time. (3 star system!)
+
+## Here are some videos of my own prototype
+
+Ironically I dropped this idea because I no longer had time to work on it ... because I had to go back to the university. (Because my student debt was only forgiven if I got my diploma that year.)
+
+But the videos show that you can quite easily use spells such as growing, shrinking, moving (from a distance), breaking things, etc in such a game. This still seems like a good game idea to me and I hope that someone will one day make something like this that I can play together with a few others.
+
+{{< video src="WobblyWizards4.mp4" >}}
+
+{{< video src="WobblyWizards5.mp4" >}}
+
+{{< video src="WobblyWizards6.mp4" >}}
+
+{{< video src="WobblyWizards7.mp4" >}}
+
+{{< video src="WobblyWizards8.mp4" >}}
+
+## Controls
+
+These are all the buttons and their function:
+
+-   **Left Joystick (LS)** = Walking
+-   **Right Joystick (RS)** = NOTHING
+-   **A** = Jumping (and Double Jump)
+-   **B** = Dashing (so running)
+-   **X** = NOTHING
+-   **Y** = NOTHING
+-   **Left Shoulder (LB)** = Rotate spell wheel counterclockwise
+-   **Right Shoulder (RB)** = Rotate spell wheel clockwise
+-   **Left Trigger (LT)** = NOTHING
+-   **Right Trigger (RT)** = Fire spell
+
+Since we use so many buttons, one cannot share a controller anyway. (At least ... unless we squeeze everything in even more.)
+
+So I might as well give all other buttons a function too.
+
+BUT WHAT?
+
+## Levels / Level Elements
+
+Which elements do I all need? I want to stay a bit in that "Harry Potter" atmosphere. So with magical, antique, witch-like things.
+
+-   Stone/wooden walls
+-   Openings in the wall
+-   Doors (all doors can be locked?)
+-   Tables (wide/big tables, or small ones, or with drawers)
+-   Chairs / Stools
+-   Bookcases
+-   Plants
+-   (Moving) stairs (+ small steps?)
+-   Vanishing cabinet; if you sit in it, you teleport to another place.
+-   Trash can/container/hole (where you can throw items into)
+-   Push button with which you turn certain things on/off
+-   Cameras? Other security measures?
+    -   (**Important:** I actually think there are many possibilities here. The fact that we break in in many levels/work in the dark/work secretly, makes this unique. For example there could be a camera that only works when there is light. Or something that is sensitive to sound; and then we must have a spell to dampen/amplify sound. Etc.)
+
+**Are there objects that take a certain "time"?** So, for example, it takes a while before something is finished, or ready, or activated. But what kinds of things could those be?
+
+**How is the game structured?** The most convenient seems to me to have "worlds", with a small selection of levels inside them. So you start with the "movers" world, and then you go to the "helping in the library" world, and then you go to the "breaking into the bank" world, etc.
+
+**How are these worlds connected?** The easiest seems to me to always have a small piece of text with the story progression. Something like: "oh, now you are doing this, because of this and that. Especially do not forget X and Y! Good luck with it!"
+
+### How does this remain challenging?
+
+In Overcooked the challenge comes from the fact that there are *more tasks than players*. Always.
+
+That must also be the case in my levels. I must think of something that makes everyone do at least two things at the same time, or forces them to constantly switch tasks or perform a task differently (because of changing circumstances).
+
+**IDEA:** Making a magic potion! In some levels there is a pot, one can throw things into it (from a distance, again), and thus make something that one can use.
+
+### Idea for story
+
+Everyone is a wizard, graduated from the College for Wizardry. But ... the school has been taken over by bad people who ask far too much tuition! **The student debts are gigantic!**
+
+During the game one therefore has to manage to save money to survive ... but in each level there are also one (or multiple) things hidden. This can be a new spell, a new level, more information, part of a puzzle, etc.
+
+In that way one can play a level multiple times, while searching for new puzzle pieces.
+
+> Possibly you lose money if you do not complete a level? But ... then it can be that a player keeps so little money that they cannot continue. So there must be a compensating mechanism.
+
+## Spells
+
+There are different "main categories" for spells. During the game you discover more and more spells and therefore can use more and more.
+
+**MAYBE AN IDEA:** Discovering spells is also something you must do in levels? So you must accomplish certain achievements, or find/figure out things in a level, etc.
+
+**IDEA:** Do something with the elements? So water, fire, earth, air, psychic, etc.
+
+**IDEA:** You now have many spells that have an on-variant and off-variant (lock open/closed, pull toward you or push away). Actually it is neater if those are in one spell, and the game automatically chooses the correct one. (Object is close? Push away. Object is far away? Pull toward.) But that will become very difficult, maybe.
+
+**NOTE:** Spells that are not time-bound, but simply "one click = on/off", must also be programmed like that. You can hold something pressed as long as you want, only when you *release* it, and then *press again*, does that spell fire again.
+
+### Movement spells
+
+-   Flying + moving
+-   Pull toward you
+-   Shoot away/push away
+-   Shoot rope (from which you can possibly hang or SWING things; in contrast to MOVING)
+-   ?? Teleport (Apparate/Disapparate)
+
+### Appearance spells
+
+-   Grow / shrink
+-   Transfigure. (Each wizard has 2 to 3 special "disguises". With this spell you could then switch disguise. Or, well, you can go "in disguise", and out of it again. But -- can you only target this on yourself? Or actually only on others?)
+-   Make invisible / make visible
+
+### On/off spells (must be better name)
+
+-   Open/close something
+-   Activate/deactivate something
+-   Break/repair
+
+### Combat spells
+
+-   Attack
+-   Defend / shield
+-   Spit water / fire
+-   Freeze
+-   ?? Make sick / heal
+
+### Sense spells
+
+-   Light on / light off
+-   Amplify sound / dampen sound
+-   Amplify smell / dampen smell (move/create?)
+
+Each player has their own collection of spells. (With this you get more diversity in spells together.) You can choose beforehand who gets which spell. And on which position you place spells, to make it easy for yourself.
+
+Each player has max **8** spells. (These are in a wheel, where you can switch left/right.)
+
+People can only cast a spell on *others*! Because then you always have to cooperate.
+
+Combos for spells? (So, a sequence of button combinations. Or, maybe that you can "combine" different spells with one button. The longer/more difficult the spell, the more powerful and rarer.)
+
+Special achievements? (Complete this level *without* spell X or Y. Where X and Y are very basic, essential spells.)
+
+<!---
 Overcooked, maar dan met tovenaars/toverspreuken/Harry Potter stijl.
 
 ## Wat is het doel?
@@ -156,3 +308,4 @@ Mensen alleen op *anderen* een spreuk casten! Want dan moet je dus altijd wel sa
 Combo's voor spreuken? (Dus, een volgorde van knoppencombinaties. Of, misschien dat je met één knop verschillende spreuken kunt "combineren". Hoe langer/moeilijker de spreuk, hoe krachtiger en zeldzamer.)
 
 Speciale prestaties? (Voltooi dit level zónder spreuk X of Y. Waarbij X en Y dan hele basic, essentiële spreuken zijn.)
+--->

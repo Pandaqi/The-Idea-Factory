@@ -1,5 +1,5 @@
 ---
-title: "Swordseekers"
+title: "Ik Goud Van Jou"
 categories: ["books"]
 tags: ["fantasy", "childrens-novels", "young-adult"]
 language: "nl"

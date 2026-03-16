@@ -1,11 +1,172 @@
 ---
-title: "Pakketjespaniek"
+title: "Package Panic"
 categories: ["board-games"]
 tags: []
-language: "nl"
-progress: 2
+language: "en"
+progress: 3
 ---
 
+A large family game about delivering packages, as quickly as possible, to the right places, without colliding with each other or losing them.
+
+## Game Information
+
+**Number of players:** 2–10
+
+**Playtime:** ±90 minutes
+
+**Difficulty:** average
+
+_Alternative titles: "The BOL.com Game" (Bol.com is the largest Dutch online store), "Post Panic", and "Package Panic"_
+
+## What is the idea?
+
+In this game everyone plays a postal company.
+
+Every day loads of envelopes and packages come in, and you must deliver them to the right place on time.
+
+There is a **"large board"** (with country/countries and cities) with **"small boards"** around it (the streets and houses of specific cities).
+
+> These boards are built from tiles. On these tiles are several dots (according to a grid). Infrastructure must always be placed neatly on the dots (and therefore follow the grid).
+>
+> On many tiles a number of things are automatically present (a simple road, water, an outdated railway track, etc.) But a lot still has to be built by players themselves.
+
+IDEA: There are different stages in the production process, and different routes and transport methods, causing players to rely heavily on each other.
+
+> For example: you can only transport packages once someone else has assembled/delivered them.
+>
+> For example: if someone can only deliver something in city A, but receives an order from city B, they must call in help from someone else.
+
+IDEA: You must keep and replenish your own "warehouses"/"stocks". You must be smart about this and estimate where you will need what in the future.
+
+IDEA: The stages a package goes through are as follows:
+
+1.  (Advertising is made/people come to the website/etc.)
+2.  Order comes in.
+3.  Order is assembled (different parts combined, packaged, etc.)
+4.  Order is transported from the place of assembly to the person who ordered it.
+5.  Order is delivered.
+
+You have different types of packages of course. You have **light** and **heavy** packages. You have **small** and **large** packages.
+
+> For example: a large package requires two or three blocks (which you must deliver together).
+>
+> For example: a large package requires two blocks, *but* these blocks must be stacked on top of each other! (Other placement rules also exist of course)
+
+All *transport vehicles* have a different maximum *capacity* and maximum *weight*.
+
+> Capacity: how many blocks fit in this vehicle.
+>
+> Weight: how heavy the blocks may be (when added together)
+
+## All Transport Vehicles
+
+-   **Boat:** can carry a lot, but is relatively slow and of course requires a water route.
+-   **Train:** can carry a lot, is fast, but requires an expensive railway.
+-   **Truck:** can carry less, but is flexible
+-   **Van:** can carry even less, but is even more flexible
+-   **Bicycle:** can only carry normal mail, no packages. Is very flexible and fast, but cannot be used for large distances.
+
+IDEA: The game already starts with a certain (random?) network. But players can also build roads, railways, and rivers/canals themselves! With this one can also block others: if you build a railway line, the other cannot simply cross it. (Then that person must first pay to place a "railway crossing"?)
+
+QUESTION: And **airplane** then?
+
+## All Buildings
+
+-   **Headquarters:** everything starts here (your first vehicle, your first warehouse, etc.). A headquarters also gives you extra possibilities at the location where it stands.
+-   **Large warehouse:** is expensive and takes up a lot of space, but can also store a lot
+-   **Small warehouse:** cheaper and smaller, but can store fewer goods.
+-   **Station:** vehicles can load/unload/transfer here
+-   **Intermediate station:** the same as a station, but smaller and can do slightly less. (It is intended to quickly pass things on to other vehicles, not to really load/unload.)
+-   **Factory:** the different goods are produced here
+
+More? Nah.
+
+NOTE: The **sorting** of packages must also be included! (For example: if you deliver something to a warehouse, it takes X hours before it is sorted. Each hour all packages in the warehouse move along a small track??)
+
+## How are orders placed?
+
+Each round begins with a few "potential buyers". These are people who are looking for certain products, and may possibly buy them.
+
+You can influence this. You can make more people interested, you can change the products they want (and how they want them), etc.
+
+Eventually there will be a row of orders.
+
+**IDEA:** When customers order something, they must of course give their address. They do this with **coordinates**.
+
+> The first coordinates indicate the city. (See the large board.)
+>
+> The second coordinates indicate the specific house (within that city). (See the small board corresponding to the city.)
+>
+> Problems? It will often occur that there is nothing at that location. And possibly multiple things can be at one location?
+>
+> Solutions? Work with numbers. Each city has its own number, and each house its own number. (If a customer asks for a number that does not exist, the closest number that *does* exist is taken.)
+
+**IDEA:** Customers have certain preferences that determine *where* they order something.
+
+-   The closest provider.
+-   The cheapest ("lowest shipping costs")
+-   All providers. (Starting with the starting player, everyone may say whether they will fulfill the order. The first who says "yes!" gets the order.)
+-   Etc.
+
+**IDEA:** Do something with people who come to pick it up themselves? People who return packages? People who are not home? :p
+
+## How does the game proceed?
+
+The game proceeds in turns, but continuously. (There are no rounds or anything.)
+
+The game begins at midnight (hour 0) of day 1.
+
+All players, clockwise starting from the starting player, take their turn.
+
+When everyone has gone, the clock advances 1 hour and the same thing happens again.
+
+This continues until the game ends.
+
+*When does the game end?* I don’t know. Ideas are:
+
+-   When someone has earned X money.
+-   When someone has received and/or delivered X orders in one day.
+-   When time runs out (after 10 days or something).
+-   If one player owns (or delivers) at least half of all capital/all buildings/all orders. In other words: someone has clearly become the largest.
+
+## What does a player do during their turn?
+
+**Action:** a player always performs one action during their turn. This may be done at any moment during their turn. The possible actions are:
+
+-   Build building
+-   Build infrastructure
+-   Buy vehicle
+
+**Let factories work:** the player lets all their factories work for one hour.
+
+**Move vehicles:** then the player may move all their vehicles. (This is the distance traveled in this hour of the day. Some vehicles will be able to go farther than others.)
+
+> CONCEPT: It is easy to arrange that a vehicle may take *multiple steps in one hour*.
+>
+> It is difficult to arrange if some vehicles *need more hours for one step*. So I must try to avoid that!
+
+If a vehicle arrives at a place where it may (or must) perform an action, it happens immediately.
+
+> For example: a van that stops in front of a house that ordered something immediately delivers the requested package.
+>
+> For example: a truck that stops at a warehouse immediately places all its goods into that warehouse.
+
+**IDEA:** You may also choose to **NOT** let vehicles or factories work. Because it costs money/maintenance/gasoline/something if you use them?
+
+**IDEA:** Each route may only have one vehicle? So once a route is occupied, and controlled by another player, no one else can use that specific route.
+
+This simplifies the game and forces players to cooperate. (Player A is the only one who can bring a package to a house, but only receives that package if player B brings it along the correct route. If that takes too long, player A can almost always pick up the package via a detour.)
+
+> You of course have exceptions, such as a four-lane highway or something :p
+
+**IMPORTANT QUESTION:** Does this not become too large and complex? Can I keep it simpler and more abstract? (Better yet: can I make two variants, where one is simpler and the other more complex?)
+
+The simpler variant I would do without vehicles, with less (or no) infrastructure, and fewer buildings.
+
+I would make it more like a kind of _Ticket to Ride_, but with packages, cooperation, and a modular board.
+
+
+<!---
 Een groot familiespel over pakketjes rondbrengen, zo snel mogelijk, naar de juiste plekken, zonder tegen elkaar te botsen of ze kwijt te raken.
 
 ## Spelinformatie
@@ -166,3 +327,4 @@ Dit versimpelt het spel én dwingt spelers om samen te werken. (Speler A is de e
 De simpelere variant zou ik zonder voertuigen doen, met minder (of geen) infrastructuur, en minder gebouwen.
 
 Ik zou het meer een soort _Ticket to Ride_ maken, maar dan met pakketjes, samenwerken, en een modulair bord.
+--->

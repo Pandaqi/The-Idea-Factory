@@ -60,8 +60,10 @@ if(cacheNode)
 
     for(const lister of listers)
     {
+        const shouldRemoveStyles = lister.dataset.styles == "remove";
+       
         const ul = document.createElement("ul");
-        ul.classList.add("remove-list-styles");
+        if(shouldRemoveStyles) { ul.classList.add("remove-list-styles"); }
         lister.appendChild(ul);
 
         const numToList = parseInt(lister.dataset.num ?? "5");
@@ -73,7 +75,7 @@ if(cacheNode)
             const randomElement = pageNames.pop();
 
             const elem = document.createElement("a");
-            elem.classList.add("remove-link-styles");
+            if(shouldRemoveStyles) { elem.classList.add("remove-link-styles"); }
             elem.href = nameToURL[randomElement];
             elem.innerHTML = randomElement;
             li.appendChild(elem);

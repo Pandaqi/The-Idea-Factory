@@ -2,9 +2,289 @@
 title: "Vigilante"
 categories: ["video-games"]
 tags: ["peerful"]
-language: "nl"
+language: "en"
 progress: 4
 ---
+
+In this game everyone is dropped into a city. It is night and shady things are happening. Some players will be vigilantes who want to crack down on crime. Others will play criminals who let things go to hell.
+
+Who manages to survive? Do the police + superheroes make the city safe, or do the criminals leave with all the money to a tropical island?
+
+_A Jackbox-like game. Alternative titles: "Police Squad"_
+
+## Details in short
+
+**Players:** 4–10
+
+**Requirements:** A computer screen to display the game, one smartphone/tablet/computer per player.
+
+**Playtime:** About an hour
+
+**Age**: 8+
+
+The game is based on _Letters from Whitechapel_, but better/more extensive/different.
+
+* *Team police* must cooperate well, set a trap in the right places/pay close attention/arrange something, and in that way manage to find the criminals.
+* *Team criminals* must carry out their missions/robberies and return to their hideout, X (3?) nights in a row.
+* *Team vigilantes* have a neutral role. They are "superheroes", but can work for both the police and the criminals.
+
+It would of course be super fun if they are allowed to draw their own appearance/symbol at the beginning of the game.
+
+Maybe during the game they get more gadgets/superpowers, and then they may draw themselves what these look like! (And maybe choose a bit how they work??)
+
+The most fun thing for the police is unraveling the mystery. Placing a net, following clues, expanding their influence/knowledge further and further, and in that way catching criminals.
+
+The most fun thing for the criminals is the sneakiness, escaping the police, getting away with a big loot, barely reaching your hideout.
+
+THOSE MUST BE THE MOST IMPORTANT GAME ELEMENTS.
+
+Other ideas:
+
+- People from the same team may not sit together, or sit separately.
+- Communication therefore goes openly (across the table), or via a chat on the smartphone.
+- One can buy certain *gadgets* and place them on other people. This can only be done if you stand on the same tile as that other person!
+- Since this is hidden information (you yourself know where you are, but on the computer screen you mainly see the city map), you must guess/find out whether someone is standing with you.
+
+Those gadgets are then very valuable.
+
+- **Listening device:** you receive all chat messages that the other person sends.
+- **GPS tracker:** you always know the location of the other person.
+
+You can also place gadgets on *locations*, such as a ...
+
+- **Security camera:** you can always see what happens somewhere (in realtime? Or is it stored and can you rewind it?)
+- **"Trap":** a pitfall, as soon as someone walks into it they are immediately captured.
+
+Oh right, the (random) map of the city must of course be very good. Otherwise the whole game will not work.
+
+
+
+## Setup
+
+Someone clicks "create room" on the computer screen to create the game.
+
+Everyone can now join on their own device.
+
+> IDEA: Everyone must come up with a nonsensical superhero name? Or they get one from the game? YES: Random superhero names so that you also do not know which player is which.
+
+When you have joined, you must take a photo of your superhero. When all photos have been submitted, the game can begin.
+
+## Game creation
+
+On the server a number of things are arranged:
+
+- **Map:** a random map of a city is generated.
+- **Role distribution:** the roles are created and distributed among the players.
+
+The map (including information about for example available shops etc.) is sent to all monitors.
+
+All players receive their own role sent to their device.
+
+## Map
+
+The map consists of the following parts:
+
+- **Roads:** each junction between roads is seen as a "tile". Some roads are only passable if you are alone, or if you happen to know that somewhere there is an alley.
+- **Buildings:** along the roads there are buildings. Some buildings are shops where you can steal things, some are just houses, sometimes somewhere there is an empty grass field (?)
+- **Rivers:** rivers and lakes impose restrictions on where you can go. Sometimes they slow someone down, sometimes they actually speed them up (if someone has a boat?)
+
+NOTE: It is important that people must move across the entire map. It is of course boring if they choose a hideout right next to a shop and simply rob that shop every night.
+
+NOTE: It would be cool if people could also climb buildings to look out over the city like some sort of batman. (And that others then get a message like "someone's watching you ...")
+
+NOTE: Are tunnels a possibility? Or public transport? Cars that you can steal?
+
+Each city has a number of fixed buildings. For example there is the police station, the prison, the (weapon/gadget) shop, etc.
+
+## Role distribution
+
+In general there are two camps: *police* and *criminals*. However, within these camps there are roles that throw a wrench in the works. For example the *vigilantes* want to help the police, but the police may not be waiting for that and simply arrest them.
+
+The possible roles are ...
+
+### Police
+
+- **Police captain**: leader of the police. Has extra powers in his possession that make him very valuable.
+- **Police helper**:
+- **Superhero**:
+- **Super helper**:
+
+### Criminals
+
+- **Mafia boss:**
+- **Mafia helper**:
+- **Einzelgänger** ("Lone wolf")
+- **Mole:**
+
+Each role has its own advantages/disadvantages, and none of them is by definition more important or stronger than the others.
+
+Moreover the role distribution is always random. So it can easily happen that certain roles are not included, and/or other roles appear multiple times.
+
+## Preparation round
+
+Each player must, at the beginning of the game, choose his **hideout**. (This happens after the roles are known, because this influences your choice.)
+
+Everything you possess (stolen goods, especially) ends up in your hideout.
+
+## Game flow
+
+The game proceeds over 3 nights. Each night lasts at most X turns ("hours"). Each night the assignment is the same:
+
+- **Police** must arrest all criminals.
+- **Criminals** must steal as much as possible and return home safely.
+
+If the police manage to imprison all criminals in one night, they immediately win. If there are superheroes, then the police person with the highest score wins (... what determines the score????)
+
+If the criminals manage to eliminate all police in one night, they immediately win.
+
+If a criminal does *not* reach his hideout before the end of the night, he is immediately arrested.
+
+If at the end of the third night *not* all criminals have been arrested, they have won. The criminal with the highest score (most money stolen) wins the whole game.
+
+## Turn flow
+
+One hour of a night lasts X seconds (60, 90, 120, something like that). During this hour everyone may do what they want, as long as they have sent their action before the end of the round.
+
+Which action everyone can do depends on your role. (Everyone can at least move and perform one special action.)
+
+If you have not sent an action in time, you simply do nothing.
+
+## Movement
+
+Everyone moves across "tiles" (junctions between roads).
+
+Persons can take a special vehicle:
+
+- **Bicycle:** you may move two tiles per time
+- **Car:** you may move three tiles per time.
+- **Bus:** you follow the bus route (from stop to stop; the number of tiles varies).
+- **Boat:** you can travel over water (how fast you go depends on the current??).
+- **Metro:** you go underground to another metro station
+
+Along the road there are sometimes **bicycles**. You can steal them.
+
+Along the road there are **cars**. You can steal such a car, but then the *alarm* goes off and people therefore know better where you are.
+
+Moreover with a car you *cannot* go through alleys.
+
+If you take the **bus** you are stuck to the route. (Do you also have to wait for the bus??) But it can go very fast.
+
+If you take the **metro** you are always immediately at another metro station, BUT there are many conditions that forbid you from taking the metro. (If the police are already looking for you, you cannot check in for example.)
+
+If you take a **boat**, you can move back and forth between water tiles. A normal (motor)boat always goes at the same speed. You can also personally buy a small boat and use it, but then you can only go with the current.
+
+IDEA: Cars and other persons (controlled by the computer) also drive on the streets to create extra chaos. HOWEVER, each car (and person) can be specifically recognized by one thing. (There is no single vehicle/person that looks identical.)
+
+NOTE: What do we do with people who want to stand on the same tile? Forbid it? Simply allow it? You are automatically arrested?!
+
+NOTE: It will be very heavy for the internet to constantly send the map to people again, so find a good way for this. (Maybe the controller does not even need to have the map?)
+
+### Tunnels and towers
+
+I doubt about this. The idea is that you can change the map during the game by breaking things down and digging tunnels, possibly even building bridges.
+
+The other idea is that you can climb onto the roof of buildings to look out over the city. (It is a typical superhero thing to do, and it provides many gameplay possibilities.)
+
+I DO NOT KNOW WHAT TO DO WITH THIS
+
+## Arresting
+
+Each turn players get to see whether on surrounding tiles there is a fellow player.
+
+If you think you are certain of your case, you can *arrest* someone.
+
+If the police successfully arrest someone else, that person goes directly to prison.
+
+If a criminal successfully arrests someone else, that person is kidnapped to ... ?? (Maybe they can only arrest the superheroes... Or they can only knock people out?)
+
+IDEA: The police know where the prison is. Maybe there should be multiple prisons, or the police must manually bring a criminal back to some place.
+
+IDEA: If you kidnap (or arrest?) player A, you drag that person along with you. You have X number of turns to drop that person somewhere and ensure that you yourself get away.
+
+## Missions
+
+All criminals receive a *mission*. (They only receive this after they have chosen their hideout.) This indicates what they must at least achieve tonight. The system ensures that criminals must go to a different corner of the city all three nights.
+
+Criminals may do multiple things during the night. Once they are in their hideout, however, they may not leave it again that night.
+
+All police receive a *hint*. (... ?? Maybe a vague signal of criminals, or a vague idea of where they are or something.)
+
+## Gadgets
+
+Different players start with a different gadget.
+
+During the game you can also (in different places) buy (or sell) new things.
+
+IDEA: Can you also steal from other players/people? Possibly computer players, but maybe also fellow players?
+
+These gadgets provide all kinds of possibilities. A stronger weapon ensures that you can steal more things or win more fights. Another gadget might ensure that you move faster or can take a route that is otherwise impassable. Maybe you have a disguise, or a kind of shield, or radar equipment, etc.
+
+Maybe you even have something with which you can turn off lampposts ...
+
+IDEA: Criminals can leave a signature (by drawing something on their device)? Hmm, then the police must also draw something (otherwise it stands out so much), but what then?!
+
+IDEA: There are buildings where random items lie around ("up for grabs"). This can be coincidence, but it can also be someone's hideout!
+
+IDEA: People who are arrested go directly to prison. There, however, they can be broken out by others.
+
+IDEA: All roles (or only vigilante/helper/etc.) can sit on roofs of a building. In that case you have more overview and receive more information, but it makes you slow, because you must come down from the building again before you can do something. (And possibly it makes you visible, because people see that someone is on the roof.)
+
+QUESTION: What exactly can you see on the screen???? If you can see too much it is too difficult for the criminals, if you can see too little the idea of the screen disappears (and it becomes too difficult for the police)
+
+QUESTION: How exactly does the map work, and how are we going to generate it? Whitechapel has circles for Jack and squares for the rest ... but I do not see that working here. I think everyone shares the same things
+
+> IDEA: Make a grid, and there may be at most one dot in a grid. (And the color/type under the grid then determines what happens. So a blue tile yields a river/lake, for example.)
+>
+> IDEA: Use that technique from stackoverflow to give at least everything one connection, and then supplement if necessary.
+
+## How do we generate a random city?
+
+<https://stackoverflow.com/questions/2041517/random-simple-connected-graph-generation-with-given-sparseness>
+
+<https://gamedev.stackexchange.com/questions/18351/what-is-a-good-method-to-randomly-generate-edges-between-graph-nodes>
+
+<https://en.wikipedia.org/wiki/Delaunay_triangulation#Algorithms>
+
+<https://github.com/mapbox/delaunator>
+
+<https://mapbox.github.io/delaunator/>
+
+IDEA:
+
+- Place random points over a certain area.
+- Choose certain places to place fewer points. (For example, edge of the board, a certain district, a lake, etc.)
+- Use Delaunay triangulation to connect everything neatly.
+- Remove connections until I have a certain degree of connectedness. (And check that no single point is connected to nothing.)
+
+Maybe think in the idea of "districts" and "lakes/parks". Choose a few places, and make the chance that a point is placed there much greater than in non-chosen places. This gives densely packed city centers, but relatively empty/free suburbs and lakes.
+
+Once the map is made, place here and there a *metro station*, turn all water tiles into a *harbor*, place some *cars* and *bicycles* left and right. Each point gets one building; distribute those.
+
+The bus routes will be tricky. Maybe I should choose four points (one in each quadrant), and then always find the shortest route from one point to the next (using the Dijkstra algorithm)
+
+NOTE: **SIMPLIFY!** Forget those gadgets, focus on the different means of transport.
+
+Alternative for city network:
+
+<https://gamedev.stackexchange.com/questions/122015/how-to-generate-a-city-street-network>
+
+<https://web.archive.org/web/20170110152339/http://newton64.github.io/blog/2010-05-17-spare-parts.html>
+
+For generating polygons from a graph/Delaunay network:
+
+<https://stackoverflow.com/questions/25335509/how-do-i-find-all-polygons-in-an-undirected-graph>
+
+<https://blog.mrpetovan.com/web-development/algorithm-101-finding-all-polygons-in-an-undirected-graph/>
+
+Other:
+
+<https://hackaday.com/2017/05/28/procedurally-generating-random-medieval-cities/>
+
+<http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html>
+
+
+
+<!---
 
 In dit spel wordt iedereen gedropt in een stad. Het is nacht, en er gebeuren ongure dingen. Sommige spelers zullen vigilantes zijn die criminaliteit de kop in willen drukken. Anderen zullen juist criminelen spelen die de boel in de soep laten lopen.
 
@@ -281,3 +561,4 @@ Overig:
 <https://hackaday.com/2017/05/28/procedurally-generating-random-medieval-cities/>
 
 <http://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html>
+--->

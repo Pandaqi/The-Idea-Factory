@@ -209,6 +209,19 @@ $color-green-dark: #929C7B;
         }
     }
 
+    a
+    {
+        &:visited, &:active, &:link
+        {
+            color: $color-green-dark
+        }
+
+        &:hover
+        {
+            color: black;
+        }
+    }
+
     .remove-link-styles, #TableOfContents a
     {
         text-decoration: none;

@@ -2,20 +2,12 @@
 
 ## Website Design
 
-* HOME PAGE
-  * Make faction/random idea links look better
-
-LATER:
-* Clean up CSS a bit
-* Javascript Functionality (dark mode)
-  * Add view counters/"claimed this idea"? => https://haseebmajid.dev/posts/2022-11-25-how-to-add-page-views-to-your-hugo-blog-posts-using-goatcounter/
-    * https://umami.is/pricing
-  * Add functionality to "instantly mix-and-match ideas"? => So it would display multiple ideas on the same page somehow? Or split into paragraphs, then randomly mix the paragraphs through each other?
+Clean up CSS a bit
 
 ## Content Add
 
 * Think about which Webshop ideas are just not good enough (or have better idea replacing them).
-  * All those tiny stories/explorers ideas can be given away, no?
+  * Make a SINGLE FILE with everything to do for the webshop, IN ORDER, instead of spreading it out like this and having to re-check all the time. => Alternatively, mark all things to do with `@UNFINISHED` so I can CTRL+F find them at all times ... but then we still don't have a PRIORITY/ORDER, so meh.
 * Think about what to do with music + musicals
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
@@ -25,4 +17,36 @@ LATER:
 ## Content Fix
 
 * Translate more NL board games/video games to EN.
-* Open `.af` file when present, take screenshots and insert those images into the idea for clarity.
+  * Vloggen of Verzuipen
+  * Hunger Games inspired
+  * Hacker Puh
+  * Dierentuinspel
+  * Corrupte Keizers
+  * Het liftspel
+  * Werewolf-Mafia Inspired
+  * Valse Vervalers
+  * Spion vs Sniper
+  * Oorlog zonder Wapens (?)
+  * Het Afwasspel
+  * Vreemdelingenvoetbal
+  * Valse Bewijzen
+  * Undercovers covers covers
+  * Heksen
+  * Gemengde Signalen
+  * Creatief Koken
+  * Bejaarden Battle (?)
+
+(MET BESTAND UPLOAD ERBIJ)
+Vertaal deze tekst van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren.
+
+(GEWOON PROMPTS)
+Vertaal de tekst onder de streep van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren. ---
+
+
+
+## Future Website Improvements
+
+* Javascript Functionality (dark mode)
+  * Add view counters/"claimed this idea"? => https://haseebmajid.dev/posts/2022-11-25-how-to-add-page-views-to-your-hugo-blog-posts-using-goatcounter/
+    * https://umami.is/pricing
+  * Add functionality to "instantly mix-and-match ideas"? => So it would display multiple ideas on the same page somehow? Or split into paragraphs, then randomly mix the paragraphs through each other?

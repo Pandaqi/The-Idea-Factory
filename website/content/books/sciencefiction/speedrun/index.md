@@ -18,6 +18,16 @@ The book is divided into **levels** (a kind of flat simple puzzles).
 
 The students are at a school / institute where these kinds of things are used to *test* you.
 
+Below are four sketches as I tried to figure out what these interactive levels would look like on the page.
+
+![](levels/speedrun-sketch-1.png)
+
+![](levels/speedrun-sketch-2.png)
+
+![](levels/speedrun-sketch-3.png)
+
+![](levels/speedrun-sketch-4.png)
+
 ## Loose Ideas
 
 **IDEA:** The whole idea is that people are testing for *creativity*. The levels themselves an AI can easily play. But those tricks to be faster? The computer does not find those yet.
