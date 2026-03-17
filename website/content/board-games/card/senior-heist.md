@@ -1,11 +1,229 @@
 ---
-title: "Bejaarden Battle"
+title: "Senior Heist"
 categories: ["board-games"]
 tags: ["card", "party"]
-language: "nl"
+language: "en"
 progress: 2
 ---
 
+Everyone plays an elderly person. They try to rob a bank together, one last time, in order to boost their pension. Their employer, however, must not find out that they are not fit, healthy people at all ... but actually all have some issues.
+
+As usual this was quite a fun idea for a funny party game—you try to do something together, but everyone has a secret handicap that must not be guessed by one player—that I made too complicated and then never did anything with again.
+
+## Setup
+
+Everyone starts with 0 points.
+
+At the start of the game everyone receives two separate "handicaps" (or "roles"). Some handicaps consist of two or three cards that you must place one after another. Handicaps fall into three categories:
+
+-   **Verbal:** rule(s) for what you may/may not say. (Example: you may not say *yes* or *no*.)
+-   **Action:** rule(s) for actions you must perform *outside* the game. (Example: every time someone does X, you touch your face.)
+-   **Game handicap:** rule(s) for how you act *in* the game. (Example: you always vote for the person to your left.)
+
+Deal these cards face down and keep them secret.
+
+Take as many action cards as the number of players. Make sure one of these cards contains the "mission leader", and none of them a special card (start, alarm, loot, exit). The rest may be anything. Shuffle the cards and deal them face down. (So people do not know who the mission leader is.)
+
+Take sixteen grid cards (the 4 special cards, plus 12 random others). Place the start card face up, top left, with the **pawn** on it. Shuffle the rest and place them face down (in a 4x4 grid) on the table. TO DO: IMAGE.
+
+The loot is placed next to the board and is equal to the *number of players*.
+
+Agree beforehand how many rounds will be played. (1 is fine, or 3, or 5.) The game starts with the person who has the most handicaps. (Everything is reset at the start of a new round. In other words, the actions described in this setup are done again each round, except resetting the score.)
+
+## Game flow
+
+A round proceeds as follows: rounds are played until one of the following things has happened.
+
+-   The bank has been robbed and people have escaped successfully.
+-   All handicapped players and the mission leader have been completely exposed.
+
+When everyone is exposed, no one receives points for this round. If the mission succeeds, the loot is evenly distributed among all players *who are still in the game*. (Rounded down.)
+
+If someone is left alone, they must still bring the round to a successful end before they receive the loot! (Tip: therefore keep fellow players in the game as long as possible, and only expose them as late as possible.)
+
+*Win condition:* the person with the most points wins.
+
+## Handicap rules
+
+If you do not adhere to a certain handicap, it is (as punishment) turned face up and revealed. (Be honest about this!) The same applies to situations where you *must* break your handicap. If you ignore a handicap that is face up, and people call you out on it, you must turn over yet another handicap.
+
+If you cannot comply with your handicap (due to other game rules), however, you do not have to in those specific situations. (For example: you must always do the same as your left neighbor, but he plays a card and you have no cards in your hand.)
+
+> **You are out of the game if all your handicaps have been revealed.**
+
+*Guessing handicaps*: this is one of the most important actions a player may take. You point at someone and guess what their handicap is.
+
+-   Are you correct? The guessed handicap of the other is turned face up.
+-   Are you not correct? You must turn over one of your own handicaps.
+
+## The mission leader
+
+The mission leader is the only one who does not have to adhere to their handicaps. **BUT**, they may not be discovered. One of the actions is to guess the mission leader. The person who chooses this points at someone, with the following consequences:
+
+-   Is that person correct? Then the mission leader is immediately out of the game.
+-   Is that person not correct? Then that person themselves is immediately out of the game.
+
+If the mission leader survives, they receive one extra piece from all other players (who also received loot). (Tip: the mission leader can of course also perform handicaps from time to time, and let them be guessed, so as not to appear suspicious.)
+
+## The heist
+
+Everyone jointly controls the same pawn. The heist is complete if:
+
+-   The pawn has been on the alarm card ( = the alarm has been disabled).
+-   The pawn has been on the loot card ( = loot has been taken).
+-   The pawn is on the exit card ( = has reached the exit and escaped).
+
+*As long as the alarm is still on*, you may not knock anyone out, and you may only take one step per round.
+
+*As long as the loot has not been taken,* the loot cannot be adjusted.
+
+## Round flow
+
+Starting with the start player, everyone (clockwise) takes one action in turn. When everyone has gone, the round ends.
+
+The possible actions are:
+
+-   Draw a card.
+-   Play a card. (By attaching it face up or face down to the play grid.)
+-   Discard a card. (You may never hold more than three cards.)
+-   Move the pawn. (It may move one step in any direction.)
+-   Knock someone out. (This may only be done once per round. That hit player does nothing for one round, may also not vote and does not have to perform their handicaps. They must start the next round.)
+-   Bridge an obstacle. (It costs one action to bypass the obstacle, and one additional movement action to move on to the next tile. If there is also an obstacle there, an extra action must also be counted for that.)
+-   Guess a handicap.
+-   Guess the mission leader.
+-   Assign a handicap. (You accidentally hit someone with your walking stick and ... well, they must draw a new handicap and follow it from now on. This is in a sense an extra life, but also increases the difficulty.)
+-   Increase or decrease the loot. (The person removes 1 or 2 pieces from the loot, or places 1 or 2 pieces with it.)
+-   Vote. (See below.)
+
+## Voting
+
+If you call for a vote, the whole table votes on the last action taken (so that of the player before you). If the majority votes "YES", nothing happens, and the action from the previous round is therefore allowed. If not, the action is completely undone, and the next player takes their turn.
+
+Voting is done verbally. Starting with the person who calls for the vote, everyone (clockwise) casts their vote in turn, *including* an explanation why.
+
+## The play cards
+
+Each square card contains a symbol, and possibly obstacles to jump over. (See this as a kind of walls or fences.) (Direction therefore matters! It is therefore important to place/turn all cards in the same orientation.)
+
+There are four special cards:
+
+-   **Start**: you always begin here. (There is nothing special about this card otherwise.)
+-   **Alarm**: when the pawn reaches this card, the alarm is disabled. (See above for the consequences.)
+-   **Loot**: when the pawn reaches this card, the loot has been obtained. (The loot can still change.)
+-   **Exit**: when the pawn reaches this card, the round ends.
+
+These are the symbols
+
+-   **Nothing**: this card has nothing special
+-   **Guard**: you may only enter this card if everyone votes in favor (unanimously).
+-   **Camera**: you may never enter this card.
+-   **Darkness**: you may look at one card from someone's hand or five handicap cards that are *not* in the game.
+-   **Trap**: the person who enters this is knocked out or receives an extra handicap.
+-   **Explosion**: place this card on an existing card to remove it (and take it into your hand). From the moment the explosion card is on the field, it counts as a speed boost: instead of one, you may take two steps.
+
+## Contents / Materials Needed
+
+What items do we need?
+
+-   1 pawn
+-   1 start player card
+-   4 special grid cards
+-   1 mission leader card
+-   8 + 4 + 4 + 4 + 2 + 4 = 26 grid cards
+    -   Nothing: 8
+    -   Guard: 4
+    -   Camera: 4
+    -   Darkness: 4
+    -   Trap: 2
+    -   Explosion: 4
+-   X handicap setup cards,
+    -   X verbal handicap cards
+    -   Y action handicap cards
+    -   Z game action handicap cards
+
+The score can simply be kept on paper. The amount of loot *during* a round can also be adjusted per round on that same sheet of paper.
+
+Whether the alarm has already been disabled or the loot taken also seems easy to remember. (As well as whether someone is knocked out.)
+
+## Appendix
+
+### What handicaps are there?
+
+Verbal:
+
+-   You may only ask questions or answer other people's questions.
+-   You may not say numbers.
+-   Every time you say something, at least one word must end in "je" ( = diminutives).
+-   Every time you say something, you must mention someone's name.
+-   Every time you say something, you must start with the same word.
+-   Every time you say something, you must end with the same word.
+-   Every time you say something, you must make a comparison/give an example.
+-   You may not give criticism.
+-   You may not say positive things. (... rephrase to "you must always give criticism"?)
+-   You may not say "yes" or "no".
+-   You may not mention names (of players).
+-   You may not start a sentence with <a personal pronoun> (I, you, we, etc.)
+-   (Every time you say something, you must invent a non-existing word.)
+
+Actions:
+
+-   Lala
+
+Game actions:
+
+-   You may not move the pawn.
+-   You may not pass obstacles.
+-   You may not cast a negative vote.
+-   You may not cast a positive vote.
+-   You may not knock players out.
+-   You may not increase or decrease the loot.
+-   You may not assign a handicap.
+-   You may not discard cards.
+-   You may not call for a vote.
+-   You may not take actions against your left neighbor.
+-   You may not take actions against your right neighbor.
+-   You may not take actions against one self-chosen player.
+-   You must always support your left neighbor (especially during voting)
+-   You must always support your right neighbor (especially during voting)
+-   You must always support one self-chosen player (especially during voting)
+-   You may not move to a guard.
+-   You may not move to the darkness
+-   You may not move to a trap.
+-   You may not move to the alarm.
+-   You may not move to the loot.
+-   You may not move to the exit.
+-   You may not play an explosion card.
+-   You may not place new cards.
+-   If the person before you <certain action> (for example moves), you must <counteraction> (call for a vote, knock out, etc.)
+-   You must do the same action as the player who last mentioned your name.
+
+You may not => You may never (because that fits better with other things):
+
+> You may never ... mention someone's name.
+>
+> If the person before you moves, you must ... mention someone's name.
+
+PROBLEM 1: The level of handicaps differs greatly. Verbal handicaps are much heavier than in-game, for example.
+
+PROBLEM 2: Not everything can be combined. "You may not" and "You must always" cannot always be swapped, because that creates almost impossible situations. (Or is that actually fun!?) On the other hand: many of these actions have an inverse (you may not do something at all, or you must always), so that works again.
+
+ALTERNATIVE IDEA: The explosion card, once placed, is nothing special anymore.
+
+IDEA: Actions that trigger alarms, or make guards appear (or disappear)
+
+OPTIONALLY: on one card you can put many different things. Saves cards!
+
+VARIANT IDEA: The handicaps are much crazier and wilder than normal. People do not have to guess each other's handicaps, but simply keep up this character with handicaps for the entire round.
+
+VARIANT IDEA: It is not certain whether there is a mission leader.
+
+VARIANT IDEA: People only have in-game handicaps, not verbal or action.
+
+VARIANT IDEA: People play without obstacles, assigning handicaps or knocking out.
+
+_Original Dutch name: "Bejaarden Battle"._
+
+<!---
 Iedereen speelt een bejaarde. Ze proberen samen nog voor een laatste keer een bank te overvallen om zo hun pensioen te spekken. Hun opdrachtgever, echter, mag er niet achter komen dat ze helemaal geen fitte, gezonde mensen zijn ... maar eigenlijk allemaal wat probleempjes hebben.
 
 Zoals meestal was dit best een leuk idee voor een grappig partyspel---je probeert iets te doen samen, maar iedereen heeft een stiekeme handicap die niet geraden mag worden door één speler---dat ik te ingewikkeld heb gemaakt en toen nooit meer iets mee heb gedaan.
@@ -220,3 +438,4 @@ VARIANT IDEE: Het is niet zeker óf er een missieleider is.
 VARIANT IDEE: Men heeft alleen in-game handicaps, niet verbaal of handeling.
 
 VARIANT IDEE: Men speelt zonder obstakels, handicaps uitdelen of knock-out slaan.
+--->

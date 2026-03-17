@@ -25,8 +25,11 @@ Maria zingt over de vele angsten die haar constant wakker houden en bang maken. 
 Daarover zingt ze in het onheilspellende couplet. 
 
 > Wat als de bom valt? 
+> 
 > Alles in vuur en vlam gezet? 
+> 
 > Wat als de dijk breekt? 
+> 
 > En ik verdrink in m'n eigen bed? Wat als het doek vaaaalt?
 
 Het refrein is eigenlijk gewoon een hogere, snellere versie van die melodie met dezelfde vragen. Later (bij "De Overstroming") zit ook nog een melodie die hiernaartoe zou kunnen, want daarop past de tekst: "Als dit huis straks overstroomt, waar ga je heen dan?"
@@ -42,29 +45,45 @@ Leon heeft een _hele_ rijke fantasie. Hij blijft zich maar inbeelden hoe dingen 
 Dus het refrein is iets als ...
 
 > In mijn hoofd
+> 
 > Ben ik al jaren onomstreden
+> 
 > Ben ik verder nu dan ooit
+> 
 >
 > In mijn hoofd
+> 
 > Heb ik de veldslag al gestreden
+> 
 > Want ik heb mezelf beloofd
 >
+
 > In mijn hoofd, ben ik al daar
+> 
 > Al mijn dromen al klaar
+> 
 > (Tadum-tadum-taduuum)
 
 Het couplet begint met iets als ...
 
 > Ogen open
+> 
 > Ogen wijd open
+> 
 > Mijn hoofd ziet weer een wereld briljant
 >
 > Ogen open
+> 
 > Ogen wijd open
+> 
 > (Tadum-tadum-taduuum)
 
 
 ### 3. Hoe Jij Vroeger Was
+
+De demo hieronder staat in een rare volgorde en zit vol fouten. Het eerste stukje is de climax/bridge. Het tweede stukje is een overgang en couplet. Daarna komt het refrein waar het eigenlijk om draait.
+
+@TODO: Neem de veel betere versie op met echte piano, op juiste volgorde.
 
 {{< audio src="hoe-jij-vroeger-was.mp3" >}}
 
@@ -72,8 +91,21 @@ Nou, die waanbeelden van Leon hebben vroeger nogal wat ongemakkelijke situaties 
 
 Dit nummer wordt gezongen door zijn moeder als Leon opnieuw wordt herinnerd aan hoe iedereen hem raar vindt en hoe hij alles vroeger heeft verpest met zijn grote dromen en creatieve ideeën.
 
+Refrein:
+
 > Lieverd, op een hele mooie dag
+> 
 > Zal iedereen vergeten hoe jij vroeger was
+
+Bridge:
+
+> En misschien kom ik je tegen
+>
+> En we praten heel de daaag
+>
+> Over alles, over vroeger
+>
+> En de vriend die ik niet was
 
 ### 4. Hey Maria
 
@@ -84,7 +116,9 @@ Leon zit op zijn slaapkamer te rommelen aan zijn volgende liedjesidee. Dit numme
 Dan krijg je een couplet als ...
 
 > Hey Maria
+> 
 > I just wanted to say
+> 
 > I really, really, really wanted to see yaaa
 
 Het couplet is wat modderig opgenomen door mijn mobiel. Het refrein is echt lekker.
@@ -120,14 +154,19 @@ Hij en Maria kunnen eindelijk weer praten en samenwerken. Dus hij zingt met haar
 Het couplet is zoiets als:
 
 > Maybe tomorrow we'll be gone
+> 
 > We will---hide away
+> 
 > From all---our troubled oceans
 
 En het refrein
 
 > And we'll dine in the finest restauraaaants
+> 
 > You look beautiful as always in your black dress
+> 
 > Don't you come home safe, I won't wait until it's morning
+> 
 > Oh Maria, wait for me, we aaaare free
 
 Maar dan Nederlands dus. Leon en Maria dansen terwijl ze dit zingen, hartstikke blij, super leuk.
@@ -160,22 +199,30 @@ Twee nummers die bij elkaar passen, weet nog niet precies hoe.
 
 Door de hele bosbrand, gevaren, en gedoe, wordt Leon inmiddels thuis opgesloten door zijn ouders. Hij mag niet meer naar buiten, hij mag niks meer, totdat hij dat hele klimaatgedoe opgeeft, achter zijn vader de burgemeester gaat staan, en school netjes afmaakt.
 
-Dus hij zingt over hoe hij binnen zit, en naar buiten kijkt (naar alle mooie kleuren, mensen die dingen doen, etcetera), maar het niet kan aanraken of beleven.
+Dus hij zingt over hoe hij binnen zit, en naar buiten kijkt (naar alle mooie kleuren, mensen die dingen doen, etcetera), maar het niet kan aanraken of beleven. Het is de grootste angst van Leon: **vast komen te zitten in een gevangenis** (fysiek of mentaal, metaforisch of niet).
 
 Eerste demo:
 
 > Ik heb een tekening gemaakt
+> 
 > Vaaan de mensen in het park
+> 
 > Heb ik mij aan dat beeld gewaagd
+> 
 > Zomaar opgeschreven, blijf nog even
+> 
 > Lieverd in mijn dromen ben ik weg
+> 
 > ...
 
 Tweede demo (dit is in wintertijd):
 
 > Ik zie de mensen door het vensterraam
+> 
 > Ze bouwen werelden van sneeuw
+> 
 > En ik kijk mijn oooooogen uit
+> 
 > (Geen geluid, als ik beslui-ui-uit)
 
 
@@ -190,10 +237,15 @@ Dat loopt uiteindelijk zo uit de hand dat ze haar pas net op tijd vinden, zwaar 
 Delilah zingt dus iets als,
 
 > Geef me waaaaarmte
+> 
 > Anders voel ik niets
+> 
 > Slechts een herinnering, verwaaarmd me
+> 
 > Geef me aaaaaadem
+> 
 > Bevestig mijn bestaan
+> 
 > tadadada tadaada tadadada
 
 Nogmaals, als je het hele boek leest past dit allemaal, maar nu is het even flink samengevat.

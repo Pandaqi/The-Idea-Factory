@@ -42,8 +42,11 @@ Openingsnummer. J zingt over zijn gezondheidsproblemen en hoe iedereen nog even 
 Het (einde van het) refrein is iets zoals:
 
 > Ik heb twee seconden gepraat
+> 
 > ik ben bekaf
+> 
 > Blijf nog even, uit mijn leven
+> 
 > Ik ben nog niet af
 
 ### 2. Barcelona (Ja Ik Kom) (I)
@@ -59,9 +62,13 @@ Ik weet niet wat hier misging, maar dit nummer hoort dus eigenlijk _driekwartsma
 Het refrein is:
 
 > Kom laat die zomerwind maar waaien
+> 
 > Ik ben klaar
+> 
 > En alle dagen zijn van mij
+> 
 > Alles is fris, alles is nieuw, alles is beter in die zon daar
+> 
 > Barcelona ja ik kom
 
 ### 3. Ze Praat Niet Tegen Mij
@@ -72,9 +79,10 @@ Ik had zo'n beeld in mijn hoofd dat J en M met de rug naar elkaar staan midden o
 
 Totdat J dus die "leugen" begint. M slaat erop aan, J liket als eerste haar nieuwe social media account, en zo wordt een samenwerking geboren.
 
-Het couplet is steeds alsof je een berichtje stuurt, iets als
+Het couplet is steeds alsof je een awkward berichtje stuurt, iets als
 
 > Hey, ga je mee, g'woon ons twee
+> 
 > Naar de club, de film, de stad, of de zee
 
 Het refrein is letterlijk (herhaald): "Ze praat niet tegen mij, ze praat niet tegen mij-hij"
@@ -120,15 +128,21 @@ M is de enige die hem ziet en hem buiten opzoekt. Maar ... ze is inmiddels behoo
 Dit begon als een Engels nummer (vraag mijn hoofd niet waarom). 
 
 > At a party of foooour and I am not invited
+> 
 > At a party of foooour I am waiting by the door
+> 
 > At a party of foooour I am wishing, wondering, waiting
+> 
 > How could I, begin to try, how could I surviiiive
 
 Maar kan natuurlijk makkelijk in het Nederlands. Zoiets als:
 
 > Op het feest van mijn vrienden en ik ben niet uitgenodigd
+> 
 > Op het feest van mijn vrienden wacht ik eindloos bij de deur
+> 
 > Op het feest van mijn vrienden en ik wens en droom en wacht maar
+> 
 > Hoe kan ik, zeg me hoe, waar moet ik naartoe?
 
 Deze ervaring overtuigt J om zijn leugen volledig door te zetten in te gaan op het sketchy aanbod van die arts. Hij overtuigt M om met hem mee te gaan (zij denkt dat ze dus die connectie uit Barcelona gaat ontmoeten die haar groot gaat maken), en zij gelooft dat natuurlijk volledig.
@@ -200,15 +214,21 @@ Het nummer hiervoor staat allesbehalve vast. De melodie hieronder leek me een mo
 De tekst was origineel Engels:
 
 > If I cooooould hide from my mistakes
+> 
 > Every day
+>
 > Life is gonna find a way
+> 
 > (My) love is gonna be okay
 
 Kan naar het Nederlands met zoiets als:
 
 > En nu ik weeeet dat ik niet af hoef zijn
+> 
 > Al die pijn
+> 
 > Het leven vindt toch wel een weg
+> 
 > Liefde overkomt je pech
 
 

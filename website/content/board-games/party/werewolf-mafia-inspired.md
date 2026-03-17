@@ -1,11 +1,371 @@
 ---
-title: "Weerwolven/Mafia Ideeën"
+title: "Werewolf/Mafia Inspired"
 categories: ["board-games"]
 tags: ["party", "social"]
-language: "nl"
+language: "en"
 progress: 2
 ---
 
+This article is a selection from my many attempts to come up with some kind of improved, simplified, different version of the game *Werewolves*. The conclusion is actually that it is very difficult to improve the game without removing exactly what makes it good in the first place. But we keep searching ...
+
+## My problems with Werewolves
+
+Werewolves is a fun game. But there are a few problems:
+
+* It is a big chaos. There are too many people doing things at the same time.
+
+  * Solution: split people into different groups (in some way), let people take turns doing something, different phases
+* The loudest person wins, and often no arguments are made.
+
+  * Solution: add structure, roles that require you to say/claim something/get attention briefly, always leave something behind (such as the "will" from Town of Salem)
+* It is not logical/tactical/diverse enough. It is often not really possible to deduce which roles people are, and the roles become boring quickly.
+
+  * Solution: roles that cooperate in such a way that you can deduce something (if you play well), roles that are more complex, roles that have a bigger impact (such as a vampire that wins if everyone has become a vampire, but it can take 6 rounds before people realize that person is there)
+* It is stupid to be dead. People want to play, not watch from the sidelines. (Especially if you die immediately the first night.)
+
+  * Solution: you cannot die, you can be other things than dead (paralyzed, petrified, moved, etc.), even if you are dead you still have something to do.
+
+## 1. Loose Ideas
+
+My current idea is as follows: everyone has a "role of the living" and a "role of the dead". People sit in two groups next to each other: the living and the dead.
+
+Everyone starts alive. (Except a special role?) At night/during the day you play your "role of the living".
+
+If you are murdered, you go to the group of the dead. From that moment on you play the "role of the dead".
+
+By being murdered in the "world of the dead" (or by using a special action), you can return to the living.
+
+*In what way are these two groups connected?* You can see them as completely separate, and just alternate day/night phases. But that is BORING. Maybe in certain cases they have to vote together, or always vote simultaneously, or perform actions through each other during the night.
+
+Extra idea: people have multiple tokens in front of them with different meanings. These can be flipped, removed, etc. by various roles. This immediately gives "evidence" of what has happened to the outside world, and helps with a better discussion phase.
+
+> These tokens of course also indicate important things. For example, they track whether someone is infected by the vampire, whether someone has been set on fire by the pyromaniac, etc.
+
+Extra idea: I really like special, extremely strategic roles. So I would prefer:
+
+* roles that can choose from multiple options
+* roles that have a delayed effect (such as vampires)
+* roles that make major changes (such as changing someone's role, or status, etc.)
+* roles that belong to a subgroup (so that you suddenly have to cooperate with others to make your group win)
+
+Moreover, it seems wise to have a large collection of roles, so that you are never sure what is in the game, and people have more freedom to claim things.
+
+*QUESTION: But if you cannot die, when does the game end?* It seems logical that it ends when all others are in the "world of the dead".
+
+Otherwise there must be some kind of ticking time bomb. Or: people have multiple lives, and must eliminate all lives of the others.
+
+## 2. Online Werewolves Game
+
+Website format. (Automatically playable on computer, tablet and mobile.)
+
+An online variant of werewolves/mafia, but better. (More based on logic/tactics, dead players are not out of the game, more interesting roles.)
+
+### Theme
+
+The theme of the game is **fairy tales**. Everyone lives together in the **enchanted forest**, and the roles are all related to fairy tale characters (or otherwise magical/special characters).
+
+### Setup
+
+When you sign up for a game, you must come up with a good fake name. (This ensures that people do not know who is who, and cannot play based on that.)
+
+At the start of the game everyone gets two secret roles: the "role of the living" and the "role of the dead".
+
+Everyone starts in the world of the *living*. The game starts with the *night* phase.
+
+### Phases
+
+The game is turn-based.
+
+The creator of the game can set the length of the day/night phase themselves. (If you set this very short, it becomes practically real-time.)
+
+* If the time for that phase has passed, the phase ends automatically.
+* A phase also ends immediately if everyone has chosen their action and declared it final.
+
+*Note:* there is also an option to make the game faster, by automatically making every action final.
+
+### Day Phase
+
+During the day everyone talks together in the forest chat. If you say something it is by default public and visible to everyone. The goal is to discuss and figure out who the villain is.
+
+Some roles can perform an action during the day, but most cannot.
+
+During the day people can vote on another player. When the number of votes *exceeds 50%*, the day phase is extended with two phases: defense and judgment.
+
+**Defense:** the person in question gets time to defend themselves to the forest.
+
+**Judgment**: everyone votes whether the person is guilty or innocent. You can also choose not to vote.
+
+If the majority votes *guilty*, the person is lynched. Otherwise they are acquitted, and the night begins immediately.
+
+*Important:* who votes for whom, and whether someone votes guilty/innocent/abstains, is all made public.
+
+*Important:* there are two *separate* day phases for the world of the living and the world of the dead. Each world therefore has its own discussion (which the other cannot see), and its own lynching.
+
+**Lynched players** go to the other world.
+
+## Night Phase
+
+At night everyone performs their action. If you are in the world of the living, you perform your "role of the living". (In the other world you of course perform your "role of the dead".)
+
+In many cases you can choose not to perform an action. You generally cannot perform actions on people from the other world.
+
+Some roles make you part of a group, or allow you to talk to people from the other world, and for that you automatically get a private chat at night.
+
+Once you have made your choice, you can always change it later. Only when everyone has made a choice and indicated that it is *final* does the night end.
+
+At the end of the night all actions that were performed are combined and resolved in the correct order.
+
+*For example:* a wolf can choose to kill person A, but if A was protected by another role, nothing ultimately happens.
+
+*For example:* a vampire decides to bite person A, but A was swapped with another character, and that other character happens to be a role that can defend itself, then the vampire ultimately dies.
+
+Only the result of the actions is given to everyone in the forest. The result for someone personally is communicated to that person in more detail (e.g.: "attacked, but you were moved")
+
+**Killed** players go to the other world.
+
+## Extras
+
+You can whisper ("send whispers") to specific players. This allows you to communicate privately, but the whole forest can still see that you are whispering with that person.
+
+Everyone has a personal section (a diary, or last will) that they can keep. Others can view this whenever they want. In it you can keep track of suspicions, secretly send messages to the right people, pretend to be good, etc.
+
+## End of the Game
+
+Different roles have different win conditions. But most roles win when they are the only remaining group.
+
+*How do you "really" die?* Each player has a limited number of lives. Each transfer costs a life. Additionally, some roles can grant extra lives, or take extra lives (possibly without transfer).
+
+If the number of lives is 0, the person truly dies. A dead person is removed from the game. They can still read along with the rest of the game, and chat with the truly dead (via the same chat; the players simply do not see these messages). They can also choose to permanently leave the game (probably to start a new game).
+
+It is more likely, however, that a group wins for another reason. For example, vampires win if everyone is infected, regardless of where they are. In a game with few players, and "protective roles" that are not paying attention, that can happen quickly.
+
+*Note:* moreover, there are roles that win on their own. For example: a role that wins if it ... ?? (Regardless of whether they win or lose, the rest of the game continues, and more people can still win.)
+
+Role ideas:
+
+* Someone who can block a transfer (from world to world).
+* Someone who can force a transfer.
+* Someone who can swap the two roles (living role / dead role)
+* Someone who can talk to people from the other world (via whispers? Others can also fake whisper?)
+* Someone who listens in on the other world (but no interaction)
+
+  * In the same way, someone who listens in on the wolves, or the vampires, etc.
+* Someone who can give one of their own lives to someone else?
+* Someone who can take one life from someone else?
+
+**QUESTION:** A third role? So your "character" that everyone can see from the outside, or the "house" you live in?
+
+**QUESTION:** If you are truly dead, do you become a standard role (based on what you were before)? So, if you were good, you become X. If you were bad, you become Y. And you can still do things?
+
+**QUESTION:** It becomes difficult to make such games not extremely chaotic, or to give one of the groups a big advantage ...
+
+## 3. Board Game Variant
+
+Inspired by *Ultimate Werewolf: Inquisition*.
+
+There are several different roles. Some belong to the "good" camp, some belong to the "bad" camp.
+
+By performing roles, people can (among other things) gain "votes" (or "power").
+
+Performing a "bad role" gives you -1 reputation (or increases your criminality, or something). But "bad roles" are extra strong!
+
+The lower your reputation (etc.), the more dangerous it becomes for you, because if you drop below a certain number you are out of the game. (Or at least you lose all your voters? Or something else? Player elimination is stupid.)
+
+> Maybe your reputation counts as "fixed opposing votes". So if you have -2 reputation, you automatically have 2 votes against you?
+
+After the roles are chosen and performed, people choose one of two options:
+
+* The king suspects one of the subjects and starts a vote to kill/banish them.
+* The king is overthrown and a new one is chosen.
+
+The person who has been king the longest wins?
+
+But ... when does the game end? Maybe, by killing/banishing players (or overthrowing the king), people gradually disappear from the royal staff.
+
+NOTE: I need to find a way to connect the *players* (and their situation/role) with their *votes* and the *royal staff*.
+
+> Maybe players have different "allegiances", and therefore want to preserve as many of their own allegiance as possible.
+>
+> Maybe the *overall* reputation of an allegiance must not drop below a certain level? (So at the start of the game everyone learns their group members?) (SEEMS LIKE A GOOD PLAN. This way you must pay attention to teammates, plan ahead, and others can possibly deduce which team you belong to.)
+
+OKAY, the idea:
+
+> Everyone is part of a rebellion that wants to seize power.
+>
+> During the game they try to gather votes ("support"), because with a greater majority they can achieve more.
+>
+> Each round, people choose one of the remaining roles (from the royal staff) to play. This can yield votes, information, or just mess things up.
+>
+> When everyone has played a role, it remains in front of them. Now comes the *voting phase*.
+>
+> The king suspects one of his subjects and wants the group to find the mole together. One by one, everyone places votes on the person they suspect. (You must, if possible, cast at least one vote. If you have more, you *may* cast more.)
+>
+> The person with the most votes is "banished". The role in front of them is removed from the game. The player does receive all the votes that others placed on them (all remaining votes disappear). The king remains the king.
+>
+> Alternatively, each player (non-king) may raise their hand and call to overthrow the king. (This may happen at most once per voting phase.) Everyone votes simultaneously, face-down, for or against the current king. If the result is against, the king is "banished" (role disappears). Everyone gets their vote back. Finally, everyone votes for a new king.
+
+NOTE: What is so special about the king? Maybe you have special powers. And/or you receive an "I-am-the-king" token each turn, and how many your team has also matters.
+
+NOTE: Both the day and night phase always start with (the first player to the left of) the king and proceed clockwise.
+
+SOLUTION: The gameplay is day -> voting phase -> night
+
+If a role is "banished", it leaves the day phase, but then appears in the night phase. All players who do not choose a role during the day phase (because they cannot, or because they choose not to) must play a role in the night phase.
+
+The roles in the night phase are of a very different nature (and less strong) than the day phase, but still important.
+
+Everyone who has already performed a role during the day must close their eyes at night.
+
+WHAT CAN THE KING DO?
+
+* The king does *not* choose a role during the day. (The king always sleeps at night.)
+* The king has the deciding vote in case of a tie.
+* The king votes last in the voting round (since you always start with the player to the left of the king)
+* The king's *reputation* automatically goes up/down by 1 or 2 each round (I don't yet know which is more interesting??)
+* The king automatically receives 3 extra votes each day (regardless of what happens) (Maybe 3 is a bit much ... we will see??)
+
+END OF THE GAME:
+
+The game ends when ...
+
+* Only one group still has roles in the day phase. (That group wins.)
+* The king alone has more votes than all other players combined. (His group wins.)
+
+NOTE: But if the king can also be banished ... what happens then? Because he never has a role in front of him.
+
+NOTE: If a player uses a certain role card at night, they simply put it back afterward. This way the others do not know what they did (and whether they did anything). (An alternative is to place the card face-down, but you can still infer a lot of information from that.)
+
+NOTE: What exactly happens when a player is banished? What is the significance, and how can I connect that thematically?
+
+NOTE: Is there anything important about choosing a role that is not of your color (or precisely is)?
+
+NOTE: It is a bit unfortunate if one team is smaller than another. (For example, with 5 players and 3 teams, you get 2 + 2 + 1.) Solutions:
+
+* The 3rd team is a special type of team. It always has fewer members than the other teams, but can do more/something different.
+* We do not care. In Saboteur you also have unevenly distributed teams.
+* We use 4 teams. If the player count cannot be divided over 4 teams, we use the 4th team as a kind of "decoy" team. (The neutral/grey/outsider team.) In that situation nobody belongs to the 4th team, but they can still use the roles and everything.
+
+I considered naming the game "Whispers in the Castle" or "Whispers from the King".
+
+But then whispers really have to be involved. So maybe something secret that is passed along (like the "Werewolf night" in Ultimate Werewolf, where everyone passes something, but only the werewolves may see/change the stack).
+
+NOTE: During the day you *must* perform a role (if available). At night you *may* perform a role (as long as available), and almost all night roles are only usable for (significant) payment in some way.
+
+NOTE: Or should the king actually be able to watch at night? That he is the only one who experiences both the day and the night? (And then you immediately have control over people following the rules at night, etc.)
+
+IDEA: If your reputation is too low, you may no longer do anything at night (because someone with such a reputation would definitely not be given a key to the castle).
+
+NOTE: Now the king has nothing to do at all, except during the voting round (and waiting to see what mess the rest produces). Maybe he should get a bit more power. (Such as determining who can be voted on during the voting phase? A special action?)
+
+NOTE: All role cards are double-sided (one side shows the day role, the other side the night role). In the middle of both sides is an empty circle/square. In that you place the "group token" => this determines which group the person belongs to. (That does not change for the rest of the game.)
+
+It seems useful to always have a multiple of the number of teams in role cards. (So that, when laying out the cards, you can simply alternate tokens and automatically get something balanced.)
+
+> Should I just duplicate some roles? Because I think a number of "basic roles" are too important to miss/lose/not have in your team.
+>
+> Especially something like the bodyguard/prince/jester can easily be doubled.
+
+For example:
+
+* 4 players => 2 teams => 10
+* 5 players => 3 teams => 12 role cards
+* 6 players => 3 teams => 15
+* 7 players => 3 teams => 15
+* 8 players => 3 teams => 15
+* 9 players => 4 teams (?) => 16 (or 20? Are we even going that far?)
+
+### Roles
+
+#### Bodyguard (maybe Palace Guard is more fun)
+
+**Day:** the king must sleep at night, and the bodyguard watches for him. (The next morning the bodyguard can lie about what happened. Because ... even the night players must keep their eyes closed when it is not their turn? Or they may not comment on the communication between king and bodyguard, but that is meh.)
+
+**Night:** the king must sleep during the day. The king therefore has no say during the day (and is also not part of the vote?)
+
+#### Prince
+
+**Day:** the charming prince easily gathers votes. The player gets 3 extra votes.
+
+**Night:**
+
+#### Jester
+
+**Day:** everyone enjoys your funny jokes -- your reputation increases by 2 (or 3?)
+
+**Night:** Lala
+
+#### Magician
+
+**Day:** may, at the end of the voting round, swap at most 10 (or 5?) votes between two people.
+
+**Night:** may swap all votes of one player with all votes of another player (who has more than 0 votes ...?? Otherwise it might be too powerful).
+
+#### Advisor
+
+**Day:** the advisor advises to come back again at night.
+
+**Night:** Lala
+
+#### Banker (... there is a better word for that; Notary? Accountant?)
+
+**Day:** Lala
+
+**Night:** Lala
+
+#### Commander
+
+Small IDEA: The commander is the *only* person who can call to overthrow the king? Nah.
+
+BETTER IDEA: the commander may single-handedly overthrow the king (by force, so to speak)? Or only at night?
+
+**Day:** chooses one player; that player may not choose a role during the day
+
+> Aaaah no the baker already does this!
+
+**Night**: gather votes? You mean torture people until they vote for you! You may steal one vote from all players, or all votes from one player (or something??)
+
+#### Knight
+
+**Day:** you are protected from all actions from now on; but not from banishment.
+
+**Night:** you are protected from all actions, even banishment. *Note:* this card remains with you. You do not choose a card the next day and night; the day after that the knight is gone again.
+
+#### Marshal
+
+**Day:** you determine for another player which role they choose. (You pick up this card and place it with that person; they execute it on their turn.)
+
+**Night:**
+
+#### Baker
+
+**Day:** he may choose a role and temporarily disable it. His food was expired and that role cannot act this day (or night).
+
+**Night:** Lala
+
+#### Other
+
+**Secretary?**
+
+**Master of Ceremonies?**
+
+**Grandmaster?**
+
+**Stablemaster?**
+
+**Diplomat/communication?**
+
+Alternative name for commander = *general* or *lieutenant*
+
+VERY IMPORTANT ROLE IDEA: A role with which you can bring a character from the night back to the day. That of course must not be too powerful (or too easy to obtain). But it ensures that everyone always still has a chance and something to do.
+
+VERY IMPORTANT ROLE IDEA: roles that give smaller amounts of reputation or votes, or only if certain conditions are met. ("If you currently have 0 votes, ..." or "If you currently have a perfect reputation ..." or something)
+
+ROLE IDEA: Roles that do both at once (+1 reputation, +1 vote)
+
+Role idea: someone who can swap the allegiances of people (only at night, and for a very high cost?)
+
+
+<!---
 Dit artikel is een greep uit mijn vele pogingen om een soort verbeterde, versimpelde, andere versie van het spel _Weerwolven_ te bedenken. De conclusie is eigenlijk dat je het spel heel lastig kunt verbeteren zonder precies datgene weg te halen wat het in eerste instantig goed maakt. Maar we blijven zoeken ...
 
 ## Mijn problemen met weerwolven
@@ -359,3 +719,4 @@ ZEER BELANGRIJK ROLIDEE: rollen die in mindere mate reputatie of stemmen oplever
 ROLIDEE: Rollen die beide tegelijk doen (+1 reputatie, +1 stem)
 
 Rolidee: iemand die de allegiances van mensen kan omwisselen (alleen 's nachts, en voor een héle hoge prijs?)
+--->

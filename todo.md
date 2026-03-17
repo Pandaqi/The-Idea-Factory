@@ -18,30 +18,22 @@ Clean up CSS a bit
 ## Content Fix
 
 * Translate more NL board games/video games to EN.
-  * Vloggen of Verzuipen
-  * Hunger Games inspired
-  * Hacker Puh
-  * Dierentuinspel
-  * Corrupte Keizers
   * Het liftspel
-  * Werewolf-Mafia Inspired
-  * Valse Vervalers
   * Spion vs Sniper
   * Oorlog zonder Wapens (?)
   * Het Afwasspel
-  * Vreemdelingenvoetbal
   * Valse Bewijzen
   * Undercovers covers covers
   * Heksen
-  * Gemengde Signalen
   * Creatief Koken
-  * Bejaarden Battle (?)
 
 (MET BESTAND UPLOAD ERBIJ)
 Vertaal deze tekst van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren.
 
 (GEWOON PROMPTS)
-Vertaal de tekst onder de streep van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren. ---
+Vertaal de tekst onder de streep van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren. 
+
+---
 
 
 

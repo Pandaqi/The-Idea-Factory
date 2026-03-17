@@ -1,11 +1,147 @@
 ---
-title: "Valse Vervalsers"
+title: "Fakey Fakers"
 categories: ["board-games"]
 tags: ["party"]
-language: "nl"
+language: "en"
 progress: 2
 ---
 
+In this game everyone imagines themselves to be a great, creative, and above all artistically sincere painter. Well, except one of you. This person is the "forger". He tries to smuggle his forged drawings into the exhibition and thus go home with loads of money. Will the painters manage to find the forger? Or will evil prevail?
+
+_Alternative title: "Panic in the Painting Factory"_
+
+## Requirements
+
+A lot of paper, a lot of writing materials, and something to keep track of money with. (Poker chips for example.)
+
+## Game flow
+
+This game lasts as many rounds as you agree beforehand, or until everyone has been the leader.
+
+In these rules the symbol "X" will be used to indicate the *number of players*.
+
+All players receive **100 euros** at the start of the game.
+
+Each round the following happens:
+
+-   A *leader* is chosen (the exhibition master!).
+-   The leader opens the exhibition.
+-   The leader gives assignments.
+-   Everyone draws their paintings.
+-   People buy and sell until all paintings have been handled.
+
+### 1. Opening the exhibition
+
+The *leader* comes up with a theme for the exhibition. This theme may be anything, but it is recommended to keep it as short and simple as possible.
+
+*Example*: "The effect of deforestation on the habitat of elephants" is allowed, but not recommended.
+
+> Then do "Climate change", or "Elephants", or "The disappearance of rainforest".
+
+The leader clearly communicates this theme to everyone.
+
+Then he comes up with X words that fit the theme, and writes these down. These are *secret* for the other players.
+
+### 2. Giving assignments
+
+The leader makes X notes with one of those X words on each. These words are all unique -- no two players receive the same word!
+
+On one of those notes, however, he writes *no* word. He only puts a *cross*. (The person who receives this note is the **forger**.)
+
+Then he deals these notes face down.
+
+### 3. Drawing!
+
+The goal of the drawing phase is to get a beautiful painting that depicts your word. Each painting, however, has 4 different painters. The following phases are executed in order:
+
+**Preparation:** all players take a blank sheet (for example an A4) and fold it into 4 parts.
+
+**Drawing:** one chooses one of the 4 sections, and starts drawing in it. There are only a few rules:
+
+-   The section must be empty before you draw in it.
+-   You may *not* draw your entire word in one section. (Suppose your word is "football", you may not draw the entire football in one section and leave the rest empty/fill it with something else.)
+-   You may not use more than 5 lines. (A "line" does not have to be straight. A line starts when your pen touches the paper, and stops when you let go.)
+
+**Passing on:** when everyone has drawn something, people pass their paper to another person.
+
+*Note:* no one may have more than one painting in front of them. If someone receives multiple, they must pass the remaining papers to someone else who has none.
+
+If people have had 4 drawing rounds, each painting is finished, and we go to the **submission** phase. If not, we return to the **drawing** phase.
+
+**Submission:** the paintings are handed in to the *leader* and step 4 ("bidding") begins.
+
+### 4. Bidding
+
+**Determining value:** now that the paintings are in, the leader must determine their *value*.
+
+Each painting that the **forger** has contributed to is automatically worth 0 euros!
+
+All other paintings may be given a value by the leader. He has a total of **100 euros** to distribute however he wants. (A painting that is *not* forged may never be 0 euros. And no, it may also not be worth negative money.)
+
+The leader takes his list of X words, and writes behind each word the value he has come up with. Behind **forged paintings** he writes a random number---this is only to fool the players, the real value of those paintings is 0.
+
+**Bidding:** then the paintings are handled one by one. Per painting, starting with the person to the left of the *leader*, people may bid.
+
+Each bid starts at the lowest amount (10). If you want to stay in, you must raise by at least 10, otherwise you say "pass" and you are out for this painting.
+
+When the whole table has passed, the player with the highest bid wins. That player pays his bid to the leader. The purchased painting is placed in front of him, to indicate that he bought it.
+
+**Revealing value:** when all paintings have been sold, the leader reveals the real values. He must *pay back* the real value of each painting to the player who bought it.
+
+*Example:* Henk buys a painting for 200 euros. He immediately pays this amount to the leader and places the painting in front of him. When all paintings have been handled, the leader reveals that the painting was worth 300, and pays 300 to Henk.
+
+*Example:* if that painting had been from a forger, the leader would not have to pay anything back. Profit!
+
+## What does the forger do?
+
+The forger only has to do two things:
+
+-   He does not receive his own word to draw---only a cross---so he must come up with something believable to draw. (Suppose the theme is "Elephants", and you see that no one is drawing a circus yet, then you start that.)
+-   He must leave the same *signature* in all paintings he contributes to.
+
+**What is a signature?** A specific, visible symbol of at least one line.
+
+You have two choices: *draw exactly the same thing*, or *draw symbols from exactly the same category*.
+
+If you draw exactly the same thing, it may be anything, as long as it is visible. Think of: a vertical line, a circle, a square, a cross, etc.
+
+If you draw from the same category, the category must be describable with one word. Think of: letters, numbers, circles, etc.
+
+The signature may not be identical, as long as it is consistent within the same category
+
+Suppose you choose "letter" as signature. Then you can place a different letter in each painting you contribute to, as long as you place a letter.
+
+In addition, it is of course recommended to also act like an enthusiastic player during the bidding round, and possibly bid up your forged paintings, etc.
+
+**THIS IS TIAMO FROM THE FUTURE:** A much better rule is of course: the *leader* determines the signature for the forger. (So he receives a note with which signature he must leave, instead of a standard cross.)
+
+## End of the game
+
+After everyone has been the leader once -- or a predetermined number of rounds has been played -- the game ends.
+
+The person with the most money wins! If that is tied, the person who has bought the most paintings wins.
+
+**Note/Problem/Question:** does the leader receive the 1000 euros he assigns? Or wait ... is it not even more fun if the leader has to assign his own money? (So suppose he has 2000 euros, he can choose to distribute all of that. And then as an extra rule: you must distribute at least 500. If you do not have that, you receive money from the bank until you have 500.)
+
+**Question:** what does the forger get for all his effort? It would be nice if he earns a lot from it when people buy his paintings.
+
+> Follow-up question: the forger can be in quite a lot of paintings. Does it not then become very easy to lose money, as a player? And should not more fake words be devised?
+
+**Problem:** the person who received a word first of course knows what he has drawn. THAT PERSON MAY NOT BID!
+
+**Note:** with more than 8 people you can have two forgers. (With fewer than 8 it may happen that *all* drawings are forged. Or is that actually fun? :p)
+
+**IDEA:** Maybe the words are always ordered from high to low (or vice versa) of *how much they are worth*. That gives people an idea.
+
+> Maybe it is more fun if everyone receives a secret word? (But then a *different word*, unlike Fake Artist. And then that afterwards people have to guess what others have drawn.)
+
+**SOLUTION (!!??):** If someone who is *not* a forger also uses the same "signature" in all his paintings, that person receives extra money.
+
+> In this way people are encouraged to make the game easier for the forger. The more "greedy/competitive" the group, the easier the forger can win, because everyone tries to sneak a signature in somewhere.
+
+_Original Dutch title: "Valse Vervalsers"._
+
+<!---
 In dit spel waant iedereen zich een geweldige, creatieve, en vooral artistiek integere schilder. Nou ja, behalve één van jullie dan. Deze persoon is de "vervalser". Hij probeert zijn vervalste tekeningen de tentoonstelling binnen te smokkelen en zo met bakken geld naar huis te gaan. Lukt het de schilders om de vervalser te vinden? Of zegeviert het kwaad?
 
 _Alternatieve titel: "Paniek in de Schilderijenfabriek"_
@@ -138,3 +274,4 @@ De persoon met het meeste geld wint! Als dat gelijk is, wint de persoon die de m
 **OPLOSSING (!!??):** Als iemand die géén vervalser is óók in al zijn schilderijen dezelfde "handtekening" gebruikt, krijgt diegene extra geld.
 
 > Op deze manier wordt men aangespoord om het spel makkelijker te maken voor de vervalser. Hoe "gieriger/competitiever" de groep, hoe makkelijker de vervalser kan winnen, want iedereen probeert een handtekening ergens in te stoppen.
+--->

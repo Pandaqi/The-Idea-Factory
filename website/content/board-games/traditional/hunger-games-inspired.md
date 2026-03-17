@@ -2,10 +2,83 @@
 title: "Hunger Games Inspired"
 categories: ["board-games"]
 tags: []
-language: "nl"
+language: "en"
 progress: 3
 ---
 
+A board game based on "The Hunger Games" (the general concept, not the specific story). 
+
+I still find this very promising: a game where you never know where everyone is, and have to eliminate each other, is very exciting. 
+
+The only reason I did not make it myself is because you need a lot of identical large circular tokens, which you absolutely cannot see through or read anything from, and that is not really achievable with print-n-play.
+
+## What is the idea?
+
+In this game everyone plays a character in a kind of "Hunger Games" arena. You win if you are the last one remaining.
+
+The entire playing field consists of face-down tokens. (The tokens are large circles in my imagination.)
+
+All **players** are also exactly such a token. So you never know for sure **who is where**.
+
+In addition, everyone has "decoy" tokens. (In total everyone therefore has 3 or 4 tokens of themselves in the playing field?) Because of this, no one ever knows for sure whether you are moving your pawn, or something else.
+
+> For example: Maybe you have, besides your pawn, also a "drone" with which you can explore, and a "headquarters/camp/fire", etc. These tokens can contain all sorts of things: obstacles, tools, a special device, etc.
+
+All **actions** consist of **swapping or viewing tokens**.
+
+## Swapping
+
+To "move", you choose a spot on the field and take THREE tokens around it.
+
+* You take all these tokens into your hand, and look at them in secret.
+* If there is NO token of yours among them, you must put the tokens back in the same order. (You must still "pretend" that you might swap them.)
+* If there IS a token of yours among them, you may swap the tokens under the table and put them back in any order you choose.
+
+## Viewing
+
+You may view ONE random token. If this is another player, and you have the correct action, you can eliminate them.
+
+You may also view TWO tokens, but then you may no longer use a lethal action on the result.
+
+You may also view THREE tokens, but then you must show them to the other players.
+
+## Elimination
+
+During the game, players are eliminated here and there. However, if you are eliminated, *you simply keep playing!*
+
+You pretend you are still alive and may even still perform certain actions, but you can no longer move of course. 
+
+> *Important:* this must still be interesting—you should not be completely pointless if you are eliminated.
+
+The only information that is public is _how many people have been eliminated_.
+
+This works as follows:
+
+-   Suppose S is the number of players
+-   Create a stack with 2 x S tokens. Half of them are "DEAD" and half "ALIVE"
+-   If you are eliminated, you remove one "ALIVE" token.
+-   If you are still alive, you remove one "DEAD" token.
+
+After everyone has performed their action, the stack is revealed. The result shows exactly the number of ALIVE and DEAD players!
+
+_Alternative titles: "Multiple Missions", "Mission Invisible"_
+
+## Variant / Expansion
+
+Players again play the hunger games in the same way, *but in teams!*
+
+Each team has some members in the *headquarters*, and some members *in the arena*.
+
+The people in the headquarters must help their team, and hinder the other teams. So they must do a SUPPLY DROP in the right place, or throw down an OBSTACLE, or suddenly start a FIRE, etc.
+
+They are the people who "control" the world from the Hunger Games, so to speak.
+
+The team must then carry out the assignment as well as possible and be the last remaining.
+
+*Problem:* but then one could win per team. So there must be a system to know whether all other teams have been completely eliminated. DIFFICULT. It might be better to allow only one person per team in the arena.
+
+
+<!---
 Een bordspel gebaseerd op "The Hunger Games" (het algemene concept, niet het specifieke verhaal). 
 
 Ik vind dit nog altijd veelbelovend: een spel waarbij je nooit zeker weet waar iedereen is, en elkaar moet elimineren, is erg spannend. 
@@ -76,3 +149,4 @@ Het zijn de mensen die de wereld "besturen" uit de Hunger Games, zeg maar.
 Het team moet vervolgens de opdracht zo goed mogelijk uitvoeren en als laatste overblijven.
 
 *Probleem:* maar, dan zou men per team kunnen winnen. Dus moet er een systeem zijn om te weten of alle andere teams geheel zijn uitgeschakeld. MOEILIJK. Het is misschien beter om per team maar één iemand in de arena toe te staan.
+--->

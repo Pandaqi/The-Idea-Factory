@@ -1,11 +1,567 @@
 ---
-title: "Vreemdelingenvoetbal"
+title: "Soccer With Strangers"
 categories: ["board-games"]
 tags: ["card"]
-language: "nl"
+language: "en"
 progress: 3
 ---
 
+A game of football, but as a board game/card game, with a few funny twists that make it simpler and more accessible. 
+
+The main twist being: **at the start you have no idea which goal is yours**.
+
+As always (with my very oldest ideas) the notes below are a big mess. And I let AI translate it from Dutch to English, sorry, I didn't have time to do it myself. 
+
+But the core idea is simple and fairly easy to summarize.
+
+* All players suffer from memory loss. The rules of football + which goal is yours + what you can do you _learn on the spot_. (By finding cards on the field that explain or add these rules again. If you do not discover them, intentionally or not, those rules do not apply and the game only becomes simpler.)
+* The system "simulates" football by moving players and the ball according to simple rules.
+* One player is the "Referee" (rotates) who can play funny action cards and hand out red cards to undo actions they do not like. This is a large strategic element and the most important role---just like in real football, unfortunately.
+* And that is how you get a funny little game in which you sort of play football together.
+
+## What does a turn look like?
+
+First everyone bids energy, except the person who currently has the ball.
+
+Everyone’s bid is revealed => the order is determined by this.
+
+In your turn, you may do two actions. You can choose from:
+
+-   Slowing down/speeding up
+-   Turning
+-   Passing
+-   Shooting
+-   Tackling
+
+Slowing down/speeding up speaks for itself.
+
+How much you may turn depends on how fast you are going (and how agile your piece is).
+
+If you pass or shoot, you choose yourself how the ball goes. You have restrictions based on how your piece is positioned (speed/direction/energy) and your statistics.
+
+If you tackle, you always do so in the direction you are facing, towards an adjacent space.
+
+Each action has a certain "chance of success". A simple ground pass almost always succeeds, a shot is less easy.
+
+For each action you roll a die. You add the result to your own statistic. If this exceeds a value X, what you are trying to do succeeds. If not, it fails.
+
+*What is value X?* That depends on what you want to do. The more effect you give the ball, the harder it is. The higher you try to shoot the ball, the harder.
+
+You can always do a "trick" to outplay someone, although this is very difficult (??)
+
+The less energy you have, the smaller the chance that something succeeds, and the worse ("wilder") the consequences if it fails.
+
+*What if it fails?* With a pass or shot the ball gets a random change (in terms of speed/direction/etc.) With a tackle it simply fails and you do not win the ball. (If it is really bad, you get a yellow or red card.)
+
+Some actions you can only do by playing the correct *action card*. For example, pulling someone’s shirt, blocking someone, making a legendary pass that flies past everything, etc.
+
+## A sort of worked-out idea
+
+### PREPARATION
+
+On the table you create a field of X by Y tiles. (Depends on number of players??)
+
+A tile is nothing more than an empty piece of grass.
+
+**There can only ever be one piece on a tile**. (The ball is also always on one of the tiles.)
+
+> **QUESTION:** Is this a good rule? What happens with tackles then?
+>
+> The problem is ... if multiple pieces are on the same tile, who gets the ball when it is intercepted? It makes a lot of things a lot more difficult.
+>
+> If someone walks onto a tile where someone else is, they are simply knocked back. (If that person had the ball, they now lose it.)
+>
+> When someone performs a (sliding) tackle, the other person bounces to a tile of choice. (It NEVER happens that all tiles are full, because the person who just initiated the sliding tackle must also come from an adjacent tile.)
+
+**PROBLEM:** How do we ensure that shots even have a chance to score? Otherwise the opponent will just lie in front of it with everyone and intercept every ball.
+
+**Maybe with the age-old rule:** shots go harder and are less easy to intercept, but you can aim them less precisely!
+
+**Effect** and **height difference** can already help a lot.
+
+Maybe a shot bypasses the first person it encounters (= is not intercepted). Or ... maybe you have to roll for that!
+
+All players receive a team card that they are not allowed to look at.
+
+On both sides of the field goal tiles are placed. It starts at 1-0. The color of the goals *is* known from the start (??)
+
+The ball starts in the middle. The starting player stands at the ball, all other players may place their piece wherever they want. (In order ... otherwise you get issues with people wanting the same spot.)
+
+### END OF THE GAME
+
+When the number of minutes reaches 90 (or more), the match ends. The team with the most goals wins.
+
+In case of a draw ... play continues until someone scores?? (Maybe this can also depend on random rule cards. One time you go to penalties, another time you play X minutes longer, another time it is *golden goal*, etc.)
+
+### PLAYERS ON THE FIELD
+
+Each player controls one piece on the field.
+
+Each piece has the following properties:
+
+-   Energy
+-   Current direction
+-   Current speed
+-   A few statistics (how good they are at different aspects)
+
+During the game your energy steadily decreases, causing you to perform your tasks less well. (You become more unpredictable / have to do strange things to stay upright -- seems funny to me.)
+
+You must also pay close attention to your direction and speed. You cannot just slow down / turn around / move or pass in another direction. So you must think ahead and look for opportunities (both offensive and defensive).
+
+### GAME FLOW
+
+First one determines the *order* in which actions are taken.
+
+The player with the ball always starts first. After that players can determine themselves when they take their turn. (HOW?? Bidding somewhere? Putting something at stake? Is it based on "initiative"? => Everyone bids how much "energy" they want to use this round.)
+
+During your turn you perform one field action. At the end of your turn you check whether the ball must move, and if so, you do so.
+
+(The ball also has a certain direction + speed, and is moved one tile further each time.)
+
+At any moment, during your own or someone else’s turn, you can play an action card. (Is this useful?? We shall see.)
+
+#### DETERMINING ORDER
+
+People "bid" a certain amount of energy.
+
+The person who bids the *highest* amount of energy starts, and then we proceed to the next highest.
+
+In case of a tie, the one who is first after the player with the ball (clockwise) goes first.
+
+If you bid 0 energy, you simply do nothing this entire round. (But you may also not play action cards.)
+
+**IDEA:** The person with the ball does not have to bid ... but must ALWAYS pay as much energy as the highest bid at the table. (This ensures the same person cannot always have or keep the ball.)
+
+**QUESTION:** But ... if you have speed, do you keep running? Hmm, then people can abuse that, by still ending up somewhere without spending energy.
+
+> Just do not allow people to bid 0 energy!
+
+**QUESTION:** Does the player with the ball always start? Seems logical and intuitive, but is it?
+
+*Note:* you cannot of course bid energy that you do not have.
+
+#### ENERGY
+
+In addition to bidding each round, each special action also costs energy (playing a card or kicking the ball).
+
+*Why is energy important?* The less energy you have, the less successful your actions will be.
+
+If your energy drops below value X, you must roll a die that gives you a random deviation.
+
+If your energy drops further (below value Y), the deviations become larger, and you may sometimes suddenly perform a different action than you intended.
+
+If your energy becomes critical (below Z), then ... what??
+
+#### FIELD ACTIONS
+
+You can ...
+
+-   Accelerate / decelerate (= change speed)
+-   Turn (= change direction)
+-   Play the ball somewhere
+-   Make a tackle
+
+There is no distinction between passing, shooting, or crossing.
+
+You must determine the correct speed, direction, height, and effect for the ball yourself.
+
+#### FIELD ACTIONS EXPLAINED
+
+The faster you go, the less quickly you can turn.
+
+> Speed 0? You can turn 180 degrees.
+>
+> Speed 1? You can turn 90 degrees.
+>
+> Speed 2? You can turn 45 degrees.
+>
+> Speed 3? You cannot turn.
+
+If you turn, you may choose how you turn (as long as it is within your range)
+
+If you decelerate/accelerate, this always happens by one speed at a time.
+
+The faster you run, the harder you can pass/shoot the ball.
+
+The ball can always be shot in the same direction you are facing, plus one step to the left and one step to the right.
+
+Regardless of what you do, at the end of your turn your piece moves with the indicated speed in the indicated direction. (??)
+
+**Note:** of course statistics can heavily influence this. Some give you greater acceleration, others a higher maximum speed, others more agility (also for shots/passes), etc.
+
+**QUESTION:** What about defense? How can you already position yourself in advance to execute a correct action?
+
+Or is tackling/stealing the ball also one of the actions?
+
+(Of course you must face the correct direction to tackle. So in that sense you must pay attention to your positioning.)
+
+### THE BALL
+
+If the ball is moving (so NOT exactly at someone’s feet), it moves at the end of each turn.
+
+**Speed:** how many tiles the ball moves. This speed gradually decreases, until the ball comes to a stop (or is intercepted/picked up)
+
+> ***Why is this important?*** You want the ball to arrive at the right moment. Too hard, and it is impossible to receive. Too soft, and it is intercepted.
+
+**Direction:** the direction in which the ball moves. A ball always keeps going in the same direction ... unless you add effect.
+
+> ***Why is this important?*** You want the ball to go to the right player :p
+
+**Effect:** an effect is always *clockwise* or *counterclockwise* (positive or negative). The direction slowly changes in the direction of the effect.
+
+> For example: you shoot the ball with direction top-left, effect -1. The next turn the direction is left, the turn after that bottom-left, etc.
+>
+> **Problem:** the faster a ball goes, the less influence the effect has. (You mainly keep going in the "old" direction.) How do we model this simply?
+>
+> **WAIT A SECOND:** this is already modeled! Because the ball slows down, it starts with high speed in its original direction, and will only later curve due to the effect.
+>
+> ***Why is this important?*** This allows you to go "around" obstacles and set up nicer/more interesting attacks.
+
+**Height:** the ball has a certain "vertical" force. If this force is NOT 0, the ball goes up 1 height per turn. In addition, the force decreases by 1 (it "slows down" due to gravity).
+
+If this force is 0, but the ball is in the air, it goes down 1 height per turn.
+
+> ***Why is this important?*** You can play "over" obstacles.
+>
+> In addition balls through the air have less resistance (??)
+
+#### UNEVEN NUMBER OF PLAYERS
+
+One player, who belongs to the "smaller team", may reveal his role. He also receives two pieces to control.
+
+In this way the number of players per team is at least equal. (We must see if this does not give too big an advantage to the "smaller team".)
+
+### RULES
+
+If your player has the ball, and you move, the ball of course moves along.
+
+(... but you do move slower with the ball? Is realistic, also inconvenient.)
+
+You may not end on the same space as someone else, but you may pass *by* them (if you sprint fast enough for example). You do run the risk of being tackled/blocked/whatever.
+
+If the ball comes onto a tile where another player already stands (for example after being shot/passed), the ball immediately comes into possession of that new player.
+
+There is one exception: height difference. As long as the ball has at least a height of 1 (the ground is 0), it goes over players.
+
+**QUESTION:** The big question is of course how to model this kind of height difference well. The ball must go up, reach its maximum height, and come down again at exactly the right moment.
+
+> On the one hand you can leave this to the players. They must themselves give the ball the correct speed.
+>
+> This also introduces some uncertainty and inaccuracy, otherwise everyone will only play balls through the air.
+
+
+
+
+## The Original Idea (V1)
+
+You play a game of football with your friends. Calm. Nothing going on. But wait a minute, halfway through the match everyone loses their memory! You no longer know who your teammates are. And which goal is ours? And to make it even worse, that angry person opposite you is suddenly the referee.
+
+That is *stranger football*.
+
+### Setup
+
+**Dividing teams**
+
+Suppose you play with X players.
+
+-   If X even: take equal numbers of red and blue team cards, and deal them randomly.
+
+-   If X uneven, take a stack of (X-1) cards, and deal them (just like with an even number). The last remaining player takes a random card from the stack of remaining team cards. (Thus one team has one player more, but you do not know which.)
+
+Everyone looks at their team card *in secret*! You may *never* turn your card over and/or show it to others during the game.
+
+The player who knows the least about football is the *starting player*.
+
+**Laying out the football field**
+
+A football field consists of 4 rows and X columns.
+
+At both ends a *goal card* is placed. Shuffle one blue and one red team card, and place these face down next to the goals. These cards determine which team the goal belongs to. (The red team wants to score in the blue team’s goal, and vice versa.)
+
+Then place one *score token* next to one of the goals. (Yes, one team is leading 1-0, but you do not know which team that is ...)
+
+**Placing players**
+
+Everyone has one player card in their color. (This color has nothing to do with the red/blue teams, but is to still recognize your own piece.) This is your footballer with which you perform actions on the field.
+
+Starting with the starting player, clockwise, everyone places their player card on a random spot on the field.
+
+**Important:** the starting player must place his player card in the middle. If you have an even number of players, and therefore no middle, he may choose whether he starts left or right of the middle.
+
+Place the *football token* on the starting player’s card.
+
+TO DO: Image of entire starting setup
+
+**Dealing cards**
+
+All action cards are shuffled. Everyone draws 4 cards, and takes them in hand (without showing them to others).
+
+Finally the referee is determined. **HOW?!**
+
+### Game flow
+
+Starting with the starting player, clockwise, everyone takes their turn.
+
+In your turn you may perform one **field action** and one **general action**. *Field actions* literally mean movements and actions you can perform on the football field (such as running somewhere, tackling, dribbling, etc.) *General actions* refer to all other kinds of actions (such as dealing cards when you are the referee, or investigating which team someone else is).
+
+An **unnecessary action** may always be played, even during someone else’s turn. This is for example complaining to the referee, making a dive, secretly placing the ball somewhere else (or kicking it away), etc.
+
+At the end of your turn you may draw as many cards as you have played. (There are of course exceptions where you may draw more or fewer.)
+
+The game **ends** when the referee blows the whistle. The team that has scored more goals than the opponent wins.
+
+### The football rules
+
+Since all players suffer from memory loss, they remember different football rules than usual.
+
+**How do you score goals?** If the ball ends on a goal card. Next to the other goal an extra score token is placed to indicate this. Then you take a kickoff.
+
+**How do you take a kickoff?** All players may again take a random position on the field, except the starting player (who must be in the middle), but the starting player does receive the ball.
+
+**What happens if the ball goes over the sideline?** The person who last touched the ball must move his piece next to the sideline (as if he stands there), and kick the ball back into the field (in the regular way). The game then continues with the person to the left of that player.
+
+**What happens if the ball goes over the back line?** The referee determines whether it is a goal kick or a corner. Regardless of what he chooses, all players may in turn perform one free movement.
+
+With a *goal kick* the person closest to the goal gets the ball and may kick it out.
+
+With a *corner* players must agree among themselves who takes the corner. That person, just like with the throw-in, stands outside the field, and kicks the ball into the field.
+
+The game continues with the person to the left of the one who kicked.
+
+**How does offside work?** It does not.
+
+**Penalties?** Nope.
+
+**Free kicks?** Yes! If the referee has decided that something is a foul, he chooses the person who may take the free kick. That person places his player under the ball, and kicks it into the field (according to the regular rules).
+
+### Referee
+
+The referee is enormously powerful. When someone performs a "dangerous action" (such as tackling or handling the ball), the referee decides whether it is a foul or not. Even a card like "intentional handball" or "dirty tackle" can be ignored by a clever referee.
+
+On top of that the referee can *hand out cards*. (Other players can also force the referee to give a card, with the correct action card.)
+
+If a player receives a direct red, or red after two yellow cards, that player is *out of the game for two turns*.
+
+This means his player must leave the field, he loses all his cards, *and* he loses his team card. After waiting those two turns he may return to a random spot, draw four cards, and receive a new team card. (Once back the cards are of course forgiven again.)
+
+### Field actions
+
+There are several basic actions for which you do not need to play a card. These are:
+
+-   **Move**: take *one step* in a direction of your choice.
+-   **Short pass**: if you have the ball, you pass it to an *adjacent player*.
+-   **Take the ball:** if an *adjacent player* has the ball, you take it. (The referee may see it as a foul, but can never give red for it.)
+
+You *cannot* move through someone. All basic actions can only be done horizontally and vertically.
+
+All other field actions can be done horizontally, vertically, and diagonally.
+
+In addition there are the following "attacking actions":
+
+-   **Normal pass**: pass the ball in a straight line to someone else. The ball stops at the first person it encounters.
+-   **Long pass**: a normal pass, but through the air. This allows you to skip at most one person.
+-   **Measured pass**: a pass with precision. The card states exactly how many spaces the ball moves before it stops. (This allows you to play the ball ahead of someone, for example.) This pass can be on the ground or through the air.
+-   **Legendary pass**: you can place the ball exactly where you want, within a certain radius (of one or two spaces, for example)
+-   **Run**: move two spaces in a direction of your choice.
+-   **Legendary run:** you move three spaces in a direction of your choice.
+-   **Dribble**: same as run, but now you can move through at most one person.
+-   **Legendary dribble:** you move at most three spaces, and go through everything.
+-   **Shot**: you shoot in a straight line at the goal. If someone is in between, it fails of course.
+-   **Curving shot**: your shot curves towards the goal. The card shows exactly the path the shot follows. (You can still rotate or mirror this path, if that works.)
+-   **Lob shot:** you shoot in a straight line at the goal, where your shot goes over at most one person. (You must keep enough distance, otherwise the ball will not come down in time.)
+-   **Legendary shot:** you can make the shot go X times in any direction you want. (This number X is indicated on the card.)
+
+Finally there are the following "defensive actions":
+
+-   **Make wide:** turn your player card vertically, and voilà, now you suddenly take up two spaces!
+-   **Shoulder charge:** you push an *adjacent player* one space aside. The ball remains where it is.
+-   **Standing tackle:** combination of shoulder charge and taking the ball.
+-   **Sliding tackle:** you can perform a slide from a distance (indicated on the card). If you hit the player with the ball exactly, you take the ball. However, you can also slide players who do not have the ball, or just lie in front of them. If you hit a player, you may push them to a free space around them.
+-   **Legendary tackle**: same as a sliding tackle, but you also get the ball if a player is still one space away from you (after the slide), and the referee may never whistle for a foul.
+-   **Flying keeper**: if you play this card, you become a flying keeper. (This, like all other actions, remains in effect until the next time it is your turn.) A flying keeper stops any ball that threatens to fly directly over or past him.
+
+NB: If you move/run, and your piece has the ball at that moment or passes by a loose ball, you of course take the ball with you :p
+
+NB: Players can thus stand outside the field (for corners or throw-ins), and also be pushed there. A player can also end up *in* the goal, but cannot stop shots on goal in this way!
+
+
+### General actions
+
+There are many general actions, which do not necessarily have much in common, so here is simply the list:
+
+-   **Yellow card**.
+-   **Red card**.
+-   **Spy.** You may look at someone else’s team card.
+-   **Inspection.** You may look at the team card of one of the goals.
+-   **Swap shirt.** You may swap your team card with the team card of a teammate. (OR rather a random one from the pile?)
+-   **Starting player.** You receive the starting player card.
+-   **Referee.** You become the referee.
+-   **Advance clock**. Place this card with the clock cards to advance time. (When time is over 90 minutes, the referee may blow the whistle, although it is not mandatory.)
+-   **Copying:** steal two cards from a fellow player
+-   **Injure:** choose a player. That player is temporarily injured**.** The player must choose: discard all his cards and replace them with 4 new ones, or skip one turn.
+-   **Memory training:** if you play this card, you cannot do anything this turn. When you have played two of these cards, you may finally look at your own team card.
+-   **Doping:** draw two extra cards.
+
+These cards all appear fairly often in the deck. The intention is therefore that there is a lot of switching of starting player/referee, and that players do a lot to each other (and cards are handed out).
+
+### Unnecessary actions
+
+These cards are often unique in the game (or appear only 2 to 3 times). They are a parody of the silly things footballers do, but in this game they are very important to use strategically.
+
+-   **Disallow goal:** when this card is played, the referee may disallow a goal. (That is never allowed without this card.)
+-   **Force a card:** when you play this card, after a "dangerous action", the referee *must* give a red card.
+-   **Hand of God:** if you have the ball, you can use this card to perform *any* field action you want.
+-   **Intentional handball:** a ball that flies over or past you is suddenly stopped and falls at your feet!
+-   **Invisible elbow:** you swear that an opponent just hit you out of nowhere. The referee may go along with it or not.
+-   **Kick the ball away:** when someone else gets a kick (throw-in, free kick, etc.), you may secretly move the ball to an adjacent space.
+-   **Kick the ball into the stands:** everyone wastes their turn retrieving the ball, you may take two turns in a row. (The referee may punish you for this.)
+-   **Insult referee:** the referee may give you red for this, but if he does, you immediately become the referee
+-   **Time wasting:** only you, and players selected by you, get one extra turn to prepare for a kick (throw-in, free kick, etc.)
+-   **Spitting:** the referee gives you a card for spitting, or the field is so slippery that another player slips and is injured.
+-   **Pull shirt:** if you play this card, an *adjacent player* may not perform a field action in his/her turn.
+-   **Retaliation:** an *adjacent player* is seriously injured. He loses all his cards and must immediately go to the sideline.
+-   **Dive:** if someone just performed a dangerous action on you, you can make a dive. The referee must then whistle for a foul. Conversely, if someone else is taken down, you can shout "dive!", and force the referee to punish the person who undergoes the "dangerous action".
+-   **Match fixing:** if the referee makes stupid decisions, you shout "match fixing!". The last decision of the referee is undone, and he must immediately give the card to you.
+-   **Ridiculous dance:** you are immediately up and become starting player (also after a goal). All other players are angry with you.
+-   **Second ball on the field:** a just taken kick (free kick, throw-in, corner, etc.) must be retaken. May also be played if it was a goal (??).
+-   **Meeting at the corner flag:** if you yourself have the ball, you move to the nearest corner flag with this. As long as this card is in play, no one can take the ball without committing a foul.
+-   **Injury time:** place this with the clock cards to influence time. If you place it normally, the clock goes backward (and time is added). If you place it reversed, the clock goes forward.
+
+QUESTION: How do we prevent people from simply passing or walking the ball into the goal??!
+
+QUESTION: With dribbling you can change the direction of movement (for example first forward, then diagonal), but with running not?
+
+QUESTION: Is it not better to give each player two actions, which they may fill in themselves? So either 2 field, or 2 general, or 1 field + 1 general? (But yes, 2 field actions might be overpowered. So then: either 2 general, or 1 field + 1 general.)
+
+YESSS: People do not even know about themselves who they are! So you must just trust that others speak the truth (if they have looked at your card for example), or find out in another way.
+
+IDEA: Maybe everyone has one unique ability? So that one player is really an attacker with a great shot, and another a good defender. In that way it is less random, more realistic (because you really play a unique player) and I may be able to reduce the number of cards/possibilities.
+
+QUESTION: Should there be a possibility to discard/destroy cards? Hand in three cards for one new one?
+
+ALTERNATIVE game idea: you cannot pass, or dribble, if you are surrounded? (So, you want to go diagonal, but there are others to the left and right, then they block the way?)
+
+ALTERNATIVE game idea: completely random teams
+
+ALTERNATIVE game idea: known teams, and known goals, and that it only comes down to tactics and strategy
+
+ALTERNATIVE game idea: "endless bounds", if the ball goes out over the sideline, it simply comes back into the field via the other sideline. (Same with the back lines.)
+
+ALTERNATIVE GAME IDEA: you always play until, for example, 6 goals have been scored. Then someone always wins. (But, if the lead is too large, you already know far in advance who wins)
+
+
+
+## The Improved Idea (V2)
+
+Below are better things I came up with after giving the idea (version 1) some time and distance.
+
+**IDEA 1:** There are secret roles. Some roles may see their own card, or try to deliberately confuse things. Otherwise it is too easy to simply figure out which team you are in, and thus play the whole game with certainty.
+
+> (Maybe, at the end everyone must say which team they are in. And if even one person has it wrong, that "mole" person wins?)
+
+**IDEA 2:** The game rules are also forgotten!
+
+At the start of each game you draw cards that determine what happens in certain situations. (Or you only draw these when the situation occurs for the first time.)
+
+This determines the rules of that match, which makes every game different and unexpected, and can create funny situations.
+
+*For example:* someone commits a foul => free kick situation. You flip the top card and see: 'All players who are in front of the ball must return to their own penalty area. The player closest to the ball takes the free kick at exactly the same spot.'
+
+*Note:* this can also be an expansion/variant of course. That the base game does have fixed, simple rules.
+
+**IDEA 3:** You play simultaneously. Everyone has the same set of actions and lays one down. (Possibly with a "modifier" that says how hard a shot goes, or in which direction, whatever??)
+
+Then these are executed one by one, with a certain order.
+
+This order is of course very important.
+
+*How is the order determined?* No idea :p
+
+Ideas:
+
+-   The order is fixed: the person with the ball/the starting player starts, and people go clockwise around the table
+-   The order depends on *how quickly you make a choice*. When you have placed your card, you grab the lowest score marker, which indicates your place in the order.
+-   The order can be changed with certain actions/cards. (Which shift/change the order, or allow you to directly choose what you want.)
+
+The playing field itself can simply be a piece of paper with a grid, or a set of squares you press together to get that same grid.
+
+**ADDITION:** At any moment a player can join, or leave (as long as there are still enough to continue)
+
+**ADDITION:** I can remove all those complicated cards (with specific actions/numbers/etc.) and make the game much simpler and more tactical.
+
+**IDEA:** Every time you score, you may look at someone else’s team card. (Or a goal card ... if those are also secret.)
+
+You may never look at your own team card.
+
+You therefore do not really have a reason to tell others which team they are in, because you do not know yourself.
+
+(Will this hold up? Actually you only have certainty towards the end of the game, when you have seen many cards.)
+
+(But with more players ... do you then have less chance, because it takes longer before you have seen everyone. Should I then also ensure you score faster??)
+
+**IDEA:** For some actions we can use dice. Then it depends a bit on strategy, a bit on tactics/skill, and a bit on luck.
+
+**FOR EXAMPLE:** You can only play OVER someone, if that person is at least one tile away.
+
+But, you can try to still chip the ball over someone, but then the die must roll at least 3 (or something).
+
+### Roles
+
+The roles in this game have two functions:
+
+-   They make you better/worse at certain things. (An attacker can attack better, but defend less well.)
+-   They change the game, the teams, and what your goal is.
+
+Only goalkeepers are face up. The rest is secret.
+
+**IDEA:** Everyone has cards with the standard actions in hand. (Run, tackle, shoot, pass, etc.)
+
+Everyone determines in advance what they do by placing that card.
+
+*Possibly*, the direction your player is facing and how fast he is currently moving also matter. A player cannot just turn around and/or slow down, and also cannot just shoot in any direction.
+
+*Possibly* stamina and such also play a role. (Maybe you cannot perform the same action too often in a row? Or do you only get all actions back once you have used them all??)
+
+**BUT**, how can someone be extra good at something, if their role may not be revealed?
+
+Maybe they can simply draw certain cards earlier, or receive more of them, or have a secret advantage with certain actions.
+
+**ALTERNATIVE:** The type and the special power are separate ... but then it becomes too chaotic I think. (And then I cannot do those fun descriptions :p)
+
+### Goalkeepers
+
+#### The Flying Keeper
+
+"We talked to him about it, but he insists on keeping his cape on."
+
+**Ability 1:** Goalkeepers are the only ones face up on the table.
+
+**Ability 2:** You can NEVER play the ball over him.
+
+#### The Occasional Keeper
+
+"Actually plays in midfield, but all the other keepers were injured."
+
+**Ability 1:** Goalkeepers are the only ones face up on the table.
+
+**Ability 2:** He can kick well and far. (??)
+
+**Defenders**
+
+#### The Clumsy Defender
+
+"Scores so many own goals, that you wonder which team he actually plays for."
+
+**Ability 1:** The color on this card is the team you *actually* play for.
+
+If others look at your team card, it may be correct, but also not ...
+
+**Ability 2:** ??
+
+
+_Original Dutch title: "Vreemdelingenvoetbal"._
+
+<!---
 Een potje voetbal, maar dan als een bordspel/kaartspel, met een paar grappige twists die het simpeler en toegankelijker maken. Met als belangrijkste twist: je hebt aan het begin geen flauw idee welk doel van jou is.
 
 Zoals altijd (bij mijn alleroudste ideeën) zijn de notities hieronder een grote rotzooi. Maar het kernidee is simpel en vrij goed samen te vatten.
@@ -553,3 +1109,4 @@ Misschien dat ze gewoon bepaalde kaarten eerder mogen pakken, of meer ervan krij
 Als anderen jouw teamkaart zien, kan deze kloppen, maar ook niet ...
 
 **Vaardigheid 2:** ??
+--->

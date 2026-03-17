@@ -51,28 +51,47 @@ James zit doodstil op het podium, als een soort geest die van een afstand of bov
 Hij zingt richting Ginty over hoe het leven doorgaat zonder hem en dergelijke.
 
 > C
+> 
 > Ik zie dat treinen blijven rijden
+> 
 > C
+> 
 > En dat de zon nog ondergaat
+> 
 > Am
+> 
 > Ik hoor dat vogels blijven fluiten
+> 
 > Am
+> 
 > En dat de klok nog altijd slaat
+> 
 > F
+> 
 > Ik weet dat ergens nog een feest is
+> 
 > F
+> 
 > Waar jij verschijnen zou
+> 
 > C
+> 
 > Ik zieeeee jooooouuu
 
 Met alternatieve refreinen zoals
 
 > Ik voel geen hartslag en geen leven
+> 
 > Alles raast nu langs me heen
+> 
 > Ik hoor dat anderen blijven zingen
+> 
 > Maar ik sterf hier alleen
+> 
 > Ik weet dat ik bij jou wil schuilen
+> 
 > Als alles grijs en grauw
+> 
 > Ik ziiiiiee joooooou
 
 @TODO: Ugh, ik zie nu dat ik nooit het _refrein_ van deze versie opgenomen. Hoe heb ik dat voor elkaar gekregen? Het is een geweldig refrein dat ik jarenlang heb gespeeld. Dus dat moet ik even doen.
@@ -107,10 +126,14 @@ Ik heb twee opnames (dat gebeurt vaak). De eerste is toen ik het idee pas net ha
 Waarschijnlijk hoor je ook dat die zin _Ik weet niet hoe_ perfect past op de eerste noten van de melodie!
 
 > Ik weet niet hoe
+> 
 > Hoe ik beginnen moet
+> 
 > Als je weer naast me staat
+> 
 >
 > Al-les verdwijnt
+> 
 > Etc.
 
 Na allerlei onderzoek en gebeurtenissen, ontdekken ouders/vrienden dat hun vriend(in) opnieuw weggelopen is, maar dat hij nog altijd een tracker heeft aanstaan op zijn mobiel. 

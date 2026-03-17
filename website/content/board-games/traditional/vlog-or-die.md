@@ -1,11 +1,111 @@
 ---
-title: "Vloggen of verzuipen"
+title: "Vlog Or Die"
 categories: ["board-games"]
 tags: []
-language: "nl"
+language: "en"
 progress: 2
 ---
 
+You are extremely busy, doing work you do not enjoy, and would prefer to spend the whole day just taking photos of your food. You get a brilliant idea: I will quit everything and start a social media life!
+
+**Each player starts the game with a brand new page/channel/profile on a social media website, and tries to build it into the biggest and most successful of all.** 
+
+Not only your effort, creativity and content play a role here ... but also the likes and the social network with your fellow players.
+
+Welcome to *Vlog or Die*!
+
+Alternative titles:
+
+-   Social Mediocre
+-   Like & Subscribe
+-   Befriend and rule
+-   The (Social) Network
+
+
+## Ideas
+
+There are several categories to choose from. You can, if you choose to, expand into multiple content categories, but if you overlap with others, that is of course inconvenient.
+
+COLLAB: You can collaborate with others (make a vlog together, interview each other, etc.), which benefits both.
+
+Here and there things must be **improvised**: you come up with your own channel title, what exactly you post (also really the specific text?), etc.
+
+* Maybe you can receive images or remarks in your hand. Those are the only things you can "post"; you must come up yourself with why you post it and thereby entertain and interest the rest.
+* For example, you only have the text "#hatemylife". You play it and say: "just went to the hairdresser. She slipped and now I am suddenly bald." Tada, you have posted something!
+
+Players can follow each other (/subscribe/take a subscription to each other). They can also like each other’s content, and direct their own followers to someone else’s content.
+
+In addition to the other players there is a general "pool" of viewers: **a pile of tokens with human faces**. These are spread across the categories (or across continents, or something), and you must try to attract them to you (or mainly keep them away from others).
+
+Maybe players, instead of opening a channel on an existing website, can also create a website themselves. Other players can then make use of it by throwing their content on there as well.
+
+You can place advertisements. Or sponsored content. The more money you have, the more you can do of course.
+
+Maybe I should make a distinction between followers and viewers? Or is there a standard formula with which you calculate: viewers = followers + X - Y?
+
+> Maybe I can leave money out completely. Your "capital" consists entirely of your fame, your followers, your content, etc.
+
+It should be somewhat humorous/social commentary. So for example you can "attach your self-worth to how many likes you get", which may yield something temporarily, but works against you in the long run.
+
+> Or you can create a scandal, start a challenge, start a competition, say that people only get something (ebook, free product, etc.) if they sign up or like you
+
+Maybe there is a cycle effect. Suppose A posts something. Then person B refers to this post. Then person C refers to person B. Then a certain percentage of *all viewers of C* is also counted for A.
+
+> Such a cycle of course stops once you return to the same person.
+>
+> Also this percentage calculation must be easy (and have meaning in the game; you can do something with it and it relates to the theme), otherwise people will probably forget it.
+
+At the start of the game one can choose on which kind of site one plays? So one chooses whether everyone Twitters, or Facebooks, or LinkedIns, or YouTubes, etc.
+
+> Possibly one can choose this from a card. That the medium you use also influences the game rules. (For example: Video platform -> everyone has advertisements between their videos (and of course with each post you must describe both the title and the content of a video))
+
+I do not want it to become a game of "who happens to have the best/most fun action cards". It must be more abstract. The core mechanics must already be able to represent the vast majority of building and maintaining a social network.
+
+> You can place comments on other people’s posts to attract people to you?
+>
+> EVEN MORE FUN: You can only respond with certain emoticons? (Or standard texts? Nah, that becomes too "fixed".) And that the emoticon you place also has an effect. A happy emoticon stimulates how many go to the other person, a angry emoticon can lower public opinion about that other player.
+>
+> Something about spending too much time on the internet (checking your comments, your likes too often, etc.), that you then get penalty points and can no longer do something else?
+>
+> For example: your posting speed also matters. People expect something, and if you do not meet that they get angry, you lose interest/fame, etc.
+
+Do something more with the "befriending" and the "network".
+
+Maybe there are also some kind of "computer players". Each round they also do something, which can then cause unexpected things, but you can also befriend them and such. Or is that boring? It is more fun to make arrangements with real people.
+
+I think that the combination of followers/likes/etc. can give a certain site more authority and fame (justified or not ...). This then has a large influence on how influential you are and how many people you attract.
+
+> Maybe draw a parallel to fake news? THAT SEEMS GREAT TO ME.
+
+There is a limit to the total number of posts you can make (because yes, you need a card for it, and those run out).
+
+> If this limit is reached, the internet is finished, and the game ends (?)
+>
+> BUT: you can also steal posts from other people! And pretend they are yours! (The consequences of that I do not know exactly ...)
+
+BLACK HAT TACTICS:
+
+> Buying likes/followers/subscribers from others
+>
+> Fake (negative) reviews to bring others down
+
+Actually there are two kinds of players in the game: those with a large follower network and those without. Both must have their advantages and disadvantages, and you must (with the right strategy) be able to switch quickly.
+
+> For example: if you have more followers, every small mistake is punished more harshly, and more is expected of you (post faster, better quality, more connections, etc.)
+>
+> If you have fewer, you can do things more easily (switch categories, make mistakes, take it easier, try new things, people are more willing to befriend you, etc.)
+
+Preferably this forms a trinity. In other words: each player is ultimately busy with three things that can bring them the final victory. An idea:
+
+-   Size: how many followers, likes, money, etc. you have
+-   Dominance: how many categories, websites, network, friends, etc. you possess ("how large your market share is")
+-   Products: with advertisements, sponsored content, affiliate links, etc. trying to earn as much money as possible (??)
+
+Do something with your mental health and such when you do these kinds of things? (Or, the mental health of the people who watch you? :p)
+
+_The old Dutch title was: "Vloggen of Verzuipen"._
+
+<!---
 Je hebt het superdruk, doet werk wat je niet leuk vindt, en zou het liefst de hele dag alleen nog maar foto's maken van je eten. Je krijgt een briljant idee: ik stop met alles en ik begin een social media bestaan!
 
 **Iedere speler begint het spel met een gloednieuwe pagina/kanaal/profiel op een social media website, en probeert deze uit te bouwen tot de grootste en meest succesvolle van allemaal.** Hierbij speelt niet alleen je inzet, creativiteit en inhoud een rol ... maar ook de likes en het sociale netwerk met je medespelers.
@@ -100,3 +200,4 @@ Het liefst vormt dit een drie-eenheid. Oftewel: elke speler is uiteindelijk met 
 -   Producten: met advertenties, gesponsorde content, affiliate links, etc. proberen zoveel mogelijk geld te verdienen (??)
 
 Nog iets doen met je mentale gezondheid enzo als je dit soort dingen doet? (Of, de mentale gezondheid van de mensen die naar je kijken? :p)
+--->
