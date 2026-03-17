@@ -24,7 +24,7 @@ Maar die zieke persoon geeft het niet op en gaat allerlei alternatieve middelen 
 
 **Kan ik dit meenemen?** Iemands ouders/vrienden die allemaal bogusmedicijnen nemen, geloven in dingen die niet echt zijn, dat overdragen op hun kinderen enzo.
 
-En dat allemaal terwijl ze daadwerkelijk gigantische *geldproblemen* en *gezondheidsproblemen* hebben. En dat dan uiteindelijk iemand [daardoor]{.underline} sterft
+En dat allemaal terwijl ze daadwerkelijk gigantische *geldproblemen* en *gezondheidsproblemen* hebben. En dat dan uiteindelijk iemand _daardoor_ sterft
 
 Wat is de truc?
 

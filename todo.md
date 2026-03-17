@@ -6,8 +6,9 @@ Clean up CSS a bit
 
 ## Content Add
 
-* Think about which Webshop ideas are just not good enough (or have better idea replacing them).
-  * Make a SINGLE FILE with everything to do for the webshop, IN ORDER, instead of spreading it out like this and having to re-check all the time. => Alternatively, mark all things to do with `@UNFINISHED` so I can CTRL+F find them at all times ... but then we still don't have a PRIORITY/ORDER, so meh.
+* Webshop Curriculum
+  * Move the worst/most risky ideas to slim down list.
+  * Put in sensible final order.
 * Think about what to do with music + musicals
   * Probably want to give away the music for Jongerenmusicals, but nothing else.
   * The issue is bad recordings + noise from my family cutting through all the time.
