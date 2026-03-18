@@ -60,6 +60,8 @@ $bg-color: #DEDEDE;  // #E7D7C6;
 $text-color: #212121;
 $color-green-light: #D6E1C9;
 $color-green-dark: #929C7B;
+$color-green-accent: #83cf63;
+$color-mid: #666666;
 
 
 @layer base
@@ -376,7 +378,7 @@ $color-green-dark: #929C7B;
 
     .text-color-gray
     {
-        color: #666;
+        color: $color-mid;
     }
 
     .text-case-upper
@@ -389,9 +391,14 @@ $color-green-dark: #929C7B;
         font-weight: bold;
     }
 
+    .text-italic
+    {
+        font-style: italic;
+    }
+
     blockquote
     {
-        border-left: 0.2em solid #83cf63;
+        border-left: 0.2em solid $color-green-accent;
         padding-left: 0.5em;
     }
 

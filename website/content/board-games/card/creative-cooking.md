@@ -1,11 +1,231 @@
 ---
-title: "Creatief Koken"
+title: "Creative Cooking"
 categories: ["board-games"]
 tags: ["card", "cooperative"]
-language: "nl"
+language: "en"
 progress: 3
 ---
 
+A game in which all players work together to fill the kitchen with the right ingredients and steps, so that they can make all customer orders correctly and on time.
+
+**Number of players:** 1-10
+
+**Playtime:** ±60 minutes
+
+**Difficulty:** low-average
+
+*Alternative titles: "Creative Cooking", "Cooking Crafts", and "Chef de Stress"*
+
+## What is the idea?
+
+This is a *cooperative bag building* game.
+
+Everyone tries together to run a restaurant/café/kitchen. In this, everyone has their own role (cook, head chef, waiter, manager, supplier, etc.) with special advantages and disadvantages.
+
+The play area consists of a kitchen area and a restaurant area.
+
+In the kitchen you have different "storage cabinets" that are represented by a *bag*. (Also a freezer chest and such?) Furthermore, in the kitchen you have places to build certain items (oven, counter, microwave, cutting board, etc.)
+
+In the restaurant you have tables where an X number of customers can sit. (You also of course have decorations and places that are nicer and less nice.)
+
+Important is that there is some kind of grid (or tiles) over which the pawns must move. Where you stand, and how far you are from something, is very important in this game.
+
+> **For example:** a cook will often not have time to walk to the best storage cabinet, so he drops the goods in the nearest bag. In the same way a waiter must optimize his route as much as possible.
+>
+> It seems most convenient to me if everything is separate, and there are simply "connection tiles" between objects.
+>
+> So the tables are separate, every part of the kitchen is separate, and in between there are some walkways/movement tiles. How these are laid out also determines where you can/cannot go quickly.
+
+## What is the core of the game?
+
+Every time something is made or delivered, it is put into a bag.
+
+When something is needed (for a recipe, or because the waiter has to deliver it, whatever) it is drawn blindly from a bag.
+
+So you have the chance that you draw something wrong or something you cannot use for a while.
+
+### Customers
+
+All customers are also in a bag.
+
+At the start of the game you have a few "cheap customers". They order something simple, have few demands, but therefore also pay little.
+
+Every time a customer is satisfied (you have treated him well enough), he returns => he goes back into the customer bag.
+
+If he is very satisfied (treated perfectly?), he brings a friend next time => an extra customer in the bag.
+
+If you have treated him poorly, he leaves and you therefore have one potential customer less.
+
+**You always want to have as many customers as possible**, and **the game ends when you want to draw a new customer but the bag is empty**.
+
+The more people you treat well, and the more famous/well-known/good reputation your restaurant gets, the better your customers. (Then customers with a higher value come. They want more, but also pay more.)
+
+## Questions & Ideas
+
+**QUESTION:** How can I simulate the stress and time element of overcooked?
+
+**IDEA:** Some roles (such as the waiter) have their own bag. They can keep one thing outside the bag ("in hand"), but if they need to carry more it goes into the bag.
+
+**IDEA:** If something is burned, one must add "burned tokens/cubes" to the bag. Every time you draw those you have a problem. (How do you get rid of those again?)
+
+**IDEA:** Secret recipes. People can come up with a recipe themselves that is then available the whole game.
+
+**IDEA:** One can buy better equipment (new ovens where you might be able to make two recipes at the same time)
+
+**IDEA:** You can also put wrong or fake ingredients into a recipe, but then you must roll a die that determines whether the customer notices or not!
+
+**IDEA:** Money is also something you throw into the bags! If you draw money from a bag, you must place it somewhere (for example on a specific new purchase).
+
+> This ensures that you are not sure how much money you have and what you get. In addition, it forces you to make choices early that you may regret a lot later :p
+
+**IDEA (Maybe difficult):** time is also something you put into the bags? So only when you draw a time cube does time advance.
+
+OR, you draw cubes UNTIL you draw a time cube.
+
+An alternative might be that you have to roll for time.
+
+It may be most convenient if time simply progresses predictably. (Each round the clock advances by one.) A recipe can for example burn if no one returns in time or if the wrong things are drawn from the bag.
+
+# Rules?
+
+## End of the game
+
+You win or lose the game together.
+
+You **win** the game if ...
+
+* You have acquired a certain fame/reputation?
+* You have X number of customers in your bag? (Hard to see.)
+* Time has passed and you are still alive or above a certain threshold?
+* Something else?
+
+*Note:* maybe win/loss depends on the scenario you are playing.
+
+You **lose** the game if ...
+
+* You have to draw a new customer, but the bag is empty.
+* Your reputation drops below 0.
+* Your restaurant has burned down.
+* (The safe is empty?)
+
+## Round flow
+
+### Preparation
+
+At the start of each new round a new customer arrives and the new goods are delivered.
+
+**New customer:** At the start of each round a customer is drawn from the customer bag.
+
+*Note:* by buying certain upgrades for your restaurant, you can draw more customers per round. (This does increase the risk that the bag runs empty.)
+
+The customer sits down according to their own rules (and the layout of the restaurant of course) and also places an order according to their own rules.
+
+**Delivery of goods:** goods that were ordered the previous round are delivered (to the indicated location for this).
+
+> These can be ingredients, or new equipment, or **new employees**.
+
+### Actions
+
+All players take turns performing actions until time is up.
+
+**IDEA:** Each bag has a time token, and if you draw it, the round is over? :p (Maybe a bit harsh, but if you have more tokens and make smart choices, you can avoid it. This way you might be able to remove time tokens from a specific bag permanently and then use that one a lot.)
+
+### Resolution
+
+All equipment that is in progress is advanced one step.
+
+All customers who are not satisfied, or got their order too late, whatever leave the building (and have a negative effect)
+
+Other negative effects (such as a kitchen on fire, goods lying outside the freezer, etc.) are now also applied
+
+**IDEA:** Devise a system that with the cubes/tokens (needed for the appliance/the recipe) also immediately indicates how far the appliance is!
+
+## Turn flow
+
+You start with only a few pawns. All pawns take turns performing their actions (until time is up? Or a maximum of X actions? FIND OUT)
+
+During the game you can buy more pawns, allowing you to do more.
+
+**IDEA:** Can the employees also go into a bag? Or is that going too far/becoming too unpredictable?
+
+The possible actions are:
+
+* Walking
+* Taking something from somewhere (a supply, a recipe that is finished cooking, etc.)
+* Putting something somewhere (a supply, ingredients for a recipe, etc.)
+* Delivering something to a customer.
+
+If you take money from somewhere, you must immediately spend it somewhere.
+
+If you deliver something to a customer, you immediately receive the reward (if correct) or penalty (if wrong/bad) and the customer leaves.
+
+**IDEA:** Maybe one of the locations is simply the cash register/safe, and all money starts there?
+
+> In any case I can come up with many different restaurant layouts ("different scenarios"), to make the game different each time.
+>
+> Can I make a self-correcting system? Because I am already kind of doing that. If players have it too easy, the game automatically becomes harder. (And if they have it too hard, it becomes easier.)
+
+**IDEA:** Everyone can only carry one thing, so people must meanwhile put things into the supplies/other bags? (Needs to be more streamlined, this idea.)
+
+**QUESTION:** How can I connect *walking* to *time passing*? Or can one simply walk a very limited number of steps, so that it automatically takes a lot of time? (That can be boring: then someone only walks during their turn, without doing anything useful.)
+
+> Or maybe you also have "movement cubes" (or "movement tokens") that you have to draw and assign?
+>
+> Maybe everyone has one free movement per turn, and after that you need movement cubes?
+
+### Equipment
+
+* Freezer/refrigerator
+* Microwave
+* Oven
+* Counter
+* Dishwasher
+* Cutting machine
+* Mixer
+* Stove/griddle
+* Conveyor belt (so dishes do not have to be brought to the restaurant side)
+* MORE?
+
+### Employees
+
+* Waitress / Waiter
+* Cook
+* Head chef
+* Manager
+* Supplier
+* (Stock clerk? Intern? Helper?)
+* Builder/repairer/mechanic
+* Accountant?
+
+I think we can keep it simple, and a combination of waiters + cook + supplier is always a good base?
+
+### Customers
+
+Each customer has their own "level". Their level determines what the minimum dish value is that this person wants.
+
+Such a person does *not* come to your restaurant if you do not have a dish of that value on the menu.
+
+In addition, higher levels have more demands. (Only at a table, in a favorable spot, faster delivery, who knows.)
+
+**IDEA:** A finished/composed product is represented by stacking the tokens on top of each other.
+
+Only when it is delivered to the customer do all tokens go back to their own supply. (This way I do not have to make separate cubes/tokens for ALL possible recipes. Because there are MANY.)
+
+**IDEA:** Players can put things on the menu? (Even create an offer/daily special/etc.?)
+
+> Maybe this is the only way to get orders: maintaining a menu.
+
+**IDEA:** It seems useful to me if we work with "doubling" when it comes to paying money for recipes:
+
+* A recipe with 1 ingredient yields 1 euro.
+* A recipe with 2 ingredients yields 2 euro.
+* 3 ingredients => 4 euro
+* 4 ingredients => 8 euro
+
+But ... I can well imagine that different ingredients have different values. Maybe you should just add up the individual values + possible bonus?
+
+
+<!---
 Een spel waarin alle spelers samenwerken om de keuken te vullen met de juiste ingrediënten en stappen, zodat ze alle orders van klanten correct en op tijd kunnen maken.
 
 **Aantal spelers:** 1-10
@@ -223,3 +443,4 @@ Pas als deze is afgeleverd aan de klant, gaan alle fiches weer terug naar hun ei
 -   4 ingrediënten => 8 euro
 
 Maar ... ik kan me goed voorstellen dat verschillende ingrediënten verschillende waardes hebben. Misschien moet je gewoon de individuele waardes bij elkaar optellen + eventuele bonus?
+--->

@@ -1,11 +1,58 @@
 ---
-title: "Valse Bewijzen"
+title: "Petty Proofs"
 categories: ["board-games"]
 tags: ["card"]
-language: "nl"
+language: "en"
 progress: 0
 ---
 
+This game idea is loosely based on the classic game **Skull**.
+
+In this game all players are suspected of a crime. Of course no one wants to get into trouble, so people try to plant evidence on others. Ultimately you want the pile in front of you (the "suspicion pile") to yield as *low a score* as possible.
+
+## Phase 1: Placing Evidence
+
+Everyone starts with cards in hand, and a face-down pile (of one card) in front of them.
+
+Each turn one puts a card from their hand FACE DOWN into the pile in front of someone else.
+
+These cards have all kinds of different effects. One makes a pile more suspicious (by planting evidence), another makes a pile worth less. Yet another card changes in value based on the card that came before it.
+
+## Phase 2: Sucking up to the police
+
+After everyone has added a card to someone else's pile, the second phase begins: *sucking up to the police*.
+
+Everyone must use the remaining cards in their hand to send the police in the wrong direction. One chooses cards from their hand that they want to play and places them all face down at the same time. Then they are turned over simultaneously and their effects are executed.
+
+## Resolution
+
+The person who is most hated by the police is *investigated*.
+
+The person who is investigated must turn over their *entire pile*. If there is any evidence in there, they are "busted" ... AND THEN!?
+
+Effects of cards can for example be:
+
+* Anyone who plays more than 2 cards makes the police +5 angry.
+* If someone
+
+If you "give away" evidence to the police, they are grateful to you and you become less hated.
+
+## End of the game
+
+It feels too quick/easy to let the game end when someone is busted for the first time. A maximum pile height is also clumsy. (Maybe, like in Skull, that everyone has three lives or something? But, every time you lose a life, you also get a small handicap in the game. Because ... the police keep a closer eye on you?)
+
+## Notes
+
+*Problem:* there needs to be a bit more tactics in it. Now everything depends on the cards you get.
+
+Maybe some cards are face up? That you can bid? Or instead steal from people who have a card you want? Or you have more cards to choose from in your hand?
+
+> Maybe you can choose: *either* place cards on other people (greater chance they get busted), *or* keep the cards yourself (smaller chance that you get investigated)
+
+**@UPDATE (Tiamo from Future): Actually seems like a good idea.** If the cards have two effects (one degrades a pile, one extremely useful when bribing police), it can be hard to pick which one to play or keep.
+
+
+<!---
 Dit spelidee is losjes gebaseerd op het klassieke spel **Skull**.
 
 In dit spel worden alle spelers verdacht van een misdaad. Niemand wil natuurlijk problemen krijgen, dus men probeert bewijs bij andere mensen te planten. Uiteindelijk wil je dat de stapel voor jouw neus (de "verdenkingsstapel") een zo *laag mogelijke score* oplevert.
@@ -52,3 +99,4 @@ Misschien dat sommige kaarten openliggen? Dat je kunt bieden? Of juist stelen va
 **@UPDATE (Tiamo from Future): Actually seems like a good idea.** If the cards have two effects (one degrades a pile, one extremely useful when bribing police), it can be hard to pick which one to play or keep.
 
 _Alternatieve titel: "Iets met schuld en schoenen schuiven"_
+--->

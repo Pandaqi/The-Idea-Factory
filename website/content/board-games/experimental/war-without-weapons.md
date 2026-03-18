@@ -1,11 +1,68 @@
 ---
-title: "Oorlog Zonder Wapens"
+title: "War Without Weapons"
 categories: ["board-games"]
 tags: ["physical", "experimental"]
-language: "nl"
+language: "en"
 progress: 1
 ---
 
+A very physical game about waging war while no one has weapons. You can only avoid each other, push each other off the board, or shape the board in other creative ways to what suits you best.
+
+## Three Ideas
+
+I see three separate game ideas:
+
+* **Competitive**: everyone plays against each other and wants to contain at least X of the game board (or eliminate all other armies or something?)
+* **Cooperative**: everyone plays together "against the board" (a gray people controlled by the game rules — or a kind of spirit or certain weather condition)
+
+  * Alternative is "traitor": everyone plays against one other player (who plays the villain)
+* **More traditional**: In the current rules one plays the war without weapons, and must therefore push all their pieces as a group and such. Maybe it is also fun if one plays more "traditionally" (Risk-like), and simply places and moves pieces, builds camps, etc.
+
+## The Special Board
+
+**THE BOARD** consists of *stacked cubes*. Height difference is important. There are also rivers, bridges, and other fun things.
+
+A logical *rule* seems to me that you can always bridge at most one height difference. (Pieces can go one up, stay on the same level, or go one down.)
+
+> To save material, the bottom layer ("level 0") is simply the table. Although cubes can be stacked much higher than level 2.
+
+## The Idea
+
+It is war ... but no one has weapons!
+
+To defeat the opponent you therefore have to be creative.
+
+Possibilities are:
+
+* Throw opponents off a cliff (at least 2 height)
+* Throw opponents into the water
+* Make opponents fall through a hole in the ground
+* Push opponents off the board (??)
+* Throw one piece ON TOP of another. (THIS IS FUN! LET'S HAVE MORE OF THIS?)
+
+## The Most Important Rules
+
+**Each player has their own, asymmetrical role**. Everyone gets special powers and possibilities, advantages and disadvantages.
+
+One can build the board themselves or use a **scenario** from the booklet.
+
+In almost all cases one starts very far apart.
+
+Each "group" of pieces (connected line/row) must move together! So if you move one piece, you must move the entire row connected to that piece together.
+
+> Possibly everyone has a limit on how many movements you may make. So you have to be smart about how you divide your army.
+
+**Question:** can players also influence the board? (So, move cubes, change the height, etc.?)
+
+**Game element:** one can also push/pull *other players' pieces* back and forth on a board.
+
+> A certain power allows you to destroy everything on one space. So one must cooperate to get as many enemies on one space as possible.
+
+Ah shit. I had super detailed notes for all the roles, game rules, etcetera written by hand in that notebook. But I lost that notebook. Ugh. This was quite a promising idea, but not in this minimal form :/
+
+*Alternative titles: "Unprepared War"*
+
+<!---
 Een heel fysiek spel over oorlogje voeren terwijl niemand wapens heeft. Je kan alleen elkaar ontwijken, van het bord duwen, of op andere creatieve manieren het bord vormen tot wat jou het beste uitkomt.
 
 ## Drie Ideeën
@@ -60,3 +117,4 @@ Elke "groep" poppetjes (aaneengesloten lijn/rij) moet gezamenlijk verplaatsen! D
 Ah shit. Ik had supergedetailleerde notities voor alle rollen, spelregels, etcetera met de hand in dat schriftje geschreven. Maar ik ben dat schriftje kwijt. Ugh. Dit was best een veelbelovend idee, maar niet in deze minieme vorm :/
 
 _Alternatieve titels: "Onvoorbereide Oorlog"_
+--->

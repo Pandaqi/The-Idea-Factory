@@ -8,9 +8,9 @@ Looking for inspiration? Something to unblock your creative juices? You've come 
 
 Search the massive database of ideas using keywords.
 
-<input type="text" placeholder="... search ..." style="font-size: 1.5em;" class="search-input">
+<input type="text" placeholder="... search ..." style="font-size: 1.5em;" class="search-input text-center">
 
-Or click on one of the main categories.
+Or click on one of the <strong>main categories</strong>.
 
 * [Stories & Writing](/categories/books/)
 * [Board Games](/categories/board-games/)
@@ -18,7 +18,7 @@ Or click on one of the main categories.
 * [Music & Songwriting](/categories/music/)
 * [Other (Tools, Business, Etc)](/categories/misc/)
 
-Or visit one of the progress levels ( = how promising, specific, and well-documented the idea is).
+Or visit one of the <strong>progress levels</strong>. That is, how promising, specific, and well-documented the idea is---it's still an idea, not an execution!
 
 * [Barebones Idea](/progress/0/)
 * [First Sketch](/progress/1/)
@@ -28,7 +28,7 @@ Or visit one of the progress levels ( = how promising, specific, and well-docume
 * [Almost Finished](/progress/5/)
 * [Finished](/progress/6/)
 
-Or look at the randomly selected ideas below.
+Or look at the <strong>randomly selected ideas</strong> below.
 
 <div class="random-pages-lister"></div>
 
