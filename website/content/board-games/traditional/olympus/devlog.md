@@ -139,8 +139,6 @@ Now it's all about getting the God _powers_ (and _scoring rules_) right, and I t
 
 ### God Powers
 
-@TODO
-
 
 
 

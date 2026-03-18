@@ -83,7 +83,7 @@ All those swords were created **explicitly** for defeating this big evil. Nearin
 
 Until they realize the swords they've always been collecting are _exactly_ the counters to some of them. They have to somehow find and combine _everyone_ with a sword, because they need them all to fight the evil in the end.
 
-**@TODO: This is an amazing twist that could set up an entire second book, turning this into a series.**
+**This is an amazing twist that could set up an entire second book, turning this into a series.**
 
 
 ## Opening
@@ -189,7 +189,7 @@ I invented the swords to make magic **physical and visual.**
 
 All magic, without exception, is executed through a *physical movement* with a *magical sword*. (Except perhaps the final evil: they're extra scary if they can do it secretly or invisibly.)
 
-Regular swords do *not* exist. They are somehow blunt and cannot hit anything. => \@TODO: Might need a sharper rule, what "is" a sword? What about knives?
+Regular swords do *not* exist. They are somehow blunt and cannot hit anything. => @NOTE: Might need a sharper rule, what "is" a sword? What about knives?
 
 -   In Algraham, any sword imagery is strictly forbidden to prevent confusion.
 -   In Zaryote, they do make loads of sword-related souvenirs. They add colors/design to those objects they never found in a sword before.

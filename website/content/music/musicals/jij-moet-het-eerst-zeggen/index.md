@@ -42,9 +42,11 @@ _Spoiler: de twist is dat het eigenlijk omgekeerd is. Ginty is overleden. James 
 
 ### 3. Ik Zie Jou (II)
 
-De reprise van het openingsnummer. Nu in vierkwartsmaat en verdrietiger. 
+De reprise van het openingsnummer. Nu in vierkwartsmaat en verdrietiger. Ik heb wederom twee opnames. De eerste is oud, heeft wat fouten, en mist het refrein (hoe heb ik dat voor elkaar gekregen?). Dus de tweede betere versie heb ik onlangs opgenomen speciaal toen ik dit idee publiceerde.
 
 {{< audio src="ik-zie-jou-2.mp3" >}}
+
+{{< audio src="ik-zie-jou-2-beter.mp3" >}}
 
 James zit doodstil op het podium, als een soort geest die van een afstand of bovenaf neerkijkt op Ginty. Zij doet haar dingen, leeft haar leven, maakt zich klaar voor een feest.
 

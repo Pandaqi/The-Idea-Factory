@@ -89,7 +89,7 @@ Make sure they are separated clearly, so no player is confused where one station
 
 Each player picks one (unique) vote chip. That's their candidate.
 
-**\@TODO: Create that actual table.** It also shows how many vote chips you must use per player. That's always equal to the number of rounds? Yes, because then they'll all be exactly used.
+**@NOTE: Create that actual table.** It also shows how many vote chips you must use per player. That's always equal to the number of rounds? Yes, because then they'll all be exactly used.
 
 ## Objective
 

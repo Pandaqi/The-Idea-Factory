@@ -56,7 +56,11 @@ En het refrein is wel voor alle personages hetzelfde (zingen ze dan ook samen ui
 >
 > Etc
 
-De bridge heb ik nooit opgenomen zie ik nu (@TODO!). Maar eigenlijk komt het neer op dat één van hen herhaaldelijk schreeuwt ...
+De bridge heb ik pas veel later opgenomen (die was ik blijkbaar vergeten in de originele opnames). De opname hieronder bevat kort het couplet + refrein ter herhaling, dan de bridge.
+
+{{< audio src="ik-wil-niet-plus-bridge.mp3" >}}
+
+De tekst komt hier (aan het einde) eigenlijk op neer dat één van hen herhaaldelijk schreeuwt ...
 
 > Ik wil niet
 >
@@ -66,7 +70,6 @@ De bridge heb ik nooit opgenomen zie ik nu (@TODO!). Maar eigenlijk komt het nee
 >
 > Ik schreeuw nie-ie-ie-ie-iet
 
-Als ik het opneem zal duidelijk worden waarom dit goed klinkt en past bij de rest, geloof me.
 
 Wat is het specifieke probleem?
 

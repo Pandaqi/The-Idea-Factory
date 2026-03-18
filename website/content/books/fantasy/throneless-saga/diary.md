@@ -1,4 +1,4 @@
-Welcome to this "writing diary" for my series of books called the Throneless Saga (@TODO: Link). It talks about why I made this project, what I tried to do, any interesting problems I encountered, all of which is hopefully interesting to read.
+Welcome to this "writing diary" for my series of books called the [Throneless Saga](https://tiamopastoor.com/books/throneless-saga/). It talks about why I made this project, what I tried to do, any interesting problems I encountered, all of which is hopefully interesting to read.
 
 ## What's the idea?
 ### Once there were (board) games
@@ -73,6 +73,3 @@ Instead, I keep a _short_ list called "metadata" which answers the most importan
 The "Start" is supposed to give me a strong first chapter to kick things off. The "Goal" is the general thread that gives momentum for the entire story. The "Swapping Rule" describes a crucial part of the "political system" (or "how the throne works") in this book.
 
 Anything else? We'll figure that out as we go. At least I already have all the factions and their backstories/goals to go on!
-
-
-@TODO

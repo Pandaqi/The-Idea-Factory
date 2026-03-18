@@ -72,9 +72,9 @@ You must, however, **pay** for this powerful action. Remove 2 tiles from your cu
 
 You only score squares that are **inside your Area Tile**. (By changing areas, tiles that used to be valid, might now suddenly be out of bounds.)
 
-Each square is worth 1 point by default. Check if they have a special action, or if they're on top of a special scoring action on the Area Tile. These are explained at @TODO: Link to section with all scoring
+Each square is worth 1 point by default. Check if they have a special action, or if they're on top of a special scoring action on the Area Tile. These are explained at another scoring section.
 
-@TODO: I don't want too many rules or powers hidden inside the rulebook. 
+@NOTE: I don't want too many rules or powers hidden inside the rulebook. 
 * There should be a low limit on unique types
 * Most should just be a _number_ ("this is how many points you get") or a _color_.
 * With some _base rule_ for scoring => for example, you score your _largest group_ of each unique color.

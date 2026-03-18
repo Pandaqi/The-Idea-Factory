@@ -40,7 +40,7 @@ When the timer is up:
 
 When they are hiding as ghosts, they can still move and do stuff! But they leave footprints. And they can't see themselves, so they have to pay close attention to track where they are.
 
-Additionally, they can use powers (often one-time or hard to recharge): @TODO
+Additionally, they can use powers (often one-time or hard to recharge): FIGURE OUT.
 
 **IDEA:** The powers are *unique to each player* and the seeker can *see when they've been used*. (Double-edged sword. You can hide in some unique way, but the seeker has a vague hint because they *know* you used that.)
 

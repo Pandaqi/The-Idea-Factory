@@ -185,8 +185,6 @@ Wat is het punt van zulke uitdagingen, als je de code krijgt, of een voordeel he
 
 **Vraag:** hoe werkt de programmeertaal? Bedenk simpele en duidelijke syntax voor alle onderdelen. (En een level / verhaallijn waarin je dit zou leren en waarin het belangrijk wordt.)
 
-**@TODO: Wissel alle notities naar Engels.**
-
 ## Sources
 
 - <https://cpnb.nl/nieuws/unieke-stap-in-offensief-tegen-ontlezing-brengt-literatuur-en-gaming-opnieuw-samen/>

@@ -42,15 +42,15 @@ Different tiles will grow/shrink you when you step on them. (Speech bubbles? Foo
 
 Is this a "meter" and it takes several steps to switch from small\<-\>large? Feels a bit too mathematical/detailed.
 
-**\@TODO:** Might remove "regular" size in its entirety? If it does nothing?
+**@IDEA:** Might remove "regular" size in its entirety? If it does nothing?
 
-**\@TODO** (possible expansion):
+**@IDEA** (possible expansion):
 
 -   There are security cameras
 -   You can only turn them off when *big* (otherwise you can't reach the button)
 -   You can't be seen by them if you're tiny.
 
-**\@TODO** (possible expansions):
+**@IDEA** (possible expansions):
 
 -   You move through walls/objects by breaking them
 -   But you can't leave the level ( = win) unless you've also picked up equally many glue/tools/repair icons.

@@ -60,7 +60,7 @@ Many actions are related to your current Home status.
 * For example, "You get 3 Stardust, minus what's on your Home"
 * For example, "This turn, you may move as many steps as the number of Stardust on your Home"
 
-**@TODO:** This might be too complicated. If possible, move this to an expansion / after your first game.
+**@NOTE:** This might be too complicated. If possible, move this to an expansion / after your first game.
 
 ## Verdict
 

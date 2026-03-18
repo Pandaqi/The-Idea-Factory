@@ -16,7 +16,7 @@ All players are a _color_ and have ~10 cubes ( = soldiers) in that color. Take t
 
 Give each player one random **Conflict Card** for their starting deck. Place the remaining cards in faceup piles, sorted by type: the **market**.
 
-@TODO (possible alternative): just make X random piles, then sort them from low cost to high cost.
+Possible alternative: just make X random piles, then sort them from low cost to high cost.
 
 > For a faster/simpler game, you can remove some of the most expensive cards, as well as all or some special cards.
 
@@ -39,20 +39,24 @@ Usually, cards can all be executed simultaneously. When cards influence the same
 
 In this case, check the Delay number on your _discarded_ card. Players handle their cards from low to high. If this is still a tie, then the cards are simply **not executed**.
 
-@TODO: (optional) if any card has been played with a "!" icon, then _all_ cards need to be sorted and executed in turn. (From Delay value, low to high, with duplicate values being removed entirely.)
+@IDEA: (optional) if any card has been played with a "!" icon, then _all_ cards need to be sorted and executed in turn. (From Delay value, low to high, with duplicate values being removed entirely.)
 
 Cards played move to your discard pile. When your draw pile is empty, shuffle the discard pile and make it the new draw pile.
 
 That's it!
 
 ## Scoring
+
 Determine your score by summing three values.
+
 * For each **army** of yours left (on the board?), score 2 points.
 * For each **country** in which you have the majority (ties not allowed), score its value.
 * Each **score card** in your deck scores the number of points on it.
 
 ## Cards
+
 Cards show ...
+
 * A purchase cost (when in the market)
 * A 3x4 minimap of the world with all potentially influenced squares marked. + One extra special square to indicate the **market** (which is used by all Purchase cards)
 * An icon ( + more icons/numbers) to illustrate what it does.
@@ -68,7 +72,7 @@ The different types of cards are ...
 	* A number of footsteps: in this case, you move them that number of steps.
 * **Add**: shows a number and a section of the board. _Add the number of soldiers shown to that section of the board._
 * **Retreat:** shows a number and a section of the board. _Retreat the number of soldiers from that section of the board._ (Retreat means they go back into your supply.)
-* **Special:** @TODO; one-off cards with special powers.
+* **Special:** one-off cards with special powers.
 	* **Scare:** pick a country. Move _one_ soldier to each adjacent country (if possible).
 	* **Surprise**: trigger a Conflict in any country (that doesn't contain your soldiers?)
 	* **Bomb**: if another Conflict is played, this becomes a Conflict card in an adjacent country of choice.

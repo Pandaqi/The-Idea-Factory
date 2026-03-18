@@ -109,7 +109,7 @@ Any time you play a card, you may start a new storyline. (A new row on the table
 
 Any time you can't play a card, start a *new* storyline.
 
-**@TODO:** Figure out how to deal with multiple storylines (and converging/diverging)
+**@IDEA:** Figure out how to deal with multiple storylines (and converging/diverging)
 
 #### Chronological Cuisine
 
@@ -144,4 +144,4 @@ It also means that you *can* play such a card and give completely new informatio
 
 This is a variation on the rules for Group Mode. Read those first.
 
-@TODO
+Yet to specify ...

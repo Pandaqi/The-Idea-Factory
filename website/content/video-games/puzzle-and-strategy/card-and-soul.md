@@ -50,7 +50,7 @@ I also like the idea of **running a school**. But in that case, the whole game w
 
 ## Objective
 
-With a title like "Card & Soul", it feels like we should be guiding spirits or something. => @TODO
+With a title like "Card & Soul", it feels like we should be guiding spirits or something.
 
 ## Notes & Issues
 

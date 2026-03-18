@@ -81,11 +81,7 @@ Het couplet begint met iets als ...
 
 ### 3. Hoe Jij Vroeger Was
 
-De demo hieronder staat in een rare volgorde en zit vol fouten. Het eerste stukje is de climax/bridge. Het tweede stukje is een overgang en couplet. Daarna komt het refrein waar het eigenlijk om draait.
-
-@TODO: Neem de veel betere versie op met echte piano, op juiste volgorde.
-
-{{< audio src="hoe-jij-vroeger-was.mp3" >}}
+{{< audio src="hoe-jij-vroeger-was-beter.mp3" >}}
 
 Nou, die waanbeelden van Leon hebben vroeger nogal wat ongemakkelijke situaties opgeleverd. Eén situatie zelfs een trauma waardoor Maria, waarmee hij vroeger erg goed bevriend was en die hij leuk vindt, hem niet eens meer wil zien of spreken.
 
@@ -106,6 +102,10 @@ Bridge:
 > Over alles, over vroeger
 >
 > En de vriend die ik niet was
+
+_Hierinder staat de oude demo. Die staat in een rare volgorde en zit vol fouten, daarom heb ik hem opnieuw opgenomen. Het eerste stukje is de climax/bridge. Het tweede stukje is een overgang en couplet. Daarna komt het refrein waar het eigenlijk om draait._
+
+{{< audio src="hoe-jij-vroeger-was.mp3" >}}
 
 ### 4. Hey Maria
 
@@ -254,7 +254,11 @@ Door deze gebeurtenis radicaliseert Maria verder. Leon en Delilah krijgen een re
 
 ### 10. Ga Nooit Meer Weg / Ik Hou Van Alle Dagen
 
+Hieronder twee demos voor "ga nooit meer weg". De eerste is de originele op gitaar ... maar daar hoor je dus eigenlijk alleen de achtergrondbegeleiding, niet de melodie. Dus ik heb hem later opgenomen op de piano terwijl ik melodie eroverheen speel.
+
 {{< audio src="ga-nooit-meer-weg.mp3" >}}
+
+{{< audio src="ga-nooit-meer-weg-beter.mp3" >}}
 
 {{< audio src="ik-hou-van-alle-dagen.mp3" >}}
 
@@ -264,8 +268,6 @@ Eerste Demo:
 
 * Mario beseft hoeveel hij van Maria houdt
 * "Blijf bij mij, en ga nooit meer weg, hou van me, oh hoor wat ik zeg---soms voelt het veel te veel, en ik vraag me af waarom"
-
-@TODO: Ik heb nooit de daadwerkelijke melodie ingezongen hiervoor. Ik moet eigenlijk even een piano-opname maken waarbij ik de melodie eroverheen speel, want nu hoor je vooral gitaar.
 
 Tweede Demo:
 

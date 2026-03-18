@@ -32,7 +32,7 @@ These are identical from the back and should be held (mixed) in one hand comfort
 ### Setup
 
 Create a deck of **Money Cards** and **Item Cards**.
-* Give 1 Money Card (of value 1) to each player. (@TODO: better money setup probably??)
+* Give 1 Money Card (of value 1) to each player. (@NOTE: better money setup probably??)
 * Place as many Item Cards on the table as double the number of players: the **shop**.
 
 Whoever shops the most becomes start player.

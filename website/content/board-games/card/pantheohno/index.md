@@ -104,7 +104,7 @@ That's it! Have fun!
 
 Alternative Names: **Pantheohno** or **Pantheohmy** or **Pantheohnotagain**
 
-**@TODO: This should be a GREAT game. Simple, unique, great engine.** 
+This should be a GREAT game. Simple, unique, great engine.
 
 I just need to ...
 

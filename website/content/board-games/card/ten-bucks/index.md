@@ -33,5 +33,3 @@ There are, however, three rules to claiming.
 ## Expansions
 
 ### Where Your Mouth Is
-
-@TODO

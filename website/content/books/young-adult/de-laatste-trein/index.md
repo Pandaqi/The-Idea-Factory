@@ -140,8 +140,6 @@ Het stuk is opgedeeld in twee aktes waartussen je een pauze kunt zetten. Dit hoe
 
 ### Akte 2
 
-@TODO
-
 
 
 

@@ -39,7 +39,7 @@ On your turn, you can
 - **Buy one card** from the table. Pay the money, get the card in your hand.
 - **Play cards** from your hand to execute their action.
 
-Both of these are optional (?) => \@TODO: or something like "if you didn't buy anything, you *must* play an action"?
+Both of these are optional (?) => @IDEA: or something like "if you didn't buy anything, you *must* play an action"?
 
 There is **no** hand limit.
 

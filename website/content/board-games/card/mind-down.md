@@ -43,4 +43,4 @@ Then to really spice it up.
 * And some cards are needed to move around and visit new treasures / enemies / rooms.
 * **@IDEA: Of course, the cards could show directions in a cave (like Saboteur). When ranked based on number, you get row after row continuing the dungeon cooperatively.**
 
-**@TODO: This simple rule of "just sort your own cards and you have your row order" is far too good.** Changing it would just complicate the game without much in return. So I think we should just stick to that simplicity and try to build on it in a smart way. **But HOW?**
+**@NOTE: This simple rule of "just sort your own cards and you have your row order" is far too good.** Changing it would just complicate the game without much in return. So I think we should just stick to that simplicity and try to build on it in a smart way. **But HOW?**

@@ -4,7 +4,7 @@
   * See rules.md for some ideas already
   * The material for this game are DOMINOES? Or just regular CARDS anyway?
 * Assets/Sketches => Drawing Code
-  * @TODO: Add an _option_, again, to put the text explaining special icons on the dollar bills?
+  * Add an _option_, again, to put the text explaining special icons on the dollar bills?
 * Marketing
 * Rulebook Images
 * Devlog/RodePanda/Patreon

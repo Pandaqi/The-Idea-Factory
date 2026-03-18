@@ -47,7 +47,7 @@ The people who choose to do so walk simultaneously from one location to the othe
 
 *Important*: you may **never** show your secret role. (You may of course *say* that you are something, and bluff about it or negotiate with it.)
 
-@TODO
+Yet to specify ...
 
 ## Tasks
 
@@ -170,8 +170,6 @@ De personen die daarvoor kiezen, lopen tegelijkertijd van de ene locatie naar de
 ## Acties
 
 *Belangrijk*: je mag **nooit** je geheime rol laten zien. (Je mag best *zeggen* dat je iets bent, en daarover bluffen of daarmee onderhandelen.)
-
-@TODO
 
 ## Opdrachten
 

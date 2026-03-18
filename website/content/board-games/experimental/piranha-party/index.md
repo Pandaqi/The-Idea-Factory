@@ -88,7 +88,7 @@ When **extending the map**, if the path from the Station to your tile is at leas
 
 @EXPANSION: Actually add the Piranhas which also move around (a few of them), but can be moved by anyone and will eat loose people (out of their boat)?
 
-@TODO: Include a really strong **solo mode**, which I can then use for testing!
+@IDEA: Include a really strong **solo mode**, which I can then use for testing!
 
 @PROBLEM: If there's _flow_ on the cards---arrows pointing clearly in a direction---then it becomes really hard to make a sensible path. Because it's likely that you need to rotate tiles such that arrows point opposite ways, creating a static sinkhole.
 * SOLUTION 1: Flow only matters _within the tile_ (up/down). Moving over the track itself always goes in the same direction.

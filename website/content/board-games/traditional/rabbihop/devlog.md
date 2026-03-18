@@ -1,4 +1,4 @@
-Welcome to the devlog for [Rabbihop](https://pandaqi.com/rabbihop) @TODO: probably different name. 
+Welcome to the devlog for [Rabbihop](https://pandaqi.com/rabbihop).
 
 I'll try to explain the process of creating this project from start to finish, talking about problems, solutions, why I made certain decisions, and so forth.
 

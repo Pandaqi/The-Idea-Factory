@@ -41,11 +41,11 @@ Each player simply has one extra pile of **team tokens**. They do nothing on the
 
 (This has a nice push-and-pull of: you want to enhance territories ... but it might backfire if you're not in time to also *claim* them by plopping down equally many team tokens.)
 
-**\@IDEA:** That idea of placing a "bridge" over water to connect territories is *great*. Use that somehow, intensively.
+**@IDEA:** That idea of placing a "bridge" over water to connect territories is *great*. Use that somehow, intensively.
 
 ## Tiles/Tokens
 
-\@TODO
+Yet to specify ...
 
 ## Expansions
 

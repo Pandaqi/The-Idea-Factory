@@ -57,7 +57,7 @@ It also has **stats**.
 
 By default, you simply _combine_ the stats of both cards to get the total stats of that combo.
 
-> **@TODO: Can we do a more core/general rule for this?** Something like "A stat only counts if it's present on all buddies."?
+> **Can we do a more core/general rule for this?** Something like "A stat only counts if it's present on all buddies."?
 
 But some cards have a special **effect/action** that talks about modifying the _stats of their buddies_. (Buddies = all puzzle pieces to which they're connected.)
 
@@ -77,7 +77,7 @@ This adds puzzle pieces with multiple openings. It has some massive changes to t
 
 There are three important twists.
 
-* When attacking, you can also attack unfinished combos. (@TODO: BUT WITH SOME EXTRA DIFFICULTY?)
+* When attacking, you can also attack unfinished combos. (BUT WITH SOME EXTRA DIFFICULTY?)
 * You can only **finish a single combo** in one turn (and thus only attack once, with that one combo).
 * Any **unfinished combo** at the end of the game, however, scores its value as _negative points_.
 

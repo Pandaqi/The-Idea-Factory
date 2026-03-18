@@ -57,7 +57,9 @@ Eerste nummer van M. Ze zingt over haar droom om te schitteren in Barcelona en P
 
 Ik weet niet wat hier misging, maar dit nummer hoort dus eigenlijk _driekwartsmaat_ te zijn. Toen ik het idee opneem ging ik waarschijnlijk op automatische piloot toch de standaard vierkwartsmaat spelen. Maar het is echt zo'n happy, bouncy, wals nummer.
 
-@TODO: Deze moet ik dus eigenlijk opnieuw opnemen met 3/4 maat. (Eigenlijk 6/8 volgens mij.)
+@UPDATE: Ik heb hem opnieuw opgenomen met betere mobiel en hoe ik hem vandaag de dag zo ongeveer zou spelen. Veel beter, denk ik. Luister hieronder.
+
+{{< audio src="barcelona-beter.mp3" >}}
 
 Het refrein is:
 

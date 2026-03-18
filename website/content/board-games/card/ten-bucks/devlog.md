@@ -175,12 +175,9 @@ So let's do that!
 
 ## Let's make that!
 
-@TODO
-
 
 ## Conclusion
 
-@TODO
 
 It's also interesting to see the growth here. To see the immense difference in quality, simplicity, skill when it comes to designing games compared to ten years ago. This, of course, is a rewarding feeling. Even if it often doesn't feel like it---when I'm stuck with another idea that doesn't seem to work out---you _do_ grow a lot by simply making more stuff.
 

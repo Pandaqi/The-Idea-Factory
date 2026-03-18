@@ -77,6 +77,5 @@ It's probably obvious why I like this. It adds even more tension and push-your-l
 **Float / Sink**: Add tiles (on top of the map) that float / sink after every round. This is, again, very thematic and intuitive, but it also ensures the map constantly changes and you can plan smart turns far ahead.
 
 ## Let's make that
-I see nothing standing in our way. Let's make a bunch of tiles and test this game.
 
-@TODO
+I see nothing standing in our way. Let's make a bunch of tiles and test this game.

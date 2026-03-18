@@ -42,7 +42,7 @@ If the space you land on has a special action, execute it.
 - **Where did that come from?** Add another neutral car to your current road tile.
 - **Emergency Lane.** Only applies if you're behind ( = not the player who is furthest ahead). Skip to *any* available space on the next road tile.
 - **Explosion.** Any adjacent cars are removed.
-- **Magnet.** Any adjacent cars are moved one space further away. If used by the person in front, however, it *attracts* cars => \@TODO: figure out the specifics of this
+- **Magnet.** Any adjacent cars are moved one space further away. If used by the person in front, however, it *attracts* cars.
 
 **EXPANSION:** The ability to stack neutral cars underneath you. The more you have, the more spaces you're allowed to move. (Example: stack of 3 = 3 spaces per turn.) This could be related to "fueling station" / "tank station" actions.
 

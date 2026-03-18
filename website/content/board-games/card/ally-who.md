@@ -79,7 +79,7 @@ Any remaining cards go back into the hand of whoever played them.
 -   **Tanks are bad against planes.**
 -   **Submarines are bad against tanks.**
 
-**\@TODO: Maybe the "bottom type" (tanks) should have no weakness?** Because they are last in the *order*, they already have a disadvantage. Additionally, because of this cyclic nature, there is now no clear *start* to this "remove one card because of weakness"
+**@IDEA: Maybe the "bottom type" (tanks) should have no weakness?** Because they are last in the *order*, they already have a disadvantage. Additionally, because of this cyclic nature, there is now no clear *start* to this "remove one card because of weakness"
 
 > The cyclic nature CAN work, as long as we handle it in order.
 >
@@ -87,7 +87,7 @@ Any remaining cards go back into the hand of whoever played them.
 >
 > Certainly, there should be an action to *reverse* this.
 
-**\@TODO: Rephrase from weakness into strength/power/ability.** Makes for easier rules:
+**@IDEA: Rephrase from weakness into strength/power/ability.** Makes for easier rules:
 
 -   Planes destroy Submarines => for each plane, remove one submarine card from the opponent
 -   Submarines destroy Tanks => for each submarine, remove one tank card from the opponent

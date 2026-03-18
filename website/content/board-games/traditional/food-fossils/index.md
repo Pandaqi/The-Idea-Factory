@@ -69,7 +69,7 @@ POSSIBLE ACTIONS (whittle it down to just four or something)
 * Move: move a top card to a different pile. (A "top card" is any card at the top of a colored pile.)
 * Return: return a top card. (To be shuffled back into their deck.)
 
-@TODO: What we _lose_ here---by not playing piles directly beneath a fossil card---is the ability to swap fossil places and actually be a meaningful change. (Because now a different pile of yours works towards that fossil.) => Bring that back in some other way?
+@NOTE: What we _lose_ here---by not playing piles directly beneath a fossil card---is the ability to swap fossil places and actually be a meaningful change. (Because now a different pile of yours works towards that fossil.) => Bring that back in some other way?
 
 ## Expansion: Arcane Archeology
 

@@ -149,11 +149,11 @@ No night action.
 - Positive: the active player gives one card away to all players who woke up.
 - Negative: all players who woke up during the night must draw another card
 
-**\@TODO: Another night role or two with more devastating impact.**
+**@IDEA: Another night role or two with more devastating impact.**
 
-**@TODO:** Probably need a few more roles to destroy/change cards in other player's hands, so they can't keep guessing the same type they *know* they have. => Or a general rule like "If you guessed correctly, discard one card of that type", or "You can't guess the same role as the previous player"
+**@IDEA:** Probably need a few more roles to destroy/change cards in other player's hands, so they can't keep guessing the same type they *know* they have. => Or a general rule like "If you guessed correctly, discard one card of that type", or "You can't guess the same role as the previous player"
 
-**\@TODO: What if people can't agree on the action?** In Werewolf, the action just becomes void. That can't really happen here. HOW TO SOLVE? => Majority vote. If tied, active player picks.
+**@PROBLEM: What if people can't agree on the action?** In Werewolf, the action just becomes void. That can't really happen here. HOW TO SOLVE? => Majority vote. If tied, active player picks.
 
 Negative: all other players discard one card.
 
@@ -163,4 +163,4 @@ A **mission role**.
 - Positive: Everybody who participated may *flip* or *discard* **Value** cards.
 - Negative: You must draw another card. Nothing else happens.
 
-**\@TODO: More mission roles.**
+We need a lot more of these, of course.

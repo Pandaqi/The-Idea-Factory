@@ -70,7 +70,7 @@ Each tile also has **arrows**. (A hexagon can hold 6 triangles, so enough space 
 
 Now that you know how much each icon scores, determine the value of all tiles in your hand. That's your final score!
 
-@TODO: No, this doesn't work. All arrows point outwards, so _every_ step means arrows pointing back at itself. Unless tiles had exactly **one arrow** (per type; green/red). When following the chain, it doesn't matter where you _enter_, you just follow that one arrow onwards.
+@NOTE: No, this doesn't work. All arrows point outwards, so _every_ step means arrows pointing back at itself. Unless tiles had exactly **one arrow** (per type; green/red). When following the chain, it doesn't matter where you _enter_, you just follow that one arrow onwards.
 
 @IDEA: There are green arrows (plus points), but also red arrows (minus points).
 

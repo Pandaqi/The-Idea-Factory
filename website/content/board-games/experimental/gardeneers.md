@@ -43,7 +43,9 @@ Then, either **PLANT**, **GROW** or **HARVEST**.
 
 Pay 1 seed.
 
-Pick a plant from the market and place it before you ( = "in your garden"). (@TODO Close all the petals when placing? Or does that state stay from the market?)
+Pick a plant from the market and place it before you ( = "in your garden"). 
+
+> Optional Idea: Close all the petals when placing? Or does that state stay from the market?)
 
 For each flower left in the market, open _one petal_ (if possible). Then refill the market with a flower of the type you just picked (if available).
 

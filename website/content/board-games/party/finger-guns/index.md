@@ -29,7 +29,7 @@ More specifically, everyone makes two decisions.
 
 Pointing should _really_ happen simultaneously. No delaying, no waiting to see what others do, no switching afterwards!
 
-@TODO: EXAMPLE IMAGE
+EXAMPLE IMAGE HERE
 
 Now handle the players in clockwise order.
 
@@ -45,7 +45,7 @@ Everyone calculates the total damage they receive this round, then removes that 
 
 Next round!
 
-@TODO: EXAMPLE IMAGE
+EXAMPLE IMAGE HERE
 
 ## Cards (not needed to include this in the rules; this is just for me)
 

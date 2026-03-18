@@ -126,6 +126,3 @@ How do we fix this?
 
 * I changed it so that you always throw away the gem you used, even if it's not depleted. This means there's always an arrow showing, you always move one gem to some other part of the map, it's just more useful.
 * I changed it so that storms could appear on any side, move in any direction, appear in any number.
-
-
-@TODO

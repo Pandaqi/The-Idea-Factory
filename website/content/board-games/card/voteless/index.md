@@ -27,7 +27,7 @@ On your turn, pick one of two actions.
 
 If you are now **certain your candidate has the most votes**, say **"stop the game!"** => Everybody counts votes and highest score wins.
 
-**@TODO:** To prevent very quick endings, or abuse, this can only be called after X turns or after some condition is met?
+**@IDEA:** To prevent very quick endings, or abuse, this can only be called after X turns or after some condition is met?
 
 ## Score/Voting
 
@@ -46,16 +46,16 @@ For example:
 
 Currently, your score is 11. If the colors were the same, you'd score 17.
 
-**@TODO:** Alternative scoring => you win if you have *more votes than anybody else* for *every candidate you have.* In other words,
+**@IDEA:** Alternative scoring => you win if you have *more votes than anybody else* for *every candidate you have.* In other words,
 
 - You need more blue votes than anyone else
 - And you need more red votes than anyone else
 
 **This doesn't work**, as the map number is equal for all.
 
-**@TODO:** Alternative scoring => each player gets a candidate/color at the start. When counting votes, *all* votes (for all colors, for all players) are summed. You only win if your color comes out on top.
+**@IDEA:** Alternative scoring => each player gets a candidate/color at the start. When counting votes, *all* votes (for all colors, for all players) are summed. You only win if your color comes out on top.
 
-**@TODO: A much better way, would be to only count matching numbers**.
+**@IDEA: A much better way, would be to only count matching numbers**.
 
 - The map has majority *blue*. Sum the numbers of *blue* cards in your hand for the "map score"
 - Your hand has majority *red.* Sum the numbers of *red* cards on the map for your "hand score"

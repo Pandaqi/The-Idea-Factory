@@ -233,7 +233,7 @@ The other extreme: a slimmed-down version. Only the 12 major god cards, nothing 
 
 _Alternative Name: Colympus IF we make the game cooperative._
 
-**@TODO:**
+**IMPROVEMENTS:**
 
 -   See if I can reduce tile types + simplify God powers
 -   And make all of them equally relevant. (Equally many Gods that can do something with them.)

@@ -1,6 +1,6 @@
 # Swordseekers Diary
 
-Welcome to the "writer's diary" for Swordseekers (@TODO: Link). As I work on projects, I always write down my thought process and other interesting choices made along the way. This might be fun or educational for others, but it also helps me think through problems and ideas.
+Welcome to the "writer's diary" for [Swordseekers](https://tiamopastoor.com/books/swordseekers/). As I work on projects, I always write down my thought process and other interesting choices made along the way. This might be fun or educational for others, but it also helps me think through problems and ideas.
 
 Obviously, there will be **spoilers** for the whole story! Even for things that did _not_ make it into the final story ;) 
 
@@ -140,8 +140,3 @@ To further communicate Harpe's _aggressiveness_, and sword magic in general, I w
 As such, I gave him a sword, but he has no clue how it works. It's soft. It disappears if you try to hit someone else. It's useless to him, but he carries it around _bluffing_ that he's a powerful Swordbearer.
 
 I thought those chapters would be interesting, action-packed, and make all the right promises. With that certainty, I finally started writing.
-
-## @TODO
-
-@TODO
-
