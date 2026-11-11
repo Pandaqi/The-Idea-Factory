@@ -171,6 +171,10 @@ En het refrein
 
 Maar dan Nederlands dus. Leon en Maria dansen terwijl ze dit zingen, hartstikke blij, super leuk.
 
+**UPDATE:** Ik hoor nu dat die oude opname het couplet eigenlijk mist en sowieso niet al te best is. Ik heb snel even couplet + refrein opnieuw opgenomen. (Ook deze keer werd ik onderbroken door mensen die aanbellen en erdoorheen praten, dus het eindigt wat abrupt.)
+
+{{< audio src="we-zijn-vrij-latere-opname.mp3" >}}
+
 ### 7. Zijn We Allemaal Gek Geworden?
 
 {{< audio src="zijn-we-allemaal-gek-geworden-couplet.mp3" >}}
