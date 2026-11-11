@@ -8,7 +8,7 @@ It currently contains only **~700 unique ideas**. By the time I'm done migrating
 
 So I decided to give them to others! As inspiration, a starting point, or your next big project when you're stuck.
 
-**Where?** The database is currently hosted for free at [Factory of Ideas (Cloudflare Pages)](factory-of-ideas.pages.dev). 
+**Where?** The database is currently hosted for free at [Factory of Ideas (Cloudflare Pages)](https://factory-of-ideas.pages.dev). 
 
 Once I create an actual UI theme (instead of AI placeholders) and finish migrating all my ideas, I will register a proper paid domain for it.
 
