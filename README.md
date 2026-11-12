@@ -4,6 +4,8 @@ The Idea Factory is a **free, public database** that contains **all my ideas**.
 
 It currently contains only **~700 unique ideas**. By the time I'm done migrating all my unused ideas (for now), it will likely contain 1000 ideas.
 
+![Current header of landing page](design/factory-of-ideas-header.png)
+
 **Why?** I have way too many ideas (at least 20 a day). I do _not_ have enough time/resources/skill to create 99% of them.
 
 So I decided to give them to others! As inspiration, a starting point, or your next big project when you're stuck.

@@ -1,5 +1,7 @@
 # To-Do (The Idea Factory)
 
+Most of the work is obviously just collecting all my (old) ideas and putting them on the website. Below are some extra wishlists about the website itself.
+
 ## Future Website Improvements
 
 * Javascript Functionality (dark mode)
@@ -15,6 +17,8 @@
 
 
 ## For Translating NL to EN
+
+_I can remove this, I think, because all ideas have been migrated right?_
 
 (MET BESTAND UPLOAD ERBIJ)
 Vertaal deze tekst van Nederlands naar Engels. Doe een droge vertaling waarbij je verder niks aanpast of verbetert of verandert. Geef het terug als platte tekst (Markdown) die ik direct terug in het bestand kan kopiëren.
